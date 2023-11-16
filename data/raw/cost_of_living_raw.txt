@@ -1,0 +1,63 @@
+<div class="sa-layout-container padding-top0">
+	
+
+					<div class="sovrn-leaderboard"></div>
+
+	
+
+
+	<div class="sa-layout">
+			<div class="sa-layout-2a-a">
+				
+
+
+    <div class="sticky-nav">
+        <h1 class="font-bold sticky-title">Cost of Living<span class="font-regular"> in </span>San Francisco, CA</h1>
+        
+
+
+    <ul class="sa-logo-banner" id="col-icontitle">
+            <li>
+                <a href="https://www.salary.com/tools/cost-of-living-calculator/san-francisco-ca" class="tab-font-size"><img src="/research/cost-of-living/Images/icon-tab-cost.svg" alt="Cost of Living" class="sa-nav-banner-logo img-opacity"><div>Cost of Living</div></a>
+            </li>
+        <li>
+            <a href="https://www.salary.com/tools/cost-of-living-calculator/san-francisco-ca-expense-details" class="tab-font-size"><img src="/research/cost-of-living/Images/icon-tab-expense.svg" alt="Expense Details" class="sa-nav-banner-logo img-opacity"><div>Expense Details</div></a>
+        </li>
+        <li>
+            <a href="https://www.salary.com/tools/cost-of-living-calculator/san-francisco-ca-compare-cities" class="tab-font-size"><img src="/research/cost-of-living/Images/icon-tab-compare.svg" alt="Compare Cities" class="sa-nav-banner-logo img-opacity"><div>Compare Cities</div></a>
+        </li>
+            <li>
+                <a href="https://www.salary.com/tools/cost-of-living-calculator/san-francisco-ca-move-to" class="tab-font-size"><img src="/research/cost-of-living/Images/icon-tab-deliver.svg" alt="Move To" class="sa-nav-banner-logo img-opacity"><div>Move To</div></a>
+            </li>
+        <li>
+            <a href="https://www.salary.com/job/searchresults?jobtitle=&amp;location=San+Francisco%2c+CA" class="tab-font-size"><img src="/research/cost-of-living/Images/icon-tab-jobopening.svg" alt="Job Openings" class="sa-nav-banner-logo img-opacity"><div>Job Openings</div></a>
+        </li>
+    </ul>
+
+    </div>
+    <div class="text-center text-size16" data-zipcode="94101">Cost of Living in San Francisco, CA is</div>
+        <div class="text-center">
+                <span class="font-bold percent-color text-size22">86.5% Higher</span>
+        </div>
+        <div class="text-center text-size16" data-metrocode="156" data-zipcode="94101">
+            than the National Average
+        </div>
+    <br />
+    <div class="font-regular">
+        Did the <span class="font-bold">Cost of Living</span> in <span class="font-bold">San Francisco, CA</span> increase in 2023? <span class="font-bold">San Francisco, CA</span> area prices were <span class="font-bold">up 4.5%</span> from a year ago. The largest increases were found in <span class="font-bold">Transportation, Food,</span> and <span class="font-bold">Housing.</span>
+    </div>
+    <div class="font-regular">
+        By using Salary.com's <span class="font-bold">Cost of Living Calculator</span>, you can make a cost of living comparison of the <span class="font-bold">Consumer Price Index</span> (<b>CPI</b>) and <span class="font-bold">salary differentials</span> of over 300+ US cities.  Let us help you make an informed decision about what it will cost to live and work in the city of your dreams!
+    </div>
+        <div class="font-regular margin-top10">
+            <b>About San Francisco, California</b>&nbsp;&nbsp;&nbsp;&nbsp;San Francisco is located on the West Coast of the United States at the north end of the San Francisco Peninsula and includes significant stretches of ....<a class="font-semibold" href="#locationdesc">More</a>
+        </div>
+    <div class="text-size15 margin-top10">
+        The federal minimum wage is $7.25 per hour while California's state law sets the minimum wage rate at $15.5 per hour in 2023.
+        Demands for a living wage that is fair to workers have resulted in numerous location-based changes to minimum wage levels.
+        View future changes in the minimum wage in your location by visiting
+        <a href="https://www.salary.com/research/minimum-wage/california" rel="nofollow">
+            Minimum Wage Values in San Francisco, CA
+            <img src="/research/cost-of-living/Images/icon-goto.svg" style="margin-left:5px;">
+        </a>
+    </div>
