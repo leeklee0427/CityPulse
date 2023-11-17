@@ -3,7 +3,7 @@ Memphis,TN,59.7
 Baltimore,MD,59.2
 Detroit,MI,47.0
 Albuquerque,NM,62.1
-St. Louis,MO,64.1
+Saint Louis,MO,64.1
 Oakland,CA,65.3
 Milwaukee,WI,61.8
 New Orleans,LA,56.0
@@ -13,7 +13,7 @@ Atlanta,GA,67.2
 Houston,TX,63.1
 San Francisco,CA,66.4
 Washington,DC,67.2
-Indianapolis (balance),IN,65.6
+Indianapolis,IN,65.6
 Portland,ME,69.4
 Las Vegas,NV,58.8
 Minneapolis,MN,68.9
@@ -28,11 +28,19 @@ New York,NY,59.2
 Sacramento,CA,61.1
 Orlando,FL,67.7
 San Antonio,TX,61.5
-Urban Honolulu CDP,HI,59.6
+Honolulu,HI,59.6
 Denver,CO,71.8
 Tampa,FL,63.6
 Austin,TX,73.0
 San Diego,CA,61.6
 Boston,MA,66.7
-Boise City,ID,66.3
+Boise,ID,66.3
 Salt Lake City,UT,73.0
+Charlotte,NC,69.6
+Raleigh,NC,67.7
+Columbus,OH,67.2
+Portland,OR,67.1
+Kansas City,MO,64.7
+Pittsburgh,PA,61.2
+San Jose,CA,65.2
+Madison,WI,66.7

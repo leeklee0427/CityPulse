@@ -3,7 +3,7 @@ Memphis,TN,75043
 Baltimore,MD,80675
 Detroit,MI,52254
 Albuquerque,NM,86268
-St. Louis,MO,76875
+Saint Louis,MO,76875
 Oakland,CA,145474
 Milwaukee,WI,68250
 New Orleans,LA,86680
@@ -13,7 +13,7 @@ Atlanta,GA,127474
 Houston,TX,95984
 San Francisco,CA,199900
 Washington,DC,148872
-Indianapolis (balance),IN,85035
+Indianapolis,IN,85035
 Portland,ME,99633
 Las Vegas,NV,96561
 Minneapolis,MN,107910
@@ -28,11 +28,19 @@ New York,NY,120216
 Sacramento,CA,104495
 Orlando,FL,95571
 San Antonio,TX,78812
-Urban Honolulu CDP,HI,118544
+Honolulu,HI,118544
 Denver,CO,125904
 Tampa,FL,116312
 Austin,TX,128571
 San Diego,CA,133099
 Boston,MA,133207
-Boise City,ID,110016
+Boise,ID,110016
 Salt Lake City,UT,112583
+Charlotte,NC,115509
+Raleigh,NC,111117
+Columbus,OH,82674
+Portland,OR,113694
+Kansas City,MO,85636
+Pittsburgh,PA,88868
+San Jose,CA,181349
+Madison,WI,100007
