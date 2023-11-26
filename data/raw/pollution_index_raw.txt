@@ -41,14 +41,14 @@
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Dhaka">Dhaka, Bangladesh</a></td>
-<td style="text-align: right">93.6</td>
-<td style="text-align: right">169.2</td>
+<td style="text-align: right">93.7</td>
+<td style="text-align: right">169.4</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Ho-Chi-Minh-City">Ho Chi Minh City, Vietnam</a></td>
 <td style="text-align: right">92.3</td>
-<td style="text-align: right">167.1</td>
+<td style="text-align: right">167.2</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -113,8 +113,8 @@
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Lagos">Lagos, Nigeria</a></td>
-<td style="text-align: right">88.9</td>
-<td style="text-align: right">158.8</td>
+<td style="text-align: right">89.0</td>
+<td style="text-align: right">159.0</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -221,14 +221,14 @@
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Bangalore">Bangalore, India</a></td>
-<td style="text-align: right">82.1</td>
-<td style="text-align: right">145.7</td>
+<td style="text-align: right">82.0</td>
+<td style="text-align: right">145.5</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Mexico-City">Mexico City, Mexico</a></td>
-<td style="text-align: right">81.3</td>
-<td style="text-align: right">146.5</td>
+<td style="text-align: right">81.2</td>
+<td style="text-align: right">146.4</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -310,12 +310,6 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Addis-Ababa">Addis Ababa, Ethiopia</a></td>
-<td style="text-align: right">77.3</td>
-<td style="text-align: right">135.9</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Bangkok">Bangkok, Thailand</a></td>
 <td style="text-align: right">77.1</td>
 <td style="text-align: right">136.7</td>
@@ -325,6 +319,12 @@
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Bali">Bali, Indonesia</a></td>
 <td style="text-align: right">77.0</td>
 <td style="text-align: right">135.6</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Addis-Ababa">Addis Ababa, Ethiopia</a></td>
+<td style="text-align: right">76.8</td>
+<td style="text-align: right">134.8</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -353,8 +353,8 @@
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Baku">Baku, Azerbaijan</a></td>
-<td style="text-align: right">74.5</td>
-<td style="text-align: right">130.7</td>
+<td style="text-align: right">74.4</td>
+<td style="text-align: right">130.4</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -407,8 +407,8 @@
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Pune">Pune, India</a></td>
-<td style="text-align: right">71.8</td>
-<td style="text-align: right">125.2</td>
+<td style="text-align: right">71.5</td>
+<td style="text-align: right">124.7</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -436,12 +436,6 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Guangzhou">Guangzhou, China</a></td>
-<td style="text-align: right">70.2</td>
-<td style="text-align: right">123.1</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Krakow-Cracow">Krakow (Cracow), Poland</a></td>
 <td style="text-align: right">70.2</td>
 <td style="text-align: right">138.2</td>
@@ -451,6 +445,12 @@
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Bogota">Bogota, Colombia</a></td>
 <td style="text-align: right">70.1</td>
 <td style="text-align: right">129.9</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Guangzhou">Guangzhou, China</a></td>
+<td style="text-align: right">69.9</td>
+<td style="text-align: right">122.5</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -497,8 +497,8 @@
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Belgrade">Belgrade, Serbia</a></td>
-<td style="text-align: right">67.2</td>
-<td style="text-align: right">120.1</td>
+<td style="text-align: right">67.4</td>
+<td style="text-align: right">120.4</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -521,8 +521,8 @@
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Los-Angeles">Los Angeles, CA, United States</a></td>
-<td style="text-align: right">66.1</td>
-<td style="text-align: right">115.2</td>
+<td style="text-align: right">66.4</td>
+<td style="text-align: right">115.7</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -532,15 +532,15 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Kuala-Lumpur">Kuala Lumpur, Malaysia</a></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Ankara">Ankara, Turkey</a></td>
 <td style="text-align: right">65.4</td>
-<td style="text-align: right">112.7</td>
+<td style="text-align: right">112.9</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Ankara">Ankara, Turkey</a></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Kuala-Lumpur">Kuala Lumpur, Malaysia</a></td>
 <td style="text-align: right">65.4</td>
-<td style="text-align: right">112.8</td>
+<td style="text-align: right">112.7</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -551,13 +551,13 @@
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Barcelona">Barcelona, Spain</a></td>
-<td style="text-align: right">64.9</td>
+<td style="text-align: right">64.8</td>
 <td style="text-align: right">113.1</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Paris">Paris, France</a></td>
-<td style="text-align: right">64.5</td>
+<td style="text-align: right">64.4</td>
 <td style="text-align: right">115.1</td>
 </tr>
 <tr style="width: 100%">
@@ -604,15 +604,15 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Salt-Lake-City">Salt Lake City, UT, United States</a></td>
-<td style="text-align: right">62.7</td>
-<td style="text-align: right">122.2</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Panama-City">Panama City, Panama</a></td>
 <td style="text-align: right">62.2</td>
 <td style="text-align: right">109.8</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Salt-Lake-City">Salt Lake City, UT, United States</a></td>
+<td style="text-align: right">62.2</td>
+<td style="text-align: right">120.6</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -688,21 +688,15 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Yerevan">Yerevan, Armenia</a></td>
-<td style="text-align: right">60.1</td>
-<td style="text-align: right">108.5</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Warsaw">Warsaw, Poland</a></td>
 <td style="text-align: right">60.1</td>
 <td style="text-align: right">112.5</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Shenzhen">Shenzhen, China</a></td>
-<td style="text-align: right">60.0</td>
-<td style="text-align: right">104.7</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Yerevan">Yerevan, Armenia</a></td>
+<td style="text-align: right">60.1</td>
+<td style="text-align: right">108.5</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -712,15 +706,15 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Navi-Mumbai">Navi Mumbai, India</a></td>
-<td style="text-align: right">59.2</td>
-<td style="text-align: right">102.6</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Shenzhen">Shenzhen, China</a></td>
+<td style="text-align: right">59.4</td>
+<td style="text-align: right">103.6</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Rome">Rome, Italy</a></td>
-<td style="text-align: right">59.1</td>
-<td style="text-align: right">109.9</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Navi-Mumbai">Navi Mumbai, India</a></td>
+<td style="text-align: right">59.2</td>
+<td style="text-align: right">102.6</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -733,6 +727,12 @@
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Iasi">Iasi, Romania</a></td>
 <td style="text-align: right">58.8</td>
 <td style="text-align: right">102.2</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Rome">Rome, Italy</a></td>
+<td style="text-align: right">58.5</td>
+<td style="text-align: right">108.7</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -760,15 +760,15 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/London">London, United Kingdom</a></td>
-<td style="text-align: right">58.1</td>
-<td style="text-align: right">104.1</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/New-York">New York, NY, United States</a></td>
+<td style="text-align: right">58.2</td>
+<td style="text-align: right">101.9</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/New-York">New York, NY, United States</a></td>
-<td style="text-align: right">57.9</td>
-<td style="text-align: right">101.4</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/London">London, United Kingdom</a></td>
+<td style="text-align: right">58.1</td>
+<td style="text-align: right">104.1</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -781,6 +781,12 @@
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Kharkiv">Kharkiv, Ukraine</a></td>
 <td style="text-align: right">57.2</td>
 <td style="text-align: right">98.0</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Phoenix">Phoenix, AZ, United States</a></td>
+<td style="text-align: right">56.8</td>
+<td style="text-align: right">98.1</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -805,12 +811,6 @@
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Timisoara">Timisoara, Romania</a></td>
 <td style="text-align: right">56.2</td>
 <td style="text-align: right">96.8</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Phoenix">Phoenix, AZ, United States</a></td>
-<td style="text-align: right">56.2</td>
-<td style="text-align: right">97.0</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -839,14 +839,14 @@
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Moscow">Moscow, Russia</a></td>
-<td style="text-align: right">55.6</td>
-<td style="text-align: right">96.3</td>
+<td style="text-align: right">55.5</td>
+<td style="text-align: right">96.2</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/San-Jose">San Jose, CA, United States</a></td>
-<td style="text-align: right">54.4</td>
-<td style="text-align: right">92.4</td>
+<td style="text-align: right">55.3</td>
+<td style="text-align: right">94.0</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -934,6 +934,12 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Goa">Goa, India</a></td>
+<td style="text-align: right">49.4</td>
+<td style="text-align: right">89.8</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Abu-Dhabi">Abu Dhabi, United Arab Emirates</a></td>
 <td style="text-align: right">49.3</td>
 <td style="text-align: right">83.0</td>
@@ -942,13 +948,19 @@
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Dubai">Dubai, United Arab Emirates</a></td>
 <td style="text-align: right">49.2</td>
-<td style="text-align: right">84.2</td>
+<td style="text-align: right">84.1</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Lviv">Lviv, Ukraine</a></td>
 <td style="text-align: right">49.1</td>
 <td style="text-align: right">82.2</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Pittsburgh">Pittsburgh, PA, United States</a></td>
+<td style="text-align: right">48.9</td>
+<td style="text-align: right">84.3</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -964,15 +976,15 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Taipei">Taipei, Taiwan</a></td>
-<td style="text-align: right">48.2</td>
-<td style="text-align: right">81.1</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Sacramento">Sacramento, CA, United States</a></td>
 <td style="text-align: right">48.0</td>
 <td style="text-align: right">81.8</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Taipei">Taipei, Taiwan</a></td>
+<td style="text-align: right">48.0</td>
+<td style="text-align: right">80.7</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -985,12 +997,6 @@
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Montevideo">Montevideo, Uruguay</a></td>
 <td style="text-align: right">47.3</td>
 <td style="text-align: right">85.5</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Pittsburgh">Pittsburgh, PA, United States</a></td>
-<td style="text-align: right">46.7</td>
-<td style="text-align: right">80.5</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -1114,15 +1120,15 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Seattle">Seattle, WA, United States</a></td>
-<td style="text-align: right">37.4</td>
-<td style="text-align: right">64.2</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Toronto">Toronto, Canada</a></td>
+<td style="text-align: right">37.5</td>
+<td style="text-align: right">62.0</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Toronto">Toronto, Canada</a></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Seattle">Seattle, WA, United States</a></td>
 <td style="text-align: right">37.4</td>
-<td style="text-align: right">61.9</td>
+<td style="text-align: right">64.2</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -1157,8 +1163,8 @@
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Frankfurt">Frankfurt, Germany</a></td>
-<td style="text-align: right">35.6</td>
-<td style="text-align: right">59.2</td>
+<td style="text-align: right">36.1</td>
+<td style="text-align: right">60.1</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -1246,33 +1252,39 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Lisbon">Lisbon, Portugal</a></td>
-<td style="text-align: right">31.9</td>
-<td style="text-align: right">52.2</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Boston">Boston, MA, United States</a></td>
-<td style="text-align: right">31.8</td>
-<td style="text-align: right">53.5</td>
+<td style="text-align: right">32.5</td>
+<td style="text-align: right">54.6</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Sydney">Sydney, Australia</a></td>
-<td style="text-align: right">31.5</td>
-<td style="text-align: right">51.2</td>
+<td style="text-align: right">31.4</td>
+<td style="text-align: right">51.1</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Lisbon">Lisbon, Portugal</a></td>
+<td style="text-align: right">31.3</td>
+<td style="text-align: right">51.1</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Curitiba">Curitiba, Brazil</a></td>
-<td style="text-align: right">31.2</td>
-<td style="text-align: right">55.5</td>
+<td style="text-align: right">31.1</td>
+<td style="text-align: right">55.7</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Edmonton">Edmonton, Canada</a></td>
 <td style="text-align: right">30.7</td>
 <td style="text-align: right">51.1</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Minneapolis">Minneapolis, MN, United States</a></td>
+<td style="text-align: right">30.6</td>
+<td style="text-align: right">52.0</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -1306,27 +1318,21 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Minneapolis">Minneapolis, MN, United States</a></td>
-<td style="text-align: right">29.8</td>
-<td style="text-align: right">50.7</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Hamburg">Hamburg, Germany</a></td>
 <td style="text-align: right">29.2</td>
 <td style="text-align: right">49.1</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Adelaide">Adelaide, Australia</a></td>
-<td style="text-align: right">28.7</td>
-<td style="text-align: right">46.2</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Edinburgh">Edinburgh, United Kingdom</a></td>
+<td style="text-align: right">29.1</td>
+<td style="text-align: right">51.1</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Edinburgh">Edinburgh, United Kingdom</a></td>
-<td style="text-align: right">27.9</td>
-<td style="text-align: right">49.5</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Adelaide">Adelaide, Australia</a></td>
+<td style="text-align: right">28.7</td>
+<td style="text-align: right">46.2</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -1372,15 +1378,9 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Halifax">Halifax, Canada</a></td>
-<td style="text-align: right">25.8</td>
-<td style="text-align: right">44.5</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Vilnius">Vilnius, Lithuania</a></td>
-<td style="text-align: right">25.7</td>
-<td style="text-align: right">41.7</td>
+<td style="text-align: right">25.6</td>
+<td style="text-align: right">41.6</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -1393,6 +1393,12 @@
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Geneva">Geneva, Switzerland</a></td>
 <td style="text-align: right">25.5</td>
 <td style="text-align: right">44.3</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Halifax">Halifax, Canada</a></td>
+<td style="text-align: right">25.4</td>
+<td style="text-align: right">43.5</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -1438,6 +1444,12 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Zurich">Zurich, Switzerland</a></td>
+<td style="text-align: right">23.0</td>
+<td style="text-align: right">37.2</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Rotterdam">Rotterdam, Netherlands</a></td>
 <td style="text-align: right">23.0</td>
 <td style="text-align: right">39.0</td>
@@ -1445,25 +1457,19 @@
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Copenhagen">Copenhagen, Denmark</a></td>
-<td style="text-align: right">22.9</td>
-<td style="text-align: right">36.1</td>
+<td style="text-align: right">22.7</td>
+<td style="text-align: right">35.8</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Oslo">Oslo, Norway</a></td>
-<td style="text-align: right">21.9</td>
-<td style="text-align: right">35.9</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Zurich">Zurich, Switzerland</a></td>
-<td style="text-align: right">21.5</td>
-<td style="text-align: right">34.8</td>
+<td style="text-align: right">21.8</td>
+<td style="text-align: right">35.8</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Victoria">Victoria, Canada</a></td>
-<td style="text-align: right">20.4</td>
+<td style="text-align: right">20.3</td>
 <td style="text-align: right">36.6</td>
 </tr>
 <tr style="width: 100%">

@@ -42,7 +42,7 @@ def fetch_data(place_code, state_code):
     split_names = filtered_df['NAME'].str.split(", ", expand=True)
     filtered_df['City'] = split_names[0].str.strip()
     filtered_df['State'] = split_names[1].str.strip()
-    filtered_df.rename(columns={'DP03_0004PE': 'Employment Rate'}, inplace=True)
+    filtered_df.rename(columns={'DP03_0004PE': 'Employment'}, inplace=True)
     #filtered_df.rename(columns={'DP03_0063E': 'Average Household Income'}, inplace=True)
     filtered_df.drop(columns=['state', 'place'], inplace=True)
     filtered_df = filtered_df.drop(columns=['NAME', 'Unnamed: 0'])

@@ -15,7 +15,7 @@ def write_csv(filename, data):
     """
     with open(filename, 'w', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
-        writer.writerow(['City', 'State', 'Recreation Total Score']) # write the header
+        writer.writerow(['City', 'State', 'Recreation']) # write the header
         writer.writerows(data) # write all rows in the list data
 
 cities_states = {'tampa':'fl', 'orlando':'fl', 'austin':'tx', 'san-antonio':'tx', 'charlotte':'nc', 

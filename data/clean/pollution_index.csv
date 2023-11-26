@@ -1,16 +1,16 @@
-City,State,Pollution Exp Index
-Los Angeles,CA,115.2
-Salt Lake City,UT,122.2
-New York,NY,101.4
+City,State,Pollution
+Los Angeles,CA,115.7
+Salt Lake City,UT,120.6
+New York,NY,101.9
+Phoenix,AZ,98.1
 Houston,TX,97.3
-Phoenix,AZ,97.0
-San Jose,CA,92.4
+San Jose,CA,94.0
 Las Vegas,NV,88.8
 San Francisco,CA,90.8
 Chicago,IL,84.9
+Pittsburgh,PA,84.3
 Washington,DC,81.9
 Sacramento,CA,81.8
-Pittsburgh,PA,80.5
 San Antonio,TX,75.8
 Atlanta,GA,75.3
 Denver,CO,77.5
@@ -27,6 +27,6 @@ Tampa,FL,56.4
 Milwaukee,WI,57.6
 Raleigh,NC,54.5
 Columbus,OH,54.0
-Boston,MA,53.5
+Boston,MA,54.6
+Minneapolis,MN,52.0
 Tucson,AZ,51.3
-Minneapolis,MN,50.7

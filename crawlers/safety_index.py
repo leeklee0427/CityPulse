@@ -16,7 +16,7 @@ def write_csv(filename, data):
     """
     with open(filename, 'w', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
-        writer.writerow(['City', 'State', 'Safety Index']) # write the header
+        writer.writerow(['City', 'State', 'Safety']) # write the header
         writer.writerows(data) # write raw data to file
 
 if __name__ == "__main__":
