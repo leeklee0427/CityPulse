@@ -1,9 +1,10 @@
 """
-File: UI.py
+File: ui.py
 Author(s): Daochen LI (daochenl), Yanting Hu (yantingh), Zheng ZHANG (zhengzh2)
-Description: Main appliction user interface
+Description: Application user interface
 """
 
+import random
 import tkinter as tk
 from tkinter import *
 from tkinter import ttk
@@ -15,22 +16,43 @@ from sklearn.ensemble import GradientBoostingRegressor
 from sklearn.model_selection import train_test_split
 
 
-def main_window():
+def launch():
     """
-    Main window with application icon and four function-oriented buttons
+    Launch main window with icon and function-oriented buttons
     """
+    # Create dataframe for use of the complete application
+    global df
+    cleaned_data_path = './data/display/cleaned_data.csv'
+    df = pd.read_csv(cleaned_data_path)
+    
     # Create the root window
     global root
     root = tk.Tk()
     root.title("CityPulse - Relocation Recommendation Application")
-    root.geometry("1000x600") # width * height
+    root.geometry("1000x650") # width * height
 
     # Frame
     centerFrame = Frame(root)
     centerFrame.pack(expand=True)
 
+    # Randomly set app icon
+    image_paths = [
+        "./icons/_0c1d7967-7c8b-45c8-825f-98f6ef43d164.jpeg",
+        "./icons/_1f30ad0d-a231-4e9a-9011-7a35c5644aa3.jpeg",
+        "./icons/_5cbb978e-8e3c-4eb9-b1ae-6fb1c715cfcc.jpeg",
+        "./icons/_9bf0596f-8504-459a-b25b-65f5d013f85a.jpeg",
+        "./icons/_32f51e8a-c3ec-4135-a517-76631f6a8cb1.jpeg",
+        "./icons/_49689280-eb9b-4495-b967-3f211140b2bb.jpeg",
+        "./icons/_b98a97c6-8659-4680-9bd0-0853f2bb8152.jpeg",
+    ]
+
+    # Randomly choose an image path
+    selected_image_path = random.choice(image_paths)
+
+    # Open the selected image and resize it
+    image = Image.open(selected_image_path).resize((350, 350))
+
     # Open the PNG image using Pillow
-    image = Image.open("./icons/_32f51e8a-c3ec-4135-a517-76631f6a8cb1.jpeg").resize((350, 350)) # width, height
     image_ = image.resize((300, 300))
 
     # Convert the Pillow image to a Tkinter-compatible photo image
@@ -43,19 +65,29 @@ def main_window():
     canvas.create_image(0, 0, anchor=tk.NW, image=photo)
     canvas.pack()
 
-    # App information
+    # Set app name label
+    app_label = tk.Label(centerFrame, text="Welcome to CityPulse!")
+    app_label.config(font=("Arial", 20))
+    app_label.pack()
+
+    # Set app info button
+    app_info_btn = ttk.Button(centerFrame, text='App Info ©', command=app_info_btn_on_click, width=10)
+    app_info_btn.pack()
+
+    # Set app description label
+    description_label = tk.Label(centerFrame, text="")
     app_description = (
-        "Welcome to CityPulse, your go-to application for informed and personalized relocation decisions.\n"
+        "Your go-to application for informed and personalized relocation decisions.\n"
         "We understand that moving to a new city is a significant life event, and we are here to make it seamless for you.\n"
     )
-    description_label = ttk.Label(centerFrame, text=app_description, wraplength=400)
+    description_label.config(text=f"{app_description}", wraplength=500)
     description_label.pack()
 
     # Set ttk button style
     style = ttk.Style()
     style.theme_use("aqua")
 
-    # Initialize buttons
+    # Initialize function buttons
     view_data_btn = ttk.Button(centerFrame, text='View Data', command=view_data_btn_on_click, width=20)
     city_summary_btn = ttk.Button(centerFrame, text='City Summary', command=city_summary_btn_on_click, width=20)
     city_comparison_btn = ttk.Button(centerFrame, text='City Comparison', command=city_comparison_btn_on_click, width=20)
@@ -66,9 +98,12 @@ def main_window():
     city_comparison_btn.pack(pady=5)
     city_ranking_btn.pack(pady=5)
 
-    app_info_btn = tk.Button(centerFrame, text='App Info', command=app_info_btn_on_click, width=10)
-    app_info_btn.configure(font=("Arial", 12))
-    app_info_btn.pack()
+
+    def quit_application():
+        root.destroy()
+    
+    quit_button = ttk.Button(root, text="Quit", command=quit_application)
+    quit_button.pack(padx=10, pady=10)
 
     # Run the Tkinter event loop
     root.mainloop()
@@ -85,21 +120,55 @@ def app_info_btn_on_click():
     # Frame
     centerFrame = Frame(app_info_window)
     centerFrame.pack(expand=True)
+
+    # Set app name label
+    app_label = tk.Label(centerFrame, text="CityPulse")
+    app_label.config(font=("Arial", 20))
+    app_label.pack()
     
-    # Set app info label
-    info_text = (
+    # Set app description label
+    app_description_text = (
+        "App Description\n"
+        "CityPulse harnesses an extensive array of data, sourcing information from reputable platforms like Salary.com, WalletHub.com, Numbeo.com, and others.\n"
+        "The pivotal metrics encompass a spectrum of factors, including 1)Average Household Income, 2)Employment Rate, 3)Cost of Living Percentage, 4)Safety Index,"
+        "5)Health Care Exp Index, 6)Pollution Index, and 7)Recreation Total Score.\n"
+        "These metrics, carefully weighted and curated, empower users to navigate relocation decisions with a wealth of informed insights.\n"
+        "By regularly refreshing the data utilized within the application, CityPulse remains dynamic and aligned with the latest trends and conditions,"
+        "offering users a consistently reliable tool for making well-informed decisions about their prospective relocations."
+        )
+    app_description_label = ttk.Label(centerFrame, text=app_description_text, wraplength=800)
+    app_description_label.pack(pady=10)
+
+    # Set metrics description label
+    metrics_description_text = (
+        "Metrics Description\n"
+        "1) Average Household Income: includes pretax cash income of the householder and all other people 15 years old and older in the household, whether or not they are related to the householder;\n"
+        "2) Employment Rate: represents the proportion of the total 16 years old and over population that is in the labor force;\n"
+        "3) Cost of Living Percentage: mainly uses the Consumer Price Index (CPI) and salary differentials of over 300+ US cities to compare costs and salary;\n"
+        "4) Safety Index: opposite to the estimation of the overall level of crime in a given city;\n"
+        "5) Health Care Exp Index: reflects the quality of a healthcare system by emphasizing the positive aspects more significantly through an exponential increase while also emphasizing the native aspects more significantly;\n"
+        "6) Pollution Exp Scale uses an exponential function to show very high numbers for very polluted cities and very low numbers for unpolluted cities;\n"
+        "7) Recreation Total Score: weighted average across Entertainment & Recreational Facilities, Costs, Quality of Parks and Weather.\n"
+    )
+    metrics_description_label = ttk.Label(centerFrame, text=metrics_description_text, wraplength=800)
+    metrics_description_label.pack(pady=10)
+
+
+    # Set copyright label
+    copyrigth_text = (
         "Course 95888 Data Focused Python G2 Team 6 Final Project\n"
         "Kaixin Tian, Louie Sun, Yanting Hu, Zheng Zhang, Daochen Li\n"
         "-----------Copyright © 2023 CMU Heinz College-----------\n"
     )
-    info_label = ttk.Label(centerFrame, text=info_text, wraplength=500)
-    info_label.pack()
+    copyright_label = ttk.Label(centerFrame, text=copyrigth_text, wraplength=500)
+    copyright_label.pack(pady=15)
 
 
 def view_data_btn_on_click():
     """
     Open window displaying tabulated data
     """
+
     # Window
     window = Toplevel(root)
     window.title("View Data")
@@ -107,13 +176,18 @@ def view_data_btn_on_click():
     # Frame
     centerFrame = Frame(window)
     centerFrame.pack(expand=True)
+
+    # Set label
+    app_label = tk.Label(centerFrame, text="View Data")
+    app_label.config(font=("Arial", 20))
+    app_label.pack()
     
     # Create a widget for displaying data
     text_widget = tk.Text(centerFrame, wrap=tk.WORD, width=115, height=50)
     text_widget.pack()
 
     #file_path = filedialog.askopenfilename(title="Select a Text File", filetypes=[("Text files", "*.txt")])
-    with open("./data/tabulated_data.txt", 'r') as file:
+    with open("./data/display/tabulated_data.txt", 'r') as file:
         content = file.read()
         text_widget.delete(1.0, tk.END)  # Clear existing content
         text_widget.insert(tk.END, content)  # Insert new content
@@ -154,6 +228,11 @@ def city_summary_btn_on_click():
     # Window
     window = Toplevel(root)
     window.title("City Summary")
+
+    # Set label
+    app_label = tk.Label(window, text="City Summary")
+    app_label.config(font=("Arial", 20))
+    app_label.pack()
 
     # Frame
     centerFrame = Frame(window)
@@ -203,6 +282,11 @@ def city_comparison_btn_on_click():
     centerFrame = Frame(window)
     centerFrame.pack(expand=True)
 
+    # Set label
+    app_label = tk.Label(centerFrame, text="City Comparison")
+    app_label.config(font=("Arial", 20))
+    app_label.pack()
+    
     # Set ttk button style
     style = ttk.Style()
     style.theme_use("aqua")
@@ -237,30 +321,33 @@ def city_ranking_btn_on_click():
     centerFrame = Frame(window)
     centerFrame.pack(expand=True)
 
+    # Set label
+    app_label = tk.Label(centerFrame, text="City Ranking")
+    app_label.config(font=("Arial", 20))
+    app_label.pack()
+    
     # label
-    description_label_1 = tk.Label(centerFrame, text="")
     description = (
-        "Ranking based on default weightings uses MinMaxScaler to find the significance of each metric/factor influencing relocation choices\n"
-        "Based on the significance weightings, the top N cities are calculated and displayed\n")
-    description_label_1.config(text=f"{description}")
-    description_label_1.pack(pady=10)
+        "Ranking based on default weightings uses MinMaxScaler to find the significance of each metric/factor influencing relocation choices;\n"
+        "Based on the significance weightings, top 15 cities are calculated and displayed.\n")
+    description_label_1 = ttk.Label(centerFrame, text=description, wraplength=500)
+    description_label_1.pack(pady=5)
     
     # button
     default_ranking_btn = tk.Button(centerFrame, text='Ranking based on default weightings', command=default_ranking_btn_on_click, width=40)
-    default_ranking_btn.pack(pady=10)
+    default_ranking_btn.pack(pady=5)
 
     # label
-    description_label2 = tk.Label(centerFrame, text="")
     description2 = (
-        "Ranking based on your preferences asks you to input preference of the metrics on a scale 1-7 (1 being the highest)\n"
-        "NOTE: no tie is allowed in the current version, only digits 1-7 are allowed and each digit must be individually included\n"
-        "Based on the preference weightings, the top N cities are calculated and displayed\n")
-    description_label2.config(text=f"{description2}")
-    description_label2.pack(pady=10)
+        "Ranking based on your preferences asks you to input preference of the metrics on a scale 1-7 (1 being the highest);\n"
+        "NOTE: no tie is allowed in the current version, only digits 1-7 are allowed and each digit must be individually included;\n"
+        "Based on the preference weightings, top 15 cities are calculated and displayed.\n")
+    description_label2 = ttk.Label(centerFrame, text=description2, wraplength=500)
+    description_label2.pack(pady=5)
 
     # button
     preference_ranking_btn = tk.Button(centerFrame, text='Ranking based on your preferences', command=preference_ranking_btn_on_click, width=40)
-    preference_ranking_btn.pack(pady=10)
+    preference_ranking_btn.pack(pady=5)
 
 
 def default_ranking_btn_on_click():
@@ -314,7 +401,12 @@ def default_ranking_btn_on_click():
     top_fifteen = df.sort_values(by='Average Score', ascending=False).head(15)
     
     window = Toplevel(root)
-    window.title("Our Top Fifteen Best Cities!")
+    window.title("Default Ranking")
+
+    # Set label
+    app_label = tk.Label(window, text="Our Top Fifteen Best Cities!")
+    app_label.config(font=("Arial", 20))
+    app_label.pack()
 
     # Intialize treeview
     city_columns = ('City', 'Average Score')
@@ -339,6 +431,8 @@ def preference_ranking_btn_on_click():
         """
         Validate that the input is a valid integer between 1 and 7
         """
+        if new_value == "":
+            return True  # Allow empty string for intermediate editing
         try:
             rank = int(new_value)
             return 1 <= rank <= 7
@@ -349,7 +443,7 @@ def preference_ranking_btn_on_click():
         ranked_metrics = {metric: int(ranks[metric].get()) for metric in metrics}
 
         # Calculate weightings based on user rankings
-        weightings = {metric: max_rank - rank + 1 for metric, rank in ranked_metrics.items()}
+        weightings = {metric: (8 - rank) for metric, rank in ranked_metrics.items()}
 
         # Normalize weightings to ensure they add up to 1
         total_weighting = sum(weightings.values())
@@ -357,10 +451,15 @@ def preference_ranking_btn_on_click():
 
         # Create new column 'Average Score'
         df['Average Score'] = (df[metrics].mul(normalized_weightings).sum(axis=1) * 100).round(2)
-        top_ten = df.sort_values(by='Average Score', ascending=False).head(10)
+        top_fifteen = df.sort_values(by='Average Score', ascending=False).head(15)
         
         window = Toplevel(root)
-        window.title("Our Top Fifteen Livable Cities!")
+        window.title("Preference Ranking")
+
+        # Set label
+        app_label = tk.Label(window, text="Our Top Fifteen Best Cities!")
+        app_label.config(font=("Arial", 20))
+        app_label.pack()
 
         # Intialize treeview
         city_columns = ('City', 'Average Score')
@@ -371,20 +470,25 @@ def preference_ranking_btn_on_click():
             treeview.column(col, anchor='center')
 
         # Insert data into the Treeview
-        for index, row in top_ten.iterrows():
+        for index, row in top_fifteen.iterrows():
             treeview.insert("", tk.END, values=(row['City'], row['Average Score']))
 
         # Arrange the Treeview
         treeview.pack(fill='both', expand=True)
 
+        # Set result label text
         result_str = "\n".join([f"{metric}: {normalized_weightings[metric]:.4f}" for metric in metrics])
-
-        result_label = ttk.Label(ranking_window, text=f"Normalized Weightings:\n{result_str}")
+        result_label.config(text=f"Weightings:\n{result_str}")
         result_label.pack(pady=10)
 
     
     ranking_window = tk.Toplevel(root)
     ranking_window.title("Preference Ranking")
+
+    # Set label
+    app_label = tk.Label(ranking_window, text="Preference Ranking")
+    app_label.config(font=("Arial", 20))
+    app_label.pack()
 
     metrics = ["Income", "Employment", "Cost", "Safety", "Medical", "Pollution", "Recreation"]
     ranks = {metric: tk.StringVar() for metric in metrics}
@@ -403,18 +507,18 @@ def preference_ranking_btn_on_click():
 
     # Submit button
     ttk.Button(ranking_window, text="Submit", command=submit_ranks).pack(pady=20)
-    max_rank = len(metrics)  # Assuming rank go from 1 to 7
 
+    # Create the result label
+    result_label = ttk.Label(ranking_window)
 
 
 if __name__ == "__main__":
-    """
-    Main method that prepares and opens application main window
-    """
     # Create dataframe for use of the complete application
     global df
-    cleaned_data_path = './data/cleaned_data.csv'
+    cleaned_data_path = './data/display/cleaned_data.csv'
     df = pd.read_csv(cleaned_data_path)
 
-    # Open application main window
-    main_window()
+    # Launch application main window
+    launch()
+
+    
