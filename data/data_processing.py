@@ -12,7 +12,10 @@ def standardize_city_name(city_name):
         return city_name.replace('-', ' ')
     return city_name
 
-if __name__ == "__main__":
+def process_data():
+
+    print("Processing data...")
+
     ### Merging data
     # dataframes for merge
     df1 = pd.read_csv('./data/clean/average_household_income.csv')
@@ -41,9 +44,9 @@ if __name__ == "__main__":
     df = pd.merge(df, df7, on=['City', 'State'], how='outer')
 
     # write df to csv
-    filename = './data/merged_data.csv'
-    print("Writing merged data to " + filename)
-    df.to_csv(filename, index=False)
+    merged_path = './data/display/merged_data.csv'
+    print("Writing merged data to " + merged_path)
+    df.to_csv(merged_path, index=False)
 
 
     ### Filling na
@@ -58,9 +61,9 @@ if __name__ == "__main__":
 
     ### Write data
     # Write cleaned data to csv
-    filename = './data/cleaned_data.csv'
-    print("Writing cleaned data to " + filename)
-    df.to_csv(filename, index=False)
+    cleaned_path = './data/display/cleaned_data.csv'
+    print("Writing cleaned data to " + cleaned_path)
+    df.to_csv(cleaned_path, index=False)
 
     # Use tabulate to display the table
     data_dict_list = df.to_dict(orient='records') # Convert DataFrame to a list of dictionaries
@@ -68,7 +71,14 @@ if __name__ == "__main__":
     print(table)
     
     # Write tabulated data to txt
-    with open('./data/tabulated_data.txt', 'wt') as fout:
+    tabulated_path = './data/display/tabulated_data.txt'
+    print("Writing cleaned data to " + tabulated_path)
+    with open(tabulated_path, 'wt') as fout:
         fout.write(table)
 
     print("Data is all set")
+
+
+if __name__ == "__main__":
+    process_data()
+
