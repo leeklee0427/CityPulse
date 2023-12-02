@@ -1,12 +1,12 @@
 City,State,Medical
 Madison,WI,135.8
 Honolulu,HI,131.6
-Boston,MA,133.4
+Boston,MA,133.3
 Minneapolis,MN,130.3
 Charlotte,NC,129.4
 Portland,OR,127.7
 Denver,CO,128.8
-Houston,TX,127.2
+Houston,TX,127.1
 Sacramento,CA,124.4
 Raleigh,NC,127.5
 Philadelphia,PA,124.9
@@ -16,17 +16,17 @@ Columbus,OH,125.3
 Austin,TX,125.2
 San Antonio,TX,124.0
 Phoenix,AZ,125.5
-San Diego,CA,124.2
+San Diego,CA,124.4
 Tampa,FL,123.6
-Seattle,WA,124.6
+Seattle,WA,124.4
 Dallas,TX,121.1
 Chicago,IL,121.6
 Washington,DC,119.5
-San Francisco,CA,118.0
+San Francisco,CA,118.2
 Miami,FL,120.2
-Orlando,FL,115.5
 San Jose,CA,114.1
 New York,NY,116.6
-Los Angeles,CA,113.4
+Orlando,FL,114.4
 Tucson,AZ,110.5
+Los Angeles,CA,112.8
 Las Vegas,NV,97.7
