@@ -23,8 +23,8 @@
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Johannesburg">Johannesburg, South Africa</a></td>
-<td style="text-align: right">80.9</td>
-<td style="text-align: right">19.1</td>
+<td style="text-align: right">80.8</td>
+<td style="text-align: right">19.2</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -101,8 +101,8 @@
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Guayaquil">Guayaquil, Ecuador</a></td>
-<td style="text-align: right">74.1</td>
-<td style="text-align: right">25.9</td>
+<td style="text-align: right">74.0</td>
+<td style="text-align: right">26.0</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -130,13 +130,13 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Porto-Alegre">Porto Alegre, Brazil</a></td>
-<td style="text-align: right">71.2</td>
-<td style="text-align: right">28.8</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Cali">Cali, Colombia</a></td>
+<td style="text-align: right">71.1</td>
+<td style="text-align: right">28.9</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Cali">Cali, Colombia</a></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Porto-Alegre">Porto Alegre, Brazil</a></td>
 <td style="text-align: right">71.1</td>
 <td style="text-align: right">28.9</td>
 </tr>
@@ -202,13 +202,13 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Windhoek">Windhoek, Namibia</a></td>
-<td style="text-align: right">67.6</td>
-<td style="text-align: right">32.4</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Santo-Domingo">Santo Domingo, Dominican Republic</a></td>
+<td style="text-align: right">67.7</td>
+<td style="text-align: right">32.3</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Santo-Domingo">Santo Domingo, Dominican Republic</a></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Windhoek">Windhoek, Namibia</a></td>
 <td style="text-align: right">67.6</td>
 <td style="text-align: right">32.4</td>
 </tr>
@@ -239,8 +239,8 @@
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Chicago">Chicago, IL, United States</a></td>
-<td style="text-align: right">65.9</td>
-<td style="text-align: right">34.1</td>
+<td style="text-align: right">66.0</td>
+<td style="text-align: right">34.0</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -257,14 +257,8 @@
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Manila">Manila, Philippines</a></td>
-<td style="text-align: right">64.8</td>
-<td style="text-align: right">35.2</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Coventry">Coventry, United Kingdom</a></td>
-<td style="text-align: right">64.5</td>
-<td style="text-align: right">35.5</td>
+<td style="text-align: right">64.9</td>
+<td style="text-align: right">35.1</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -274,21 +268,27 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Coventry">Coventry, United Kingdom</a></td>
+<td style="text-align: right">64.2</td>
+<td style="text-align: right">35.8</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Surrey">Surrey, Canada</a></td>
-<td style="text-align: right">63.8</td>
-<td style="text-align: right">36.2</td>
+<td style="text-align: right">63.9</td>
+<td style="text-align: right">36.1</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Atlanta">Atlanta, GA, United States</a></td>
+<td style="text-align: right">63.5</td>
+<td style="text-align: right">36.5</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Buenos-Aires">Buenos Aires, Argentina</a></td>
 <td style="text-align: right">63.4</td>
 <td style="text-align: right">36.6</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Atlanta">Atlanta, GA, United States</a></td>
-<td style="text-align: right">63.3</td>
-<td style="text-align: right">36.7</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -310,6 +310,12 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Cairns">Cairns, Australia</a></td>
+<td style="text-align: right">63.0</td>
+<td style="text-align: right">37.0</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Quito">Quito, Ecuador</a></td>
 <td style="text-align: right">62.9</td>
 <td style="text-align: right">37.1</td>
@@ -319,12 +325,6 @@
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Red-Deer">Red Deer, Canada</a></td>
 <td style="text-align: right">62.9</td>
 <td style="text-align: right">37.1</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Cairns">Cairns, Australia</a></td>
-<td style="text-align: right">62.8</td>
-<td style="text-align: right">37.2</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -340,12 +340,6 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Kuala-Lumpur">Kuala Lumpur, Malaysia</a></td>
-<td style="text-align: right">62.4</td>
-<td style="text-align: right">37.6</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Guadalajara">Guadalajara, Mexico</a></td>
 <td style="text-align: right">62.3</td>
 <td style="text-align: right">37.7</td>
@@ -353,6 +347,12 @@
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Naples">Naples, Italy</a></td>
+<td style="text-align: right">62.2</td>
+<td style="text-align: right">37.8</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Kuala-Lumpur">Kuala Lumpur, Malaysia</a></td>
 <td style="text-align: right">62.2</td>
 <td style="text-align: right">37.8</td>
 </tr>
@@ -395,8 +395,8 @@
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Townsville">Townsville, Australia</a></td>
-<td style="text-align: right">61.3</td>
-<td style="text-align: right">38.7</td>
+<td style="text-align: right">61.5</td>
+<td style="text-align: right">38.5</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -425,8 +425,8 @@
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Liege">Liege, Belgium</a></td>
-<td style="text-align: right">60.3</td>
-<td style="text-align: right">39.7</td>
+<td style="text-align: right">60.5</td>
+<td style="text-align: right">39.5</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -448,15 +448,15 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Oshawa">Oshawa, Canada</a></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Grenoble">Grenoble, France</a></td>
 <td style="text-align: right">59.4</td>
 <td style="text-align: right">40.6</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Grenoble">Grenoble, France</a></td>
-<td style="text-align: right">59.4</td>
-<td style="text-align: right">40.6</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Oshawa">Oshawa, Canada</a></td>
+<td style="text-align: right">59.3</td>
+<td style="text-align: right">40.7</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -508,6 +508,12 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Portland">Portland, OR, United States</a></td>
+<td style="text-align: right">56.5</td>
+<td style="text-align: right">43.5</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Tehran">Tehran, Iran</a></td>
 <td style="text-align: right">56.4</td>
 <td style="text-align: right">43.6</td>
@@ -520,12 +526,6 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Portland">Portland, OR, United States</a></td>
-<td style="text-align: right">56.4</td>
-<td style="text-align: right">43.6</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Athens">Athens, Greece</a></td>
 <td style="text-align: right">56.1</td>
 <td style="text-align: right">43.9</td>
@@ -533,14 +533,20 @@
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Montevideo">Montevideo, Uruguay</a></td>
-<td style="text-align: right">56.0</td>
-<td style="text-align: right">44.0</td>
+<td style="text-align: right">56.1</td>
+<td style="text-align: right">43.9</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Karachi">Karachi, Pakistan</a></td>
 <td style="text-align: right">56.0</td>
 <td style="text-align: right">44.0</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Las-Vegas">Las Vegas, NV, United States</a></td>
+<td style="text-align: right">55.9</td>
+<td style="text-align: right">44.1</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -551,14 +557,8 @@
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Minneapolis">Minneapolis, MN, United States</a></td>
-<td style="text-align: right">55.7</td>
-<td style="text-align: right">44.3</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Las-Vegas">Las Vegas, NV, United States</a></td>
-<td style="text-align: right">55.6</td>
-<td style="text-align: right">44.4</td>
+<td style="text-align: right">55.8</td>
+<td style="text-align: right">44.2</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -580,21 +580,33 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Medellin">Medellin, Colombia</a></td>
+<td style="text-align: right">55.4</td>
+<td style="text-align: right">44.6</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Phnom-Penh">Phnom Penh, Cambodia</a></td>
 <td style="text-align: right">55.3</td>
 <td style="text-align: right">44.7</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Medellin">Medellin, Colombia</a></td>
-<td style="text-align: right">55.2</td>
-<td style="text-align: right">44.8</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Manchester">Manchester, United Kingdom</a></td>
 <td style="text-align: right">55.1</td>
 <td style="text-align: right">44.9</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Hamilton">Hamilton, Canada</a></td>
+<td style="text-align: right">54.9</td>
+<td style="text-align: right">45.1</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Lyon">Lyon, France</a></td>
+<td style="text-align: right">54.9</td>
+<td style="text-align: right">45.1</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -610,31 +622,19 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Lyon">Lyon, France</a></td>
-<td style="text-align: right">54.9</td>
-<td style="text-align: right">45.1</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Hamilton">Hamilton, Canada</a></td>
-<td style="text-align: right">54.8</td>
-<td style="text-align: right">45.2</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Brussels">Brussels, Belgium</a></td>
 <td style="text-align: right">54.6</td>
 <td style="text-align: right">45.4</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Seattle">Seattle, WA, United States</a></td>
-<td style="text-align: right">54.3</td>
-<td style="text-align: right">45.7</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Casablanca">Casablanca, Morocco</a></td>
+<td style="text-align: right">54.4</td>
+<td style="text-align: right">45.6</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Casablanca">Casablanca, Morocco</a></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Seattle">Seattle, WA, United States</a></td>
 <td style="text-align: right">54.3</td>
 <td style="text-align: right">45.7</td>
 </tr>
@@ -647,8 +647,8 @@
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/London">London, United Kingdom</a></td>
-<td style="text-align: right">54.2</td>
-<td style="text-align: right">45.8</td>
+<td style="text-align: right">54.3</td>
+<td style="text-align: right">45.7</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -658,13 +658,13 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Thessaloniki">Thessaloniki, Greece</a></td>
-<td style="text-align: right">53.9</td>
-<td style="text-align: right">46.1</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Odesa">Odessa (Odesa), Ukraine</a></td>
+<td style="text-align: right">54.1</td>
+<td style="text-align: right">45.9</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Odesa">Odessa (Odesa), Ukraine</a></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Thessaloniki">Thessaloniki, Greece</a></td>
 <td style="text-align: right">53.9</td>
 <td style="text-align: right">46.1</td>
 </tr>
@@ -701,8 +701,8 @@
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Dublin">Dublin, Ireland</a></td>
-<td style="text-align: right">52.9</td>
-<td style="text-align: right">47.1</td>
+<td style="text-align: right">53.0</td>
+<td style="text-align: right">47.0</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -742,6 +742,12 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Algiers">Algiers, Algeria</a></td>
+<td style="text-align: right">52.2</td>
+<td style="text-align: right">47.8</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Johor-Bahru">Johor Bahru, Malaysia</a></td>
 <td style="text-align: right">52.2</td>
 <td style="text-align: right">47.8</td>
@@ -754,15 +760,9 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Algiers">Algiers, Algeria</a></td>
-<td style="text-align: right">51.8</td>
-<td style="text-align: right">48.2</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Lille">Lille, France</a></td>
-<td style="text-align: right">51.8</td>
-<td style="text-align: right">48.2</td>
+<td style="text-align: right">51.9</td>
+<td style="text-align: right">48.1</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -778,9 +778,21 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Constanta">Constanta, Romania</a></td>
+<td style="text-align: right">51.5</td>
+<td style="text-align: right">48.5</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Rennes">Rennes, France</a></td>
 <td style="text-align: right">51.5</td>
 <td style="text-align: right">48.5</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Turin">Turin, Italy</a></td>
+<td style="text-align: right">51.3</td>
+<td style="text-align: right">48.7</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -796,39 +808,21 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Turin">Turin, Italy</a></td>
-<td style="text-align: right">51.2</td>
-<td style="text-align: right">48.8</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Constanta">Constanta, Romania</a></td>
-<td style="text-align: right">51.2</td>
-<td style="text-align: right">48.8</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Barcelona">Barcelona, Spain</a></td>
-<td style="text-align: right">51.1</td>
-<td style="text-align: right">48.9</td>
+<td style="text-align: right">51.2</td>
+<td style="text-align: right">48.8</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Rome">Rome, Italy</a></td>
-<td style="text-align: right">51.1</td>
-<td style="text-align: right">48.9</td>
+<td style="text-align: right">50.9</td>
+<td style="text-align: right">49.1</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Toulouse">Toulouse, France</a></td>
 <td style="text-align: right">50.9</td>
 <td style="text-align: right">49.1</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Nottingham">Nottingham, United Kingdom</a></td>
-<td style="text-align: right">50.8</td>
-<td style="text-align: right">49.2</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -856,6 +850,12 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Nottingham">Nottingham, United Kingdom</a></td>
+<td style="text-align: right">50.3</td>
+<td style="text-align: right">49.7</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/New-York">New York, NY, United States</a></td>
 <td style="text-align: right">50.0</td>
 <td style="text-align: right">50.0</td>
@@ -869,20 +869,14 @@
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Sacramento">Sacramento, CA, United States</a></td>
-<td style="text-align: right">49.9</td>
-<td style="text-align: right">50.1</td>
+<td style="text-align: right">49.7</td>
+<td style="text-align: right">50.3</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Auckland">Auckland, New Zealand</a></td>
 <td style="text-align: right">49.7</td>
 <td style="text-align: right">50.3</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Panama-City">Panama City, Panama</a></td>
-<td style="text-align: right">49.4</td>
-<td style="text-align: right">50.6</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -898,15 +892,15 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Indore">Indore, India</a></td>
-<td style="text-align: right">49.1</td>
-<td style="text-align: right">50.9</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Bordeaux">Bordeaux, France</a></td>
+<td style="text-align: right">49.2</td>
+<td style="text-align: right">50.8</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Bordeaux">Bordeaux, France</a></td>
-<td style="text-align: right">49.0</td>
-<td style="text-align: right">51.0</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Indore">Indore, India</a></td>
+<td style="text-align: right">49.1</td>
+<td style="text-align: right">50.9</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -917,6 +911,12 @@
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Wollongong">Wollongong, Australia</a></td>
+<td style="text-align: right">49.0</td>
+<td style="text-align: right">51.0</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Panama-City">Panama City, Panama</a></td>
 <td style="text-align: right">49.0</td>
 <td style="text-align: right">51.0</td>
 </tr>
@@ -1024,12 +1024,6 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Tampa">Tampa, FL, United States</a></td>
-<td style="text-align: right">46.2</td>
-<td style="text-align: right">53.8</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Palermo">Palermo, Italy</a></td>
 <td style="text-align: right">46.1</td>
 <td style="text-align: right">53.9</td>
@@ -1039,6 +1033,12 @@
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Kolkata">Kolkata, India</a></td>
 <td style="text-align: right">46.1</td>
 <td style="text-align: right">53.9</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Tampa">Tampa, FL, United States</a></td>
+<td style="text-align: right">46.0</td>
+<td style="text-align: right">54.0</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -1084,13 +1084,13 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Kiev">Kiev (Kyiv), Ukraine</a></td>
-<td style="text-align: right">45.2</td>
-<td style="text-align: right">54.8</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Glasgow">Glasgow, United Kingdom</a></td>
+<td style="text-align: right">45.1</td>
+<td style="text-align: right">54.9</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Glasgow">Glasgow, United Kingdom</a></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Kiev">Kiev (Kyiv), Ukraine</a></td>
 <td style="text-align: right">45.1</td>
 <td style="text-align: right">54.9</td>
 </tr>
@@ -1109,8 +1109,8 @@
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Sarajevo">Sarajevo, Bosnia And Herzegovina</a></td>
-<td style="text-align: right">44.9</td>
-<td style="text-align: right">55.1</td>
+<td style="text-align: right">44.6</td>
+<td style="text-align: right">55.4</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -1138,9 +1138,15 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Chisinau">Chisinau, Moldova</a></td>
+<td style="text-align: right">43.8</td>
+<td style="text-align: right">56.2</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Mississauga">Mississauga, Canada</a></td>
-<td style="text-align: right">43.3</td>
-<td style="text-align: right">56.7</td>
+<td style="text-align: right">43.4</td>
+<td style="text-align: right">56.6</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -1153,12 +1159,6 @@
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Vaughan">Vaughan, Canada</a></td>
 <td style="text-align: right">43.2</td>
 <td style="text-align: right">56.8</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Chisinau">Chisinau, Moldova</a></td>
-<td style="text-align: right">43.0</td>
-<td style="text-align: right">57.0</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -1210,13 +1210,13 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Strasbourg">Strasbourg, France</a></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Bristol">Bristol, United Kingdom</a></td>
 <td style="text-align: right">41.8</td>
 <td style="text-align: right">58.2</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Bristol">Bristol, United Kingdom</a></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Strasbourg">Strasbourg, France</a></td>
 <td style="text-align: right">41.8</td>
 <td style="text-align: right">58.2</td>
 </tr>
@@ -1225,12 +1225,6 @@
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Vancouver">Vancouver, Canada</a></td>
 <td style="text-align: right">41.7</td>
 <td style="text-align: right">58.3</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Tirana">Tirana, Albania</a></td>
-<td style="text-align: right">41.5</td>
-<td style="text-align: right">58.5</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -1249,6 +1243,12 @@
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Sofia">Sofia, Bulgaria</a></td>
 <td style="text-align: right">41.4</td>
 <td style="text-align: right">58.6</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Tirana">Tirana, Albania</a></td>
+<td style="text-align: right">41.3</td>
+<td style="text-align: right">58.7</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -1301,20 +1301,20 @@
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Novi-Sad">Novi Sad, Serbia</a></td>
-<td style="text-align: right">40.5</td>
-<td style="text-align: right">59.5</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Bangkok">Bangkok, Thailand</a></td>
-<td style="text-align: right">40.2</td>
-<td style="text-align: right">59.8</td>
+<td style="text-align: right">40.3</td>
+<td style="text-align: right">59.7</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Lodz">Lodz, Poland</a></td>
 <td style="text-align: right">40.2</td>
 <td style="text-align: right">59.8</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Bangkok">Bangkok, Thailand</a></td>
+<td style="text-align: right">40.1</td>
+<td style="text-align: right">59.9</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -1343,8 +1343,8 @@
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Ankara">Ankara, Turkey</a></td>
-<td style="text-align: right">39.2</td>
-<td style="text-align: right">60.8</td>
+<td style="text-align: right">39.3</td>
+<td style="text-align: right">60.7</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -1397,8 +1397,8 @@
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Calgary">Calgary, Canada</a></td>
-<td style="text-align: right">38.3</td>
-<td style="text-align: right">61.7</td>
+<td style="text-align: right">38.2</td>
+<td style="text-align: right">61.8</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -1462,6 +1462,12 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Varna">Varna, Bulgaria</a></td>
+<td style="text-align: right">36.3</td>
+<td style="text-align: right">63.7</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Hanoi">Hanoi, Vietnam</a></td>
 <td style="text-align: right">36.3</td>
 <td style="text-align: right">63.7</td>
@@ -1504,15 +1510,15 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Guelph">Guelph, Canada</a></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Budapest">Budapest, Hungary</a></td>
 <td style="text-align: right">34.5</td>
 <td style="text-align: right">65.5</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Budapest">Budapest, Hungary</a></td>
-<td style="text-align: right">34.5</td>
-<td style="text-align: right">65.5</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Guelph">Guelph, Canada</a></td>
+<td style="text-align: right">34.4</td>
+<td style="text-align: right">65.6</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -1522,15 +1528,15 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Hobart">Hobart, Australia</a></td>
-<td style="text-align: right">34.1</td>
-<td style="text-align: right">65.9</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Iasi">Iasi, Romania</a></td>
+<td style="text-align: right">34.2</td>
+<td style="text-align: right">65.8</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Iasi">Iasi, Romania</a></td>
-<td style="text-align: right">34.0</td>
-<td style="text-align: right">66.0</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Hobart">Hobart, Australia</a></td>
+<td style="text-align: right">34.1</td>
+<td style="text-align: right">65.9</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -1553,8 +1559,8 @@
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Salt-Lake-City">Salt Lake City, UT, United States</a></td>
-<td style="text-align: right">33.7</td>
-<td style="text-align: right">66.3</td>
+<td style="text-align: right">33.8</td>
+<td style="text-align: right">66.2</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -1648,6 +1654,12 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Alicante">Alicante, Spain</a></td>
+<td style="text-align: right">31.2</td>
+<td style="text-align: right">68.8</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Galway">Galway, Ireland</a></td>
 <td style="text-align: right">31.1</td>
 <td style="text-align: right">68.9</td>
@@ -1660,27 +1672,15 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Ottawa">Ottawa, Canada</a></td>
+<td style="text-align: right">30.9</td>
+<td style="text-align: right">69.1</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Edinburgh">Edinburgh, United Kingdom</a></td>
 <td style="text-align: right">30.8</td>
 <td style="text-align: right">69.2</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Alicante">Alicante, Spain</a></td>
-<td style="text-align: right">30.8</td>
-<td style="text-align: right">69.2</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Ottawa">Ottawa, Canada</a></td>
-<td style="text-align: right">30.7</td>
-<td style="text-align: right">69.3</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Guangzhou">Guangzhou, China</a></td>
-<td style="text-align: right">30.7</td>
-<td style="text-align: right">69.3</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -1696,9 +1696,15 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Bursa">Bursa, Turkey</a></td>
-<td style="text-align: right">30.2</td>
-<td style="text-align: right">69.8</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Valencia">Valencia, Spain</a></td>
+<td style="text-align: right">30.5</td>
+<td style="text-align: right">69.5</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Guangzhou">Guangzhou, China</a></td>
+<td style="text-align: right">30.4</td>
+<td style="text-align: right">69.6</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -1720,21 +1726,27 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Valencia">Valencia, Spain</a></td>
-<td style="text-align: right">29.8</td>
-<td style="text-align: right">70.2</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Burlington-Canada">Burlington, Canada</a></td>
 <td style="text-align: right">29.6</td>
 <td style="text-align: right">70.4</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Bursa">Bursa, Turkey</a></td>
+<td style="text-align: right">29.6</td>
+<td style="text-align: right">70.4</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Malaga">Malaga, Spain</a></td>
-<td style="text-align: right">29.4</td>
-<td style="text-align: right">70.6</td>
+<td style="text-align: right">29.3</td>
+<td style="text-align: right">70.7</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Vienna">Vienna, Austria</a></td>
+<td style="text-align: right">29.1</td>
+<td style="text-align: right">70.9</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -1744,27 +1756,21 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Vienna">Vienna, Austria</a></td>
-<td style="text-align: right">29.0</td>
-<td style="text-align: right">71.0</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Luxembourg">Luxembourg, Luxembourg</a></td>
 <td style="text-align: right">28.7</td>
 <td style="text-align: right">71.3</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Nizhny-Novgorod-Russia">Nizhny Novgorod, Russia</a></td>
-<td style="text-align: right">28.7</td>
-<td style="text-align: right">71.3</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Lisbon">Lisbon, Portugal</a></td>
+<td style="text-align: right">28.6</td>
+<td style="text-align: right">71.4</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Lisbon">Lisbon, Portugal</a></td>
-<td style="text-align: right">28.5</td>
-<td style="text-align: right">71.5</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Nizhny-Novgorod-Russia">Nizhny Novgorod, Russia</a></td>
+<td style="text-align: right">28.4</td>
+<td style="text-align: right">71.6</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -1780,15 +1786,21 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Rotterdam">Rotterdam, Netherlands</a></td>
+<td style="text-align: right">27.9</td>
+<td style="text-align: right">72.1</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Canberra">Canberra, Australia</a></td>
 <td style="text-align: right">27.9</td>
 <td style="text-align: right">72.1</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Rotterdam">Rotterdam, Netherlands</a></td>
-<td style="text-align: right">27.8</td>
-<td style="text-align: right">72.2</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Wroclaw">Wroclaw, Poland</a></td>
+<td style="text-align: right">27.5</td>
+<td style="text-align: right">72.5</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -1799,20 +1811,14 @@
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Davao">Davao, Philippines</a></td>
-<td style="text-align: right">27.5</td>
-<td style="text-align: right">72.5</td>
+<td style="text-align: right">27.4</td>
+<td style="text-align: right">72.6</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Shenzhen">Shenzhen, China</a></td>
 <td style="text-align: right">27.4</td>
 <td style="text-align: right">72.6</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Wroclaw">Wroclaw, Poland</a></td>
-<td style="text-align: right">27.3</td>
-<td style="text-align: right">72.7</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -1829,8 +1835,20 @@
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Madrid">Madrid, Spain</a></td>
-<td style="text-align: right">27.1</td>
-<td style="text-align: right">72.9</td>
+<td style="text-align: right">27.0</td>
+<td style="text-align: right">73.0</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Trieste">Trieste, Italy</a></td>
+<td style="text-align: right">27.0</td>
+<td style="text-align: right">73.0</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Graz">Graz, Austria</a></td>
+<td style="text-align: right">26.9</td>
+<td style="text-align: right">73.1</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -1846,19 +1864,7 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Trieste">Trieste, Italy</a></td>
-<td style="text-align: right">26.5</td>
-<td style="text-align: right">73.5</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Copenhagen">Copenhagen, Denmark</a></td>
-<td style="text-align: right">26.3</td>
-<td style="text-align: right">73.7</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Brno">Brno, Czech Republic</a></td>
 <td style="text-align: right">26.3</td>
 <td style="text-align: right">73.7</td>
 </tr>
@@ -1870,7 +1876,7 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Graz">Graz, Austria</a></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Brno">Brno, Czech Republic</a></td>
 <td style="text-align: right">26.2</td>
 <td style="text-align: right">73.8</td>
 </tr>
@@ -1894,15 +1900,15 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Tbilisi">Tbilisi, Georgia</a></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Mangalore">Mangalore, India</a></td>
 <td style="text-align: right">25.9</td>
 <td style="text-align: right">74.1</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Mangalore">Mangalore, India</a></td>
-<td style="text-align: right">25.9</td>
-<td style="text-align: right">74.1</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Tbilisi">Tbilisi, Georgia</a></td>
+<td style="text-align: right">25.8</td>
+<td style="text-align: right">74.2</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -1960,21 +1966,21 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Tokyo">Tokyo, Japan</a></td>
-<td style="text-align: right">24.2</td>
-<td style="text-align: right">75.8</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Reykjavik">Reykjavik, Iceland</a></td>
+<td style="text-align: right">24.4</td>
+<td style="text-align: right">75.6</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Reykjavik">Reykjavik, Iceland</a></td>
-<td style="text-align: right">24.1</td>
-<td style="text-align: right">75.9</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Tokyo">Tokyo, Japan</a></td>
+<td style="text-align: right">24.3</td>
+<td style="text-align: right">75.7</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Singapore">Singapore, Singapore</a></td>
-<td style="text-align: right">23.7</td>
-<td style="text-align: right">76.3</td>
+<td style="text-align: right">23.6</td>
+<td style="text-align: right">76.4</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -1991,8 +1997,8 @@
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Tallinn">Tallinn, Estonia</a></td>
-<td style="text-align: right">23.1</td>
-<td style="text-align: right">76.9</td>
+<td style="text-align: right">23.0</td>
+<td style="text-align: right">77.0</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -2003,8 +2009,8 @@
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Eindhoven">Eindhoven, Netherlands</a></td>
-<td style="text-align: right">22.1</td>
-<td style="text-align: right">77.9</td>
+<td style="text-align: right">22.0</td>
+<td style="text-align: right">78.0</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -2026,6 +2032,12 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Hong-Kong">Hong Kong, Hong Kong (China)</a></td>
+<td style="text-align: right">21.9</td>
+<td style="text-align: right">78.1</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Zagreb">Zagreb, Croatia</a></td>
 <td style="text-align: right">21.9</td>
 <td style="text-align: right">78.1</td>
@@ -2033,14 +2045,8 @@
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Zurich">Zurich, Switzerland</a></td>
-<td style="text-align: right">21.9</td>
-<td style="text-align: right">78.1</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Hong-Kong">Hong Kong, Hong Kong (China)</a></td>
-<td style="text-align: right">21.9</td>
-<td style="text-align: right">78.1</td>
+<td style="text-align: right">21.8</td>
+<td style="text-align: right">78.2</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -2074,13 +2080,13 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Muscat">Muscat, Oman</a></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Bern">Bern, Switzerland</a></td>
 <td style="text-align: right">19.8</td>
 <td style="text-align: right">80.2</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Bern">Bern, Switzerland</a></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Muscat">Muscat, Oman</a></td>
 <td style="text-align: right">19.8</td>
 <td style="text-align: right">80.2</td>
 </tr>
@@ -2104,21 +2110,21 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Abu-Dhabi">Abu Dhabi, United Arab Emirates</a></td>
-<td style="text-align: right">12.4</td>
-<td style="text-align: right">87.6</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Ras-Al-khaimah">Ras al-Khaimah, United Arab Emirates</a></td>
+<td style="text-align: right">14.1</td>
+<td style="text-align: right">85.9</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Ajman">Ajman, United Arab Emirates</a></td>
-<td style="text-align: right">11.2</td>
-<td style="text-align: right">88.8</td>
+<td style="text-align: right">13.4</td>
+<td style="text-align: right">86.6</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Ras-Al-khaimah">Ras al-Khaimah, United Arab Emirates</a></td>
-<td style="text-align: right">11.0</td>
-<td style="text-align: right">89.0</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/crime/in/Abu-Dhabi">Abu Dhabi, United Arab Emirates</a></td>
+<td style="text-align: right">12.7</td>
+<td style="text-align: right">87.3</td>
 </tr>
 </tbody>
 </table>

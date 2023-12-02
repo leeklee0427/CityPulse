@@ -19,8 +19,11 @@ def write_csv(filename, data):
         writer.writerow(['City', 'State', 'Safety']) # write the header
         writer.writerows(data) # write raw data to file
 
-if __name__ == "__main__":
 
+def crawl_safety_index():
+    
+    print("Crawling safety index...")
+    
     # Define the URL of the website you want to scrape
     url = 'https://www.numbeo.com/crime/rankings_current.jsp'
 
@@ -33,7 +36,7 @@ if __name__ == "__main__":
         soup = BeautifulSoup(response.content, 'html.parser') # parse the HTML content of the page using BeautifulSoup
         
         table_list = soup.findAll('table') # get a list of all table tags
-        print('there are', len(table_list), 'tables')
+        #print('there are', len(table_list), 'tables')
         
         table = table_list[1] # get second table with the data
 
@@ -41,10 +44,10 @@ if __name__ == "__main__":
             file.write(str(table)) # write the string to the file
 
         rows = table.findAll('tr')
-        print('there are', len(rows), 'table rows')
+        #print('there are', len(rows), 'table rows')
 
         headers = rows[0].findAll('th') # row 0 contains column headers
-        print('there are', len(headers), 'columns')
+        #print('there are', len(headers), 'columns')
 
         # print headers
         # for h in headers:
@@ -86,4 +89,7 @@ if __name__ == "__main__":
     else:
         print("Failed to retrieve the web page. Status code: ", response.status_code)
 
-        
+
+if __name__ == "__main__":
+    crawl_safety_index()
+

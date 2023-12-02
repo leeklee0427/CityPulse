@@ -19,7 +19,9 @@ def write_csv(filename, data):
         writer.writerow(['City', 'State', 'Medical']) # write the header
         writer.writerows(data) # write all rows in the list data
 
-if __name__ == "__main__":
+def crawl_health():
+
+    print("Crawling health...")
     
     # Define the URL of the website you want to scrape
     url = 'https://www.numbeo.com/health-care/rankings_current.jsp'
@@ -33,7 +35,7 @@ if __name__ == "__main__":
         soup = BeautifulSoup(response.content, 'html.parser') # parse the HTML content of the page using BeautifulSoup
         
         table_list = soup.findAll('table') # get a list of all table tags
-        print('there are', len(table_list), 'tables')
+        #print('there are', len(table_list), 'tables')
         
         table = table_list[1] # get second table with the data
 
@@ -41,10 +43,10 @@ if __name__ == "__main__":
             file.write(str(table)) # write raw data to file
 
         rows = table.findAll('tr')
-        print('there are', len(rows), 'table rows')
+        #print('there are', len(rows), 'table rows')
 
         headers = rows[0].findAll('th') # row 0 contains column headers
-        print('there are', len(headers), 'columns')
+        #print('there are', len(headers), 'columns')
 
         # print headers
         # for h in headers:
@@ -85,4 +87,8 @@ if __name__ == "__main__":
     
     else:
         print("Failed to retrieve the web page. Status code: ", response.status_code)
+
+
+if __name__ == "__main__":
+    crawl_health()
 
