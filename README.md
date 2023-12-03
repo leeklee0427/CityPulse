@@ -8,10 +8,10 @@ Zheng Zhang     zhengzh2@andrew.cmu.edu
 Daochen Li      daochenl@andrew.cmu.edu  
 
 ### Application Information
-    CityPulse harnesses an extensive array of data, sourcing information from reputable platforms like Salary.com, WalletHub.com, Numbeo.com, and others.
-    The pivotal metrics encompass a spectrum of factors, including 1.Average Household Income, 2.Employment Rate, 3.Cost of Living Percentage, 4.Safety Index, 5.Health Care Exp Index, 6.Pollution Index, and 7.Recreation Total Score.
-    These metrics, carefully weighted and curated, empower users to navigate relocation decisions with a wealth of informed insights.
-    By regularly refreshing the data utilized within the application, CityPulse remains dynamic and aligned with the latest trends and conditions, offering users a consistently reliable tool for making well-informed decisions about their prospective relocations.
+CityPulse harnesses an extensive array of data, sourcing information from reputable platforms like Salary.com, WalletHub.com, Numbeo.com, and others.
+The pivotal metrics encompass a spectrum of factors, including 1.Average Household Income, 2.Employment Rate, 3.Cost of Living Percentage, 4.Safety Index, 5.Health Care Exp Index, 6.Pollution Index, and 7.Recreation Total Score.
+These metrics, carefully weighted and curated, empower users to navigate relocation decisions with a wealth of informed insights.
+By regularly refreshing the data utilized within the application, CityPulse remains dynamic and aligned with the latest trends and conditions, offering users a consistently reliable tool for making well-informed decisions about their prospective relocations.
 
 ### Relocation Recommendation Metrics:  
 1. Income: Average Household Income
