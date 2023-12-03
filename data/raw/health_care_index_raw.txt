@@ -40,15 +40,15 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Madrid">Madrid, Spain</a></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Valencia">Valencia, Spain</a></td>
 <td style="text-align: right">79.8</td>
-<td style="text-align: right">147.7</td>
+<td style="text-align: right">147.2</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Valencia">Valencia, Spain</a></td>
-<td style="text-align: right">79.5</td>
-<td style="text-align: right">146.6</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Madrid">Madrid, Spain</a></td>
+<td style="text-align: right">79.8</td>
+<td style="text-align: right">147.7</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -941,8 +941,8 @@
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Lahore">Lahore, Pakistan</a></td>
-<td style="text-align: right">62.3</td>
-<td style="text-align: right">111.2</td>
+<td style="text-align: right">62.4</td>
+<td style="text-align: right">111.3</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
