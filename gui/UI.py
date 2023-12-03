@@ -196,10 +196,10 @@ def city_summary_btn_on_click():
     Open window displaying city summary
     """
     def get_city_summary():
+        details_text_widget.config(state='normal')  # Enable the text widget for editing
         details_text_widget.delete('1.0', tk.END)  # Clear the existing text
         
         cityname = entry.get().strip()
-    
         if cityname in data['City'].values:  # Check if the city is in the DataFrame
             city_row = data[data['City'] == cityname].iloc[0]
             result_label.config(text=f"City Summary for {cityname}")
@@ -364,7 +364,7 @@ def city_ranking_btn_on_click():
     # label
     description2 = (
         "Ranking based on your preferences asks you to input preference of the metrics on a scale 1-7 (1 being the highest);\n"
-        "NOTE: no tie is allowed in the current version, only digits 1-7 are allowed and each digit must be individually included;\n"
+        "NOTE: ties are allowed;\n"
         "Based on the preference weightings, top 15 cities are calculated and displayed.\n")
     description_label2 = ttk.Label(centerFrame, text=description2, wraplength=500)
     description_label2.pack(pady=5)
