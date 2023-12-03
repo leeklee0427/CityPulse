@@ -39,8 +39,6 @@ def launch():
     image_paths = [
         "./icons/_0c1d7967-7c8b-45c8-825f-98f6ef43d164.jpeg",
         "./icons/_1f30ad0d-a231-4e9a-9011-7a35c5644aa3.jpeg",
-        "./icons/_5cbb978e-8e3c-4eb9-b1ae-6fb1c715cfcc.jpeg",
-        "./icons/_9bf0596f-8504-459a-b25b-65f5d013f85a.jpeg",
         "./icons/_32f51e8a-c3ec-4135-a517-76631f6a8cb1.jpeg",
         "./icons/_49689280-eb9b-4495-b967-3f211140b2bb.jpeg",
         "./icons/_b98a97c6-8659-4680-9bd0-0853f2bb8152.jpeg",
@@ -85,7 +83,7 @@ def launch():
 
     # Set ttk button style
     style = ttk.Style()
-    style.theme_use("aqua")
+    style.theme_use("default")
 
     # Initialize function buttons
     view_data_btn = ttk.Button(centerFrame, text='View Data', command=view_data_btn_on_click, width=20)
@@ -198,63 +196,90 @@ def city_summary_btn_on_click():
     Open window displaying city summary
     """
     def get_city_summary():
-        cityname = entry.get()
-
-        if cityname:
-            city_info = {}
-            if cityname in df['City'].values: # Check if the city is in the DataFrame
-                result_label.config(text=f"{cityname}")
-
-                city_row = df[df['City'] == cityname]
-
-                # Populate the dict with column and value pairs of the given city
-                for column in df.columns[2:]: # Start from the third column (index 2)
-                    city_info[column] = city_row.iloc[0][column]
+        details_text_widget.delete('1.0', tk.END)  # Clear the existing text
         
-                city_summary = ""
-                for key, value in city_info.items():
-                    city_summary += (f"{key}: {value}\n")
-                
-                text_widget.delete(1.0, tk.END)  # Clear existing content
-                text_widget.insert(tk.END, city_summary)  # Insert new content
-
-                ## TODO: Add summary based on column stats
-
-            else:
-                text_widget.delete(1.0, tk.END)  # Clear existing content
-                city_summary = "City " + cityname + " not found."
-                result_label.config(text=f"{city_summary}")
+        cityname = entry.get().strip()
     
-    # Window
+        if cityname in data['City'].values:  # Check if the city is in the DataFrame
+            city_row = data[data['City'] == cityname].iloc[0]
+            result_label.config(text=f"City Summary for {cityname}")
+            
+            # Create list summary without title
+            list_summary = '\n'.join([f"{col}: {city_row[col]}" for col in data.columns if col not in ['City', 'State']])
+            
+            # Create paragraph summary without title
+            paragraph_summary = f"{cityname.title()} is located in the state of {city_row['State']}. "
+            for metric in average_values.index:
+                value = city_row[metric]
+                average = average_values[metric]
+                if value > average:
+                    status = "above the average"
+                elif value < average:
+                    status = "below the average"
+                else:
+                    status = "around the average"
+                paragraph_summary += f"With a {metric.lower()} of {value}, {status}. "
+    
+            # Display both summaries
+            details_text_widget.insert(tk.END, list_summary + "\n\n")
+            details_text_widget.insert(tk.END, paragraph_summary)
+            
+        else:
+            result_label.config(text=f"City {cityname} not found.")
+    
+        details_text_widget.config(state='disabled')
+    
+    # Set up local data
+    data = df
+    average_values = data.select_dtypes(include=[float, int]).mean()
+
+    # Pop-up window for city summary
     window = Toplevel(root)
     window.title("City Summary")
 
-    # Set label
-    app_label = tk.Label(window, text="City Summary")
-    app_label.config(font=("Arial", 20))
-    app_label.pack()
-
-    # Frame
+    # Frame for the city search widgets
     centerFrame = Frame(window)
-    centerFrame.pack(expand=True)
+    centerFrame.pack(fill='both', expand=True)
 
-    # Create label, entry and button
+    # Label, entry, and button for searching a city
     label = tk.Label(centerFrame, text="Search city:")
     entry = tk.Entry(centerFrame)
     enter_button = tk.Button(centerFrame, text="Enter", command=get_city_summary)
+    label.grid(row=0, column=0, padx=5, pady=5, sticky=tk.W)
+    entry.grid(row=0, column=1, sticky=tk.EW, padx=5)
+    enter_button.grid(row=0, column=2, padx=5, pady=5)
 
-    # Use the grid geometry manager to align components
-    label.grid(row=0, column=1, sticky=tk.W)
-    entry.grid(row=0, column=1)
-    enter_button.grid(row=0, column=1, sticky=tk.E)
-
-    # Create a label to display the city name entered
+    # Label to display the selected city or error messages
     result_label = tk.Label(centerFrame, text="")
-    result_label.grid(row=1, column=1)
-    
-    # Create a widget for displaying text
-    text_widget = tk.Text(centerFrame, wrap=tk.WORD, width=80, height=25)
-    text_widget.grid(row=2, column=1)
+    result_label.grid(row=1, column=0, columnspan=3)
+
+    # Text widget for displaying city details
+    details_text_widget = tk.Text(centerFrame, wrap='word', height=15)
+    details_text_widget.grid(row=2, column=0, columnspan=3, pady=5, sticky='ew')
+
+    # Scrollbar for the details text widget
+    details_scrollbar = ttk.Scrollbar(centerFrame, orient='vertical', command=details_text_widget.yview)
+    details_scrollbar.grid(row=2, column=3, sticky='ns')
+    details_text_widget.config(yscrollcommand=details_scrollbar.set)
+
+    # Text widget for displaying the list of cities (read-only)
+    city_list_text = tk.Text(centerFrame, height=10, wrap='none', state='disabled', bg=window.cget('bg'), relief='flat', highlightthickness=0)
+    city_list_text.grid(row=3, column=0, columnspan=3, pady=5, sticky='ew')
+
+    # Populate the city list text widget with the list of city names in a matrix format
+    city_list_text.config(state='normal')  # Temporarily make it writable to insert text
+
+    cities = df['City'].unique()
+    num_columns = 5  # Define the number of columns for the matrix
+    for i in range(0, len(cities), num_columns):
+        city_names = cities[i:i+num_columns]
+        row_str = "\t".join(f"{city:<15}" for city in city_names) + '\n'
+        city_list_text.insert('end', row_str)
+
+    city_list_text.config(state='disabled') # Make the text widget read-only again
+
+    # Configure grid column weight to make the entry widget expand with the window width
+    centerFrame.columnconfigure(1, weight=1)
 
 
 def city_comparison_btn_on_click():
@@ -262,17 +287,20 @@ def city_comparison_btn_on_click():
     Open window displaying city comparison
     """
     def on_button_click(metric):
-        result_label.config(text=f"Selected: {metric}, please see the new popped up window")
+        comparison_label.config(text=f"Selected: {metric}, please see the new popped up window")
 
         # Check if the entered metric is in the DataFrame columns
-        if metric in df.columns:
+        if metric in data.columns:
             # Plot the values for all cities under the selected metric
-            plt.bar(df['City'], df[metric])
+            plt.bar(data['City'], data[metric])
             plt.xlabel('City')
             plt.xticks(rotation=45, ha='right')  # Rotate the x-axis labels for better readability
             plt.ylabel(metric)
             plt.title(f'{metric} for Cities')
             plt.show()
+
+    # Set up local data
+    data = df
 
     # Window
     window = Toplevel(root)
@@ -286,10 +314,6 @@ def city_comparison_btn_on_click():
     app_label = tk.Label(centerFrame, text="City Comparison")
     app_label.config(font=("Arial", 20))
     app_label.pack()
-    
-    # Set ttk button style
-    style = ttk.Style()
-    style.theme_use("aqua")
 
     # Create a label to display the description
     description_label = tk.Label(centerFrame, text="")
@@ -305,8 +329,8 @@ def city_comparison_btn_on_click():
         button.pack(side=TOP)
 
     # Create a label to display the selected metric
-    result_label = tk.Label(centerFrame, text="")
-    result_label.pack()
+    comparison_label = tk.Label(centerFrame, text="")
+    comparison_label.pack()
 
 
 def city_ranking_btn_on_click():
@@ -334,7 +358,7 @@ def city_ranking_btn_on_click():
     description_label_1.pack(pady=5)
     
     # button
-    default_ranking_btn = tk.Button(centerFrame, text='Ranking based on default weightings', command=default_ranking_btn_on_click, width=40)
+    default_ranking_btn = ttk.Button(centerFrame, text='Ranking based on default weightings', command=default_ranking_btn_on_click, width=40)
     default_ranking_btn.pack(pady=5)
 
     # label
@@ -346,39 +370,43 @@ def city_ranking_btn_on_click():
     description_label2.pack(pady=5)
 
     # button
-    preference_ranking_btn = tk.Button(centerFrame, text='Ranking based on your preferences', command=preference_ranking_btn_on_click, width=40)
+    preference_ranking_btn = ttk.Button(centerFrame, text='Ranking based on your preferences', command=preference_ranking_btn_on_click, width=40)
     preference_ranking_btn.pack(pady=5)
 
 
 def default_ranking_btn_on_click():
     """
-    Using MinMaxScaler, calculates the weightings of each metric/factor
-    based on significance of each metric/factor influencing relocation choices;
-    
-    Using the significance weightings, calculate and display the top N cities
-    """
+    Scale the metrics using MinMaxScaler
 
-    # Columns to be normalized
+    Using GBM, calculates the weightings of each metric/factor based on
+    significance of each metric/factor influencing relocation choices;
+    
+    Using the significance weightings, calculate and display the top 15 cities
+    """
+    # Set up local data
+    data = df
+
+    # Metrics
     metrics = ["Income", "Employment", "Cost", "Safety", "Medical", "Pollution", "Recreation"]
     
     # Intialize MinMaxScaler
     scaler = MinMaxScaler()
 
     # Normalizing the data
-    df[metrics] = scaler.fit_transform(df[metrics])
+    data[metrics] = scaler.fit_transform(data[metrics])
 
     # Initial weights for each column
     weights = {'Income': 1 / 7, 'Employment': 1 / 7, 'Cost': 1 / 7, 'Safety': 1 / 7,
                'Medical': 1 / 7, 'Pollution': 1 / 7, 'Recreation': 1 / 7}
 
     # Calculate the weighted sum for each city
-    df['Score'] = (df[metrics].mul(weights).sum(axis=1) * 100).round(2)
+    data['Score'] = (data[metrics].mul(weights).sum(axis=1) * 100).round(2)
 
     # Selecting the features and the target variable
     target = 'Score'
 
     # Splitting the data into training and testing sets
-    X_train, X_test, y_train, y_test = train_test_split(df[metrics], df[target], test_size=0.2, random_state=42)
+    X_train, X_test, y_train, y_test = train_test_split(data[metrics], data[target], test_size=0.2, random_state=42)
     gbm = GradientBoostingRegressor(n_estimators=150, learning_rate=0.095, max_depth=7, subsample=0.75,
                                         min_samples_leaf=1, min_samples_split=3, random_state=42)
     gbm.fit(X_train, y_train)
@@ -396,9 +424,9 @@ def default_ranking_btn_on_click():
 
     print(weights_)
 
-    # Create new column 'Average Score'
-    df['Average Score'] = (df[metrics].mul(weights_).sum(axis=1) * 100).round(2)
-    top_fifteen = df.sort_values(by='Average Score', ascending=False).head(15)
+    # Create new column 'Score'
+    data['Score'] = (data[metrics].mul(weights_).sum(axis=1) * 100).round(2)
+    top_fifteen = data.sort_values(by='Score', ascending=False).head(15)
     
     window = Toplevel(root)
     window.title("Default Ranking")
@@ -409,7 +437,7 @@ def default_ranking_btn_on_click():
     app_label.pack()
 
     # Intialize treeview
-    city_columns = ('City', 'Average Score')
+    city_columns = ('City', 'Score')
     treeview = ttk.Treeview(window, columns=city_columns, show='headings')
     
     for col in city_columns:
@@ -418,14 +446,15 @@ def default_ranking_btn_on_click():
 
     # Insert data into the treeview
     for index, row in top_fifteen.iterrows():
-        treeview.insert("", tk.END, values=(row['City'], row['Average Score']))
+        treeview.insert("", tk.END, values=(row['City'], row['Score']))
 
     treeview.pack(fill='both', expand=True)
           
 
 def preference_ranking_btn_on_click():
     """
-    Rankings of all cities based on user's preference
+    Scale the metrics using MinMaxScaler
+    Using the user's weightings, calculate and display the top 15 cities
     """
     def validate_rank(new_value):
         """
@@ -448,10 +477,11 @@ def preference_ranking_btn_on_click():
         # Normalize weightings to ensure they add up to 1
         total_weighting = sum(weightings.values())
         normalized_weightings = {metric: weighting / total_weighting for metric, weighting in weightings.items()}
+        print(total_weighting)
 
-        # Create new column 'Average Score'
-        df['Average Score'] = (df[metrics].mul(normalized_weightings).sum(axis=1) * 100).round(2)
-        top_fifteen = df.sort_values(by='Average Score', ascending=False).head(15)
+        # Create new column 'Score'
+        data['Score'] = (data[metrics].mul(normalized_weightings).sum(axis=1) * 100).round(2)
+        top_fifteen = data.sort_values(by='Score', ascending=False).head(15)
         
         window = Toplevel(root)
         window.title("Preference Ranking")
@@ -462,7 +492,7 @@ def preference_ranking_btn_on_click():
         app_label.pack()
 
         # Intialize treeview
-        city_columns = ('City', 'Average Score')
+        city_columns = ('City', 'Score')
         treeview = ttk.Treeview(window, columns=city_columns, show='headings')
         
         for col in city_columns:
@@ -471,7 +501,7 @@ def preference_ranking_btn_on_click():
 
         # Insert data into the Treeview
         for index, row in top_fifteen.iterrows():
-            treeview.insert("", tk.END, values=(row['City'], row['Average Score']))
+            treeview.insert("", tk.END, values=(row['City'], row['Score']))
 
         # Arrange the Treeview
         treeview.pack(fill='both', expand=True)
@@ -481,7 +511,9 @@ def preference_ranking_btn_on_click():
         result_label.config(text=f"Weightings:\n{result_str}")
         result_label.pack(pady=10)
 
-    
+    # Set up local data
+    data = df
+
     ranking_window = tk.Toplevel(root)
     ranking_window.title("Preference Ranking")
 
@@ -490,7 +522,15 @@ def preference_ranking_btn_on_click():
     app_label.config(font=("Arial", 20))
     app_label.pack()
 
+    # Metrics
     metrics = ["Income", "Employment", "Cost", "Safety", "Medical", "Pollution", "Recreation"]
+    
+    # Intialize MinMaxScaler
+    scaler = MinMaxScaler()
+
+    # Normalizing the data
+    data[metrics] = scaler.fit_transform(data[metrics])
+
     ranks = {metric: tk.StringVar() for metric in metrics}
 
     # Instruction label
@@ -513,11 +553,6 @@ def preference_ranking_btn_on_click():
 
 
 if __name__ == "__main__":
-    # Create dataframe for use of the complete application
-    global df
-    cleaned_data_path = './data/display/cleaned_data.csv'
-    df = pd.read_csv(cleaned_data_path)
-
     # Launch application main window
     launch()
 

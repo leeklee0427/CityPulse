@@ -10,6 +10,9 @@ from gui import ui
 
 
 if __name__ == "__main__":
+    """
+    imports crawlers, data processing and ui
+    """
     
     print("Citypulse complete application")
     
@@ -28,3 +31,4 @@ if __name__ == "__main__":
     # User interface
     ui.launch()
 
+    
