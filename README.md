@@ -1,4 +1,4 @@
-# 95888 DFP G2 Team 6 Final Project
+# 95888 DFP G2 Group 6 Final Project
 
 ### Team Members
 Kaixin Tian     kaixint@andrew.cmu.edu  

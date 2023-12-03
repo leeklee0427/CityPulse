@@ -1086,7 +1086,7 @@
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Berlin">Berlin, Germany</a></td>
 <td style="text-align: right">38.9</td>
-<td style="text-align: right">65.0</td>
+<td style="text-align: right">64.9</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -1145,8 +1145,8 @@
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/pollution/in/Madrid">Madrid, Spain</a></td>
-<td style="text-align: right">36.9</td>
-<td style="text-align: right">67.3</td>
+<td style="text-align: right">36.6</td>
+<td style="text-align: right">66.6</td>
 </tr>
 <tr style="width: 100%">
 <td></td>

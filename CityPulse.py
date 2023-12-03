@@ -13,7 +13,7 @@ if __name__ == "__main__":
     """
     imports crawlers, data processing and ui
     """
-    
+    print("==============================")
     print("Citypulse complete application")
     
     # Obtaining data

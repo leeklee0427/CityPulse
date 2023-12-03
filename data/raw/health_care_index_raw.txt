@@ -538,6 +538,12 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Berlin">Berlin, Germany</a></td>
+<td style="text-align: right">68.2</td>
+<td style="text-align: right">123.8</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Montevideo">Montevideo, Uruguay</a></td>
 <td style="text-align: right">68.2</td>
 <td style="text-align: right">123.2</td>
@@ -547,12 +553,6 @@
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Reykjavik">Reykjavik, Iceland</a></td>
 <td style="text-align: right">68.2</td>
 <td style="text-align: right">124.5</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Berlin">Berlin, Germany</a></td>
-<td style="text-align: right">68.1</td>
-<td style="text-align: right">123.7</td>
 </tr>
 <tr style="width: 100%">
 <td></td>

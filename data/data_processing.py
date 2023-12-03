@@ -68,7 +68,7 @@ def process_data():
     # Use tabulate to display the table
     data_dict_list = df.to_dict(orient='records') # Convert DataFrame to a list of dictionaries
     table = tabulate(data_dict_list, headers="keys", tablefmt="grid")
-    print(table)
+    #print(table)
     
     # Write tabulated data to txt
     tabulated_path = './data/display/tabulated_data.txt'
