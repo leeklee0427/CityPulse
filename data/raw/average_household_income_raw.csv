@@ -1,70 +1,70 @@
 ,NAME,DP03_0063E,state,place
-0,"Mobile city, Alabama",73757,01,50000
-1,"Birmingham city, Alabama",62712,01,07000
-2,"Dothan city, Alabama",80681,01,21184
-3,"Auburn city, Alabama",85960,01,03076
-4,"Hoover city, Alabama",134297,01,35896
-5,"Huntsville city, Alabama",104769,01,37000
-6,"Montgomery city, Alabama",72589,01,51000
-7,"Chandler city, Arizona",130587,04,12000
-8,"Tuscaloosa city, Alabama",84423,01,77256
-9,"Anchorage municipality, Alaska",125267,02,03000
-10,"Avondale city, Arizona",85262,04,04720
-11,"Buckeye city, Arizona",105787,04,07940
-12,"Casas Adobes CDP, Arizona",101259,04,10670
-13,"Goodyear city, Arizona",118445,04,28380
-14,"Flagstaff city, Arizona",83642,04,23620
-15,"Gilbert town, Arizona",138747,04,27400
-16,"Glendale city, Arizona",88479,04,27820
-17,"Maricopa city, Arizona",101415,04,44410
-18,"Mesa city, Arizona",101410,04,46000
-19,"Peoria city, Arizona",111308,04,54050
-20,"Phoenix city, Arizona",103239,04,55000
-21,"Queen Creek town, Arizona",151894,04,58150
-22,"San Tan Valley CDP, Arizona",114167,04,64210
-23,"Scottsdale city, Arizona",164377,04,65000
-24,"Yuma city, Arizona",80468,04,85540
-25,"Surprise city, Arizona",110479,04,71510
-26,"Tempe city, Arizona",97835,04,73000
-27,"Tucson city, Arizona",71511,04,77000
-28,"Conway city, Arkansas",75365,05,15190
-29,"Little Rock city, Arkansas",92591,05,41000
+0,"Avondale city, Arizona",85262,04,04720
+1,"Buckeye city, Arizona",105787,04,07940
+2,"Casas Adobes CDP, Arizona",101259,04,10670
+3,"Chandler city, Arizona",130587,04,12000
+4,"Flagstaff city, Arizona",83642,04,23620
+5,"Gilbert town, Arizona",138747,04,27400
+6,"Glendale city, Arizona",88479,04,27820
+7,"Goodyear city, Arizona",118445,04,28380
+8,"Maricopa city, Arizona",101415,04,44410
+9,"Mesa city, Arizona",101410,04,46000
+10,"Peoria city, Arizona",111308,04,54050
+11,"Phoenix city, Arizona",103239,04,55000
+12,"Queen Creek town, Arizona",151894,04,58150
+13,"San Tan Valley CDP, Arizona",114167,04,64210
+14,"Scottsdale city, Arizona",164377,04,65000
+15,"Surprise city, Arizona",110479,04,71510
+16,"Tempe city, Arizona",97835,04,73000
+17,"Tucson city, Arizona",71511,04,77000
+18,"Yuma city, Arizona",80468,04,85540
+19,"Conway city, Arkansas",75365,05,15190
+20,"Little Rock city, Arkansas",92591,05,41000
+21,"Auburn city, Alabama",85960,01,03076
+22,"Birmingham city, Alabama",62712,01,07000
+23,"Dothan city, Alabama",80681,01,21184
+24,"Hoover city, Alabama",134297,01,35896
+25,"Huntsville city, Alabama",104769,01,37000
+26,"Mobile city, Alabama",73757,01,50000
+27,"Montgomery city, Alabama",72589,01,51000
+28,"Tuscaloosa city, Alabama",84423,01,77256
+29,"Anchorage municipality, Alaska",125267,02,03000
 30,"Fayetteville city, Arkansas",76460,05,23290
 31,"Fort Smith city, Arkansas",73005,05,24550
 32,"Jonesboro city, Arkansas",88501,05,35710
-33,"Alhambra city, California",105314,06,00884
+33,"Antioch city, California",122963,06,02252
 34,"Rogers city, Arkansas",110849,05,60410
 35,"Springdale city, Arkansas",79233,05,66080
 36,"Alameda city, California",165439,06,00562
-37,"Anaheim city, California",107932,06,02000
-38,"Antioch city, California",122963,06,02252
+37,"Alhambra city, California",105314,06,00884
+38,"Anaheim city, California",107932,06,02000
 39,"Apple Valley town, California",80863,06,02364
 40,"Arden-Arcade CDP, California",104812,06,02553
-41,"Berkeley city, California",166517,06,06000
-42,"Bakersfield city, California",99779,06,03526
-43,"Baldwin Park city, California",82707,06,03666
+41,"Bakersfield city, California",99779,06,03526
+42,"Baldwin Park city, California",82707,06,03666
+43,"Buena Park city, California",125201,06,08786
 44,"Bellflower city, California",84261,06,04982
-45,"Brentwood city, California",167553,06,08142
-46,"Buena Park city, California",125201,06,08786
+45,"Berkeley city, California",166517,06,06000
+46,"Brentwood city, California",167553,06,08142
 47,"Burbank city, California",121877,06,08954
 48,"Camarillo city, California",150625,06,10046
 49,"Carlsbad city, California",182827,06,11194
 50,"Carmichael CDP, California",117004,06,11390
 51,"Carson city, California",121705,06,11530
 52,"Castro Valley CDP, California",168870,06,11964
-53,"Chico city, California",90870,06,13014
-54,"Chino city, California",108477,06,13210
-55,"Chino Hills city, California",135389,06,13214
-56,"Chula Vista city, California",116658,06,13392
+53,"Chula Vista city, California",116658,06,13392
+54,"Chico city, California",90870,06,13014
+55,"Chino city, California",108477,06,13210
+56,"Chino Hills city, California",135389,06,13214
 57,"Citrus Heights city, California",86921,06,13588
 58,"Clovis city, California",126004,06,14218
 59,"Compton city, California",81622,06,15044
 60,"Concord city, California",128740,06,16000
 61,"Corona city, California",121558,06,16350
-62,"Downey city, California",105790,06,19766
-63,"Costa Mesa city, California",145691,06,16532
-64,"Daly City city, California",137157,06,17918
-65,"Davis city, California",114620,06,18100
+62,"Costa Mesa city, California",145691,06,16532
+63,"Daly City city, California",137157,06,17918
+64,"Davis city, California",114620,06,18100
+65,"Downey city, California",105790,06,19766
 66,"Dublin city, California",235277,06,20018
 67,"East Los Angeles CDP, California",78476,06,20802
 68,"Eastvale city, California",162160,06,21230
@@ -80,14 +80,14 @@
 78,"Fullerton city, California",133585,06,28000
 79,"Garden Grove city, California",112954,06,29000
 80,"Glendale city, California",108976,06,30000
-81,"Hesperia city, California",84291,06,33434
-82,"Hawthorne city, California",98000,06,32548
-83,"Hayward city, California",127751,06,33000
-84,"Hemet city, California",71880,06,33182
-85,"Huntington Beach city, California",154152,06,36000
-86,"Indio city, California",98470,06,36448
-87,"Inglewood city, California",84630,06,36546
-88,"Irvine city, California",165350,06,36770
+81,"Hawthorne city, California",98000,06,32548
+82,"Hayward city, California",127751,06,33000
+83,"Hemet city, California",71880,06,33182
+84,"Hesperia city, California",84291,06,33434
+85,"Irvine city, California",165350,06,36770
+86,"Huntington Beach city, California",154152,06,36000
+87,"Indio city, California",98470,06,36448
+88,"Inglewood city, California",84630,06,36546
 89,"Jurupa Valley city, California",111379,06,37692
 90,"Lake Elsinore city, California",109442,06,39486
 91,"Lake Forest city, California",162163,06,39496
@@ -97,10 +97,10 @@
 95,"Lodi city, California",105297,06,42202
 96,"Long Beach city, California",108712,06,43000
 97,"Los Angeles city, California",117701,06,44000
-98,"Menifee city, California",105999,06,46842
-99,"Lynwood city, California",81419,06,44574
-100,"Madera city, California",87126,06,45022
-101,"Manteca city, California",111478,06,45484
+98,"Lynwood city, California",81419,06,44574
+99,"Madera city, California",87126,06,45022
+100,"Manteca city, California",111478,06,45484
+101,"Menifee city, California",105999,06,46842
 102,"Merced city, California",82800,06,46898
 103,"Milpitas city, California",206967,06,47766
 104,"Mission Viejo city, California",160848,06,48256
@@ -120,10 +120,10 @@
 118,"Palo Alto city, California",285527,06,55282
 119,"Pasadena city, California",149477,06,56000
 120,"Perris city, California",87921,06,56700
-121,"Rancho Cordova city, California",107616,06,59444
-122,"Pittsburg city, California",116562,06,57456
-123,"Pleasanton city, California",234070,06,57792
-124,"Pomona city, California",93467,06,58072
+121,"Pittsburg city, California",116562,06,57456
+122,"Pleasanton city, California",234070,06,57792
+123,"Pomona city, California",93467,06,58072
+124,"Rancho Cordova city, California",107616,06,59444
 125,"Rancho Cucamonga city, California",131002,06,59451
 126,"Redding city, California",85529,06,59920
 127,"Redlands city, California",133135,06,59962
@@ -154,12 +154,12 @@
 152,"Santa Rosa city, California",131173,06,70098
 153,"Simi Valley city, California",161994,06,72016
 154,"South Gate city, California",90211,06,73080
-155,"Thousand Oaks city, California",163046,06,78582
-156,"Stockton city, California",97513,06,75000
-157,"Sunnyvale city, California",234395,06,77000
+155,"Stockton city, California",97513,06,75000
+156,"Sunnyvale city, California",234395,06,77000
+157,"Tracy city, California",143361,06,80238
 158,"Temecula city, California",125942,06,78120
-159,"Torrance city, California",135437,06,80000
-160,"Tracy city, California",143361,06,80238
+159,"Thousand Oaks city, California",163046,06,78582
+160,"Torrance city, California",135437,06,80000
 161,"Tulare city, California",79553,06,80644
 162,"Turlock city, California",100781,06,80812
 163,"Tustin city, California",142567,06,80854
@@ -174,14 +174,14 @@
 172,"West Covina city, California",106502,06,84200
 173,"Westminster city, California",98209,06,84550
 174,"Whittier city, California",113192,06,85292
-175,"Yorba Linda city, California",182776,06,86832
-176,"Yuba City city, California",84850,06,86972
-177,"Arvada city, Colorado",134791,08,03455
-178,"Aurora city, Colorado",103155,08,04000
-179,"Centennial city, Colorado",152561,08,12815
-180,"Boulder city, Colorado",133092,08,07850
-181,"Broomfield city, Colorado",140468,08,09280
-182,"Castle Rock town, Colorado",173314,08,12415
+175,"Aurora city, Colorado",103155,08,04000
+176,"Yorba Linda city, California",182776,06,86832
+177,"Yuba City city, California",84850,06,86972
+178,"Arvada city, Colorado",134791,08,03455
+179,"Boulder city, Colorado",133092,08,07850
+180,"Broomfield city, Colorado",140468,08,09280
+181,"Castle Rock town, Colorado",173314,08,12415
+182,"Centennial city, Colorado",152561,08,12815
 183,"Colorado Springs city, Colorado",99939,08,16000
 184,"Commerce City city, Colorado",121092,08,16495
 185,"Denver city, Colorado",125904,08,20000
@@ -190,26 +190,26 @@
 188,"Greeley city, Colorado",88379,08,32155
 189,"Highlands Ranch CDP, Colorado",176890,08,36410
 190,"Lakewood city, Colorado",112392,08,43000
-191,"Longmont city, Colorado",113485,08,45970
-192,"Loveland city, Colorado",94189,08,46465
-193,"Bridgeport city, Connecticut",69481,09,08000
+191,"Thornton city, Colorado",120005,08,77290
+192,"Longmont city, Colorado",113485,08,45970
+193,"Loveland city, Colorado",94189,08,46465
 194,"Pueblo city, Colorado",73882,08,62000
-195,"Thornton city, Colorado",120005,08,77290
+195,"Hartford city, Connecticut",60432,09,37000
 196,"Westminster city, Colorado",127804,08,83835
-197,"Danbury city, Connecticut",111571,09,18430
-198,"Hartford city, Connecticut",60432,09,37000
-199,"Stamford city, Connecticut",146223,09,73000
-200,"New Britain city, Connecticut",74398,09,50370
-201,"New Haven city, Connecticut",91074,09,52000
-202,"Norwalk city, Connecticut",145471,09,55990
+197,"Bridgeport city, Connecticut",69481,09,08000
+198,"Danbury city, Connecticut",111571,09,18430
+199,"New Britain city, Connecticut",74398,09,50370
+200,"New Haven city, Connecticut",91074,09,52000
+201,"Norwalk city, Connecticut",145471,09,55990
+202,"Stamford city, Connecticut",146223,09,73000
 203,"Waterbury city, Connecticut",72086,09,80000
 204,"Wilmington city, Delaware",84627,10,77580
 205,"Washington city, District of Columbia",148872,11,50000
 206,"Alafaya CDP, Florida",104779,12,00410
-207,"Cape Coral city, Florida",95487,12,10275
-208,"Boca Raton city, Florida",183414,12,07300
-209,"Boynton Beach city, Florida",85153,12,07875
-210,"Brandon CDP, Florida",94578,12,08150
+207,"Boca Raton city, Florida",183414,12,07300
+208,"Boynton Beach city, Florida",85153,12,07875
+209,"Brandon CDP, Florida",94578,12,08150
+210,"Cape Coral city, Florida",95487,12,10275
 211,"Clearwater city, Florida",87302,12,12875
 212,"Coral Springs city, Florida",103579,12,14400
 213,"Davie town, Florida",120608,12,16475
@@ -222,27 +222,27 @@
 220,"Fort Myers city, Florida",100945,12,24125
 221,"Four Corners CDP, Florida",100090,12,24581
 222,"Gainesville city, Florida",65329,12,25175
-223,"Jacksonville city, Florida",89368,12,35000
-224,"Hialeah city, Florida",70992,12,30000
-225,"Hollywood city, Florida",86944,12,32000
-226,"Homestead city, Florida",71970,12,32275
+223,"Hialeah city, Florida",70992,12,30000
+224,"Hollywood city, Florida",86944,12,32000
+225,"Homestead city, Florida",71970,12,32275
+226,"Jacksonville city, Florida",89368,12,35000
 227,"Kendall CDP, Florida",136676,12,36100
 228,"Kissimmee city, Florida",59446,12,36950
 229,"Lakeland city, Florida",72665,12,38250
-230,"Largo city, Florida",74413,12,39425
-231,"Lauderhill city, Florida",66898,12,39550
-232,"Lehigh Acres CDP, Florida",75163,12,39925
-233,"Melbourne city, Florida",82628,12,43975
+230,"Melbourne city, Florida",82628,12,43975
+231,"Largo city, Florida",74413,12,39425
+232,"Lauderhill city, Florida",66898,12,39550
+233,"Lehigh Acres CDP, Florida",75163,12,39925
 234,"Miami city, Florida",101496,12,45000
 235,"Miami Beach city, Florida",143708,12,45025
 236,"Miami Gardens city, Florida",73109,12,45060
 237,"Miramar city, Florida",104594,12,45975
-238,"Palm Bay city, Florida",85597,12,54000
-239,"North Port city, Florida",88610,12,49675
-240,"Ocala city, Florida",60122,12,50750
+238,"North Port city, Florida",88610,12,49675
+239,"Ocala city, Florida",60122,12,50750
+240,"Palm Harbor CDP, Florida",119624,12,54350
 241,"Orlando city, Florida",95571,12,53000
-242,"Palm Coast city, Florida",88851,12,54200
-243,"Palm Harbor CDP, Florida",119624,12,54350
+242,"Palm Bay city, Florida",85597,12,54000
+243,"Palm Coast city, Florida",88851,12,54200
 244,"Pembroke Pines city, Florida",99072,12,55775
 245,"Pine Hills CDP, Florida",64212,12,56825
 246,"Plantation city, Florida",112665,12,57425
@@ -254,174 +254,174 @@
 252,"St. Petersburg city, Florida",110334,12,63000
 253,"Spring Hill CDP, Florida",80566,12,68350
 254,"Sunrise city, Florida",89177,12,69700
-255,"Tallahassee city, Florida",80976,12,70600
-256,"Tamarac city, Florida",72705,12,70675
-257,"Tampa city, Florida",116312,12,71000
-258,"Weston city, Florida",167335,12,76582
-259,"The Villages CDP, Florida",91138,12,71625
-260,"Town 'n' Country CDP, Florida",87864,12,72145
-261,"Wesley Chapel CDP, Florida",116309,12,75875
+255,"The Villages CDP, Florida",91138,12,71625
+256,"Tallahassee city, Florida",80976,12,70600
+257,"Tamarac city, Florida",72705,12,70675
+258,"Tampa city, Florida",116312,12,71000
+259,"Town 'n' Country CDP, Florida",87864,12,72145
+260,"Wesley Chapel CDP, Florida",116309,12,75875
+261,"Weston city, Florida",167335,12,76582
 262,"West Palm Beach city, Florida",116309,12,76600
 263,"Albany city, Georgia",53606,13,01052
 264,"Alpharetta city, Georgia",159023,13,01696
 265,"Athens-Clarke County unified government (balance), Georgia",72298,13,03440
 266,"Atlanta city, Georgia",127474,13,04000
 267,"Augusta-Richmond County consolidated government (balance), Georgia",74467,13,04204
-268,"Columbus city, Georgia",75610,13,19000
-269,"South Fulton city, Georgia",100588,13,72122
+268,"Warner Robins city, Georgia",78500,13,80508
+269,"Columbus city, Georgia",75610,13,19000
 270,"Johns Creek city, Georgia",189686,13,42425
 271,"Macon-Bibb County, Georgia",71669,13,49008
 272,"Roswell city, Georgia",172558,13,67284
 273,"Sandy Springs city, Georgia",168247,13,68516
 274,"Savannah city, Georgia",71669,13,69000
-275,"Warner Robins city, Georgia",78500,13,80508
+275,"South Fulton city, Georgia",100588,13,72122
 276,"Nampa city, Idaho",80621,16,56260
 277,"Urban Honolulu CDP, Hawaii",118544,15,71550
 278,"Boise City city, Idaho",110016,16,08830
 279,"Caldwell city, Idaho",78941,16,12250
 280,"Idaho Falls city, Idaho",94222,16,39700
 281,"Meridian city, Idaho",112723,16,52120
-282,"Arlington Heights village, Illinois",150491,17,02154
-283,"Aurora city, Illinois",112114,17,03012
-284,"Chicago city, Illinois",104223,17,14000
+282,"Bolingbrook village, Illinois",106766,17,07133
+283,"Arlington Heights village, Illinois",150491,17,02154
+284,"Aurora city, Illinois",112114,17,03012
 285,"Bloomington city, Illinois",100270,17,06613
-286,"Bolingbrook village, Illinois",106766,17,07133
-287,"Champaign city, Illinois",86104,17,12385
+286,"Champaign city, Illinois",86104,17,12385
+287,"Chicago city, Illinois",104223,17,14000
 288,"Cicero town, Illinois",80512,17,14351
 289,"Decatur city, Illinois",66706,17,18823
-290,"Springfield city, Illinois",89964,17,72000
-291,"Elgin city, Illinois",103096,17,23074
-292,"Evanston city, Illinois",144822,17,24582
-293,"Joliet city, Illinois",96926,17,38570
-294,"Naperville city, Illinois",185168,17,51622
-295,"Palatine village, Illinois",119675,17,57225
-296,"Peoria city, Illinois",87474,17,59000
-297,"Rockford city, Illinois",74515,17,65000
-298,"Schaumburg village, Illinois",112922,17,68003
-299,"Skokie village, Illinois",124109,17,70122
-300,"Waukegan city, Illinois",80021,17,79293
-301,"Gary city, Indiana",50138,18,27000
-302,"Bloomington city, Indiana",78804,18,05860
-303,"Carmel city, Indiana",176429,18,10342
-304,"Evansville city, Indiana",66558,18,22000
-305,"Fishers city, Indiana",148093,18,23278
-306,"Fort Wayne city, Indiana",77495,18,25000
-307,"Hammond city, Indiana",66321,18,31000
-308,"Indianapolis city (balance), Indiana",85035,18,36003
-309,"Lafayette city, Indiana",60734,18,40788
-310,"Des Moines city, Iowa",77253,19,21000
-311,"Muncie city, Indiana",57603,18,51876
-312,"Noblesville city, Indiana",133854,18,54180
-313,"South Bend city, Indiana",65078,18,71000
-314,"Ames city, Iowa",79125,19,01855
-315,"Ankeny city, Iowa",122829,19,02305
-316,"Cedar Rapids city, Iowa",86049,19,12000
-317,"Davenport city, Iowa",70074,19,19000
-318,"Bowling Green city, Kentucky",60611,21,08902
-319,"Iowa City city, Iowa",86271,19,38595
-320,"Sioux City city, Iowa",82150,19,73335
-321,"Waterloo city, Iowa",68121,19,82425
-322,"West Des Moines city, Iowa",131562,19,83910
-323,"Kansas City city, Kansas",71568,20,36000
-324,"Lawrence city, Kansas",81850,20,38900
-325,"Olathe city, Kansas",128625,20,52575
-326,"Overland Park city, Kansas",132361,20,53775
-327,"Shawnee city, Kansas",131021,20,64500
-328,"Topeka city, Kansas",69148,20,71000
-329,"Wichita city, Kansas",83597,20,79000
-330,"New Orleans city, Louisiana",86680,22,55000
-331,"Lexington-Fayette urban county, Kentucky",95177,21,46027
-332,"Louisville/Jefferson County metro government (balance), Kentucky",90162,21,48006
-333,"Baton Rouge city, Louisiana",74291,22,05000
-334,"Kenner city, Louisiana",83149,22,39475
-335,"Lafayette city, Louisiana",77354,22,40735
-336,"Lake Charles city, Louisiana",89878,22,41155
-337,"Metairie CDP, Louisiana",102098,22,50115
-338,"Dundalk CDP, Maryland",67567,24,23975
-339,"Shreveport city, Louisiana",69833,22,70000
-340,"Portland city, Maine",99633,23,60545
-341,"Baltimore city, Maryland",80675,24,04000
-342,"Bethesda CDP, Maryland",250773,24,07125
+290,"Fort Wayne city, Indiana",77495,18,25000
+291,"Gary city, Indiana",50138,18,27000
+292,"Hammond city, Indiana",66321,18,31000
+293,"Indianapolis city (balance), Indiana",85035,18,36003
+294,"Lexington-Fayette urban county, Kentucky",95177,21,46027
+295,"Louisville/Jefferson County metro government (balance), Kentucky",90162,21,48006
+296,"Portland city, Maine",99633,23,60545
+297,"Baltimore city, Maryland",80675,24,04000
+298,"Bethesda CDP, Maryland",250773,24,07125
+299,"Gaithersburg city, Maryland",125056,24,31175
+300,"Elgin city, Illinois",103096,17,23074
+301,"Evanston city, Illinois",144822,17,24582
+302,"Joliet city, Illinois",96926,17,38570
+303,"Naperville city, Illinois",185168,17,51622
+304,"Palatine village, Illinois",119675,17,57225
+305,"Peoria city, Illinois",87474,17,59000
+306,"Rockford city, Illinois",74515,17,65000
+307,"Schaumburg village, Illinois",112922,17,68003
+308,"Skokie village, Illinois",124109,17,70122
+309,"Springfield city, Illinois",89964,17,72000
+310,"Waukegan city, Illinois",80021,17,79293
+311,"Bloomington city, Indiana",78804,18,05860
+312,"Carmel city, Indiana",176429,18,10342
+313,"Evansville city, Indiana",66558,18,22000
+314,"Fishers city, Indiana",148093,18,23278
+315,"Lafayette city, Indiana",60734,18,40788
+316,"Muncie city, Indiana",57603,18,51876
+317,"Noblesville city, Indiana",133854,18,54180
+318,"South Bend city, Indiana",65078,18,71000
+319,"Ames city, Iowa",79125,19,01855
+320,"Ankeny city, Iowa",122829,19,02305
+321,"Cedar Rapids city, Iowa",86049,19,12000
+322,"Davenport city, Iowa",70074,19,19000
+323,"Des Moines city, Iowa",77253,19,21000
+324,"Iowa City city, Iowa",86271,19,38595
+325,"Sioux City city, Iowa",82150,19,73335
+326,"Waterloo city, Iowa",68121,19,82425
+327,"West Des Moines city, Iowa",131562,19,83910
+328,"Kansas City city, Kansas",71568,20,36000
+329,"Lawrence city, Kansas",81850,20,38900
+330,"Olathe city, Kansas",128625,20,52575
+331,"Overland Park city, Kansas",132361,20,53775
+332,"Shawnee city, Kansas",131021,20,64500
+333,"Topeka city, Kansas",69148,20,71000
+334,"Wichita city, Kansas",83597,20,79000
+335,"Bowling Green city, Kentucky",60611,21,08902
+336,"Baton Rouge city, Louisiana",74291,22,05000
+337,"Kenner city, Louisiana",83149,22,39475
+338,"Lafayette city, Louisiana",77354,22,40735
+339,"Lake Charles city, Louisiana",89878,22,41155
+340,"Metairie CDP, Louisiana",102098,22,50115
+341,"New Orleans city, Louisiana",86680,22,55000
+342,"Shreveport city, Louisiana",69833,22,70000
 343,"Columbia CDP, Maryland",149790,24,19125
-344,"Ellicott City CDP, Maryland",184725,24,26000
-345,"Frederick city, Maryland",112187,24,30325
-346,"Gaithersburg city, Maryland",125056,24,31175
+344,"Dundalk CDP, Maryland",67567,24,23975
+345,"Ellicott City CDP, Maryland",184725,24,26000
+346,"Frederick city, Maryland",112187,24,30325
 347,"Germantown CDP, Maryland",130235,24,32025
 348,"Glen Burnie CDP, Maryland",94394,24,32650
-349,"Cambridge city, Massachusetts",161930,25,11000
-350,"Rockville city, Maryland",142971,24,67675
-351,"Silver Spring CDP, Maryland",123368,24,72450
-352,"Waldorf CDP, Maryland",120337,24,81175
-353,"Boston city, Massachusetts",133207,25,07000
-354,"Brockton city, Massachusetts",97727,25,09000
-355,"Fall River city, Massachusetts",67555,25,23000
-356,"Framingham city, Massachusetts",131662,25,24960
-357,"Haverhill city, Massachusetts",108283,25,29405
-358,"Lawrence city, Massachusetts",77611,25,34550
-359,"Lowell city, Massachusetts",90438,25,37000
-360,"Lynn city, Massachusetts",81484,25,37490
-361,"Malden city, Massachusetts",113424,25,37875
-362,"Medford city, Massachusetts",141834,25,39835
-363,"New Bedford city, Massachusetts",68003,25,45000
-364,"Newton city, Massachusetts",250802,25,45560
-365,"Quincy city, Massachusetts",116191,25,55745
+349,"Waldorf CDP, Maryland",120337,24,81175
+350,"Boston city, Massachusetts",133207,25,07000
+351,"Brockton city, Massachusetts",97727,25,09000
+352,"Cambridge city, Massachusetts",161930,25,11000
+353,"Fall River city, Massachusetts",67555,25,23000
+354,"Framingham city, Massachusetts",131662,25,24960
+355,"Haverhill city, Massachusetts",108283,25,29405
+356,"Lawrence city, Massachusetts",77611,25,34550
+357,"Lowell city, Massachusetts",90438,25,37000
+358,"Lynn city, Massachusetts",81484,25,37490
+359,"Malden city, Massachusetts",113424,25,37875
+360,"Quincy city, Massachusetts",116191,25,55745
+361,"Rockville city, Maryland",142971,24,67675
+362,"Silver Spring CDP, Maryland",123368,24,72450
+363,"Medford city, Massachusetts",141834,25,39835
+364,"New Bedford city, Massachusetts",68003,25,45000
+365,"Newton city, Massachusetts",250802,25,45560
 366,"Somerville city, Massachusetts",157669,25,62535
 367,"Springfield city, Massachusetts",63952,25,67000
 368,"Worcester city, Massachusetts",83571,25,82000
-369,"Farmington Hills city, Michigan",120465,26,27440
-370,"Ann Arbor city, Michigan",115658,26,03000
-371,"Dearborn city, Michigan",80357,26,21000
-372,"Detroit city, Michigan",52254,26,22000
+369,"Ann Arbor city, Michigan",115658,26,03000
+370,"Dearborn city, Michigan",80357,26,21000
+371,"Detroit city, Michigan",52254,26,22000
+372,"Farmington Hills city, Michigan",120465,26,27440
 373,"Flint city, Michigan",42939,26,29000
-374,"Grand Rapids city, Michigan",83310,26,34000
-375,"Novi city, Michigan",138412,26,59440
+374,"Sterling Heights city, Michigan",94558,26,76460
+375,"Grand Rapids city, Michigan",83310,26,34000
 376,"Kalamazoo city, Michigan",67494,26,42160
 377,"Lansing city, Michigan",62064,26,46000
 378,"Livonia city, Michigan",107939,26,49000
-379,"Troy city, Michigan",140431,26,80700
+379,"Novi city, Michigan",138412,26,59440
 380,"Rochester Hills city, Michigan",133640,26,69035
 381,"Southfield city, Michigan",78149,26,74900
-382,"Sterling Heights city, Michigan",94558,26,76460
+382,"Troy city, Michigan",140431,26,80700
 383,"Warren city, Michigan",73719,26,84000
 384,"Westland city, Michigan",76362,26,86000
 385,"Wyoming city, Michigan",94273,26,88940
-386,"Duluth city, Minnesota",81722,27,17000
-387,"Blaine city, Minnesota",122426,27,06382
-388,"Bloomington city, Minnesota",112797,27,06616
+386,"Blaine city, Minnesota",122426,27,06382
+387,"Bloomington city, Minnesota",112797,27,06616
+388,"St. Paul city, Minnesota",98478,27,58000
 389,"Brooklyn Park city, Minnesota",101793,27,07966
-390,"Eagan city, Minnesota",125334,27,17288
-391,"St. Cloud city, Minnesota",71665,27,56896
+390,"Duluth city, Minnesota",81722,27,17000
+391,"Eagan city, Minnesota",125334,27,17288
 392,"Lakeville city, Minnesota",139657,27,35180
 393,"Maple Grove city, Minnesota",145610,27,40166
 394,"Minneapolis city, Minnesota",107910,27,43000
 395,"Plymouth city, Minnesota",158528,27,51730
 396,"Rochester city, Minnesota",107796,27,54880
-397,"St. Paul city, Minnesota",98478,27,58000
-398,"Springfield city, Missouri",61076,29,70000
-399,"Woodbury city, Minnesota",152598,27,71428
-400,"Gulfport city, Mississippi",64266,28,29700
-401,"Jackson city, Mississippi",62962,28,36000
-402,"Columbia city, Missouri",84021,29,15670
-403,"Independence city, Missouri",71436,29,35000
-404,"Kansas City city, Missouri",85636,29,38000
-405,"Lee's Summit city, Missouri",113027,29,41348
-406,"O'Fallon city, Missouri",123664,29,54074
-407,"St. Charles city, Missouri",105457,29,64082
-408,"St. Joseph city, Missouri",73430,29,64550
-409,"St. Louis city, Missouri",76875,29,65000
-410,"Spring Valley CDP, Nevada",91020,32,68585
-411,"Billings city, Montana",94095,30,06550
-412,"Missoula city, Montana",84066,30,50200
-413,"Lincoln city, Nebraska",88055,31,28000
-414,"Omaha city, Nebraska",94190,31,37000
-415,"Enterprise CDP, Nevada",114595,32,23770
-416,"Henderson city, Nevada",111386,32,31900
-417,"Las Vegas city, Nevada",96561,32,40000
+397,"St. Cloud city, Minnesota",71665,27,56896
+398,"Woodbury city, Minnesota",152598,27,71428
+399,"Independence city, Missouri",71436,29,35000
+400,"Kansas City city, Missouri",85636,29,38000
+401,"Lee's Summit city, Missouri",113027,29,41348
+402,"Enterprise CDP, Nevada",114595,32,23770
+403,"Henderson city, Nevada",111386,32,31900
+404,"Las Vegas city, Nevada",96561,32,40000
+405,"Sunrise Manor CDP, Nevada",71532,32,71400
+406,"Gulfport city, Mississippi",64266,28,29700
+407,"Jackson city, Mississippi",62962,28,36000
+408,"Columbia city, Missouri",84021,29,15670
+409,"O'Fallon city, Missouri",123664,29,54074
+410,"St. Charles city, Missouri",105457,29,64082
+411,"St. Joseph city, Missouri",73430,29,64550
+412,"St. Louis city, Missouri",76875,29,65000
+413,"Springfield city, Missouri",61076,29,70000
+414,"Billings city, Montana",94095,30,06550
+415,"Missoula city, Montana",84066,30,50200
+416,"Lincoln city, Nebraska",88055,31,28000
+417,"Omaha city, Nebraska",94190,31,37000
 418,"North Las Vegas city, Nevada",96090,32,51800
 419,"Paradise CDP, Nevada",74373,32,54600
 420,"Reno city, Nevada",103808,32,60600
 421,"Sparks city, Nevada",96784,32,68400
-422,"Sunrise Manor CDP, Nevada",71532,32,71400
+422,"Spring Valley CDP, Nevada",91020,32,68585
 423,"Manchester city, New Hampshire",100420,33,45140
 424,"Nashua city, New Hampshire",119719,33,50260
 425,"East Orange city, New Jersey",68993,34,19390
@@ -429,164 +429,164 @@
 427,"Camden city, New Jersey",51520,34,10000
 428,"Clifton city, New Jersey",115225,34,13690
 429,"Elizabeth city, New Jersey",79303,34,21000
-430,"Jersey City city, New Jersey",131731,34,36000
-431,"Paterson city, New Jersey",68145,34,57000
+430,"Passaic city, New Jersey",76118,34,56550
+431,"Jersey City city, New Jersey",131731,34,36000
 432,"Lakewood CDP, New Jersey",94359,34,38580
 433,"Newark city, New Jersey",68554,34,51000
-434,"Passaic city, New Jersey",76118,34,56550
+434,"Paterson city, New Jersey",68145,34,57000
 435,"Albuquerque city, New Mexico",86268,35,02000
-436,"Toms River CDP, New Jersey",127948,34,73110
-437,"Trenton city, New Jersey",75695,34,74000
-438,"Union City city, New Jersey",71109,34,74630
-439,"Syracuse city, New York",64250,36,73000
-440,"Las Cruces city, New Mexico",67740,35,39380
-441,"Rio Rancho city, New Mexico",106387,35,63460
-442,"Santa Fe city, New Mexico",97205,35,70500
-443,"Albany city, New York",72450,36,01000
-444,"Buffalo city, New York",69753,36,11000
-445,"Cheektowaga CDP, New York",76090,36,15000
-446,"Mount Vernon city, New York",106435,36,49121
-447,"New Rochelle city, New York",161318,36,50617
-448,"New York city, New York",120216,36,51000
-449,"Rochester city, New York",64073,36,63000
-450,"Schenectady city, New York",91082,36,65508
-451,"Cary town, North Carolina",156203,37,10740
-452,"Yonkers city, New York",96408,36,84000
-453,"Apex town, North Carolina",153945,37,01520
-454,"Asheville city, North Carolina",92811,37,02140
-455,"Charlotte city, North Carolina",115509,37,12000
-456,"Gastonia city, North Carolina",80811,37,25580
-457,"Concord city, North Carolina",106505,37,14100
+436,"Las Cruces city, New Mexico",67740,35,39380
+437,"Mount Vernon city, New York",106435,36,49121
+438,"New Rochelle city, New York",161318,36,50617
+439,"New York city, New York",120216,36,51000
+440,"Yonkers city, New York",96408,36,84000
+441,"Apex town, North Carolina",153945,37,01520
+442,"Asheville city, North Carolina",92811,37,02140
+443,"Cary town, North Carolina",156203,37,10740
+444,"Charlotte city, North Carolina",115509,37,12000
+445,"Concord city, North Carolina",106505,37,14100
+446,"Bismarck city, North Dakota",95499,38,07200
+447,"Toms River CDP, New Jersey",127948,34,73110
+448,"Trenton city, New Jersey",75695,34,74000
+449,"Union City city, New Jersey",71109,34,74630
+450,"Rio Rancho city, New Mexico",106387,35,63460
+451,"Santa Fe city, New Mexico",97205,35,70500
+452,"Albany city, New York",72450,36,01000
+453,"Buffalo city, New York",69753,36,11000
+454,"Cheektowaga CDP, New York",76090,36,15000
+455,"Rochester city, New York",64073,36,63000
+456,"Schenectady city, New York",91082,36,65508
+457,"Syracuse city, New York",64250,36,73000
 458,"Durham city, North Carolina",106741,37,19000
 459,"Fayetteville city, North Carolina",71891,37,22920
-460,"Greensboro city, North Carolina",80399,37,28000
-461,"Greenville city, North Carolina",69072,37,28080
-462,"High Point city, North Carolina",92414,37,31400
-463,"Jacksonville city, North Carolina",68498,37,34200
-464,"Columbus city, Ohio",82674,39,18000
+460,"Gastonia city, North Carolina",80811,37,25580
+461,"Greensboro city, North Carolina",80399,37,28000
+462,"Greenville city, North Carolina",69072,37,28080
+463,"High Point city, North Carolina",92414,37,31400
+464,"Jacksonville city, North Carolina",68498,37,34200
 465,"Raleigh city, North Carolina",111117,37,55000
 466,"Wilmington city, North Carolina",91592,37,74440
 467,"Winston-Salem city, North Carolina",81447,37,75000
-468,"Bismarck city, North Dakota",95499,38,07200
-469,"Fargo city, North Dakota",86830,38,25700
-470,"Akron city, Ohio",57525,39,01000
-471,"Canton city, Ohio",51816,39,12000
-472,"Cincinnati city, Ohio",78588,39,15000
-473,"Cleveland city, Ohio",55709,39,16000
-474,"Dayton city, Ohio",60560,39,21000
-475,"Lorain city, Ohio",61778,39,44856
-476,"Parma city, Ohio",82637,39,61000
-477,"Toledo city, Ohio",60546,39,77000
-478,"Broken Arrow city, Oklahoma",97211,40,09050
-479,"Edmond city, Oklahoma",144047,40,23200
-480,"Lawton city, Oklahoma",68326,40,41850
-481,"Norman city, Oklahoma",81049,40,52500
-482,"Oklahoma City city, Oklahoma",88822,40,55000
-483,"Tulsa city, Oklahoma",82965,40,75000
-484,"Beaverton city, Oregon",114314,41,05350
-485,"Bend city, Oregon",130945,41,05800
-486,"Eugene city, Oregon",86714,41,23850
-487,"Gresham city, Oregon",94879,41,31250
-488,"Hillsboro city, Oregon",123073,41,34100
-489,"Medford city, Oregon",85742,41,47000
-490,"Portland city, Oregon",113694,41,59000
-491,"Salem city, Oregon",90806,41,64900
-492,"Allentown city, Pennsylvania",67276,42,02000
-493,"Bethlehem city, Pennsylvania",89614,42,06088
-494,"Greenville city, South Carolina",105046,45,30850
-495,"Pittsburgh city, Pennsylvania",88868,42,61000
-496,"Philadelphia city, Pennsylvania",82901,42,60000
-497,"Reading city, Pennsylvania",57707,42,63624
-498,"Erie city, Pennsylvania",59803,42,24000
-499,"Scranton city, Pennsylvania",66785,42,69000
-500,"Cranston city, Rhode Island",100151,44,19180
-501,"Pawtucket city, Rhode Island",81863,44,54640
-502,"Providence city, Rhode Island",86103,44,59000
-503,"Warwick city, Rhode Island",97300,44,74300
-504,"Charleston city, South Carolina",122836,45,13330
-505,"Columbia city, South Carolina",94208,45,16000
-506,"Mount Pleasant town, South Carolina",160809,45,48535
-507,"North Charleston city, South Carolina",78398,45,50875
-508,"Memphis city, Tennessee",75043,47,48000
-509,"Rock Hill city, South Carolina",76009,45,61405
-510,"Rapid City city, South Dakota",82784,46,52980
-511,"Sioux Falls city, South Dakota",98029,46,59020
-512,"Chattanooga city, Tennessee",94332,47,14000
-513,"Clarksville city, Tennessee",75035,47,15160
-514,"Franklin city, Tennessee",138701,47,27740
-515,"Jackson city, Tennessee",75732,47,37640
-516,"Johnson City city, Tennessee",87943,47,38320
-517,"Knoxville city, Tennessee",71796,47,40000
-518,"Murfreesboro city, Tennessee",90524,47,51560
-519,"Nashville-Davidson metropolitan government (balance), Tennessee",103671,47,52006
-520,"Arlington city, Texas",90126,48,04000
-521,"Abilene city, Texas",77535,48,01000
-522,"Allen city, Texas",149164,48,01924
-523,"Amarillo city, Texas",84181,48,03000
-524,"Atascocita CDP, Texas",128174,48,04462
-525,"Austin city, Texas",128571,48,05000
-526,"Baytown city, Texas",78783,48,06128
-527,"Beaumont city, Texas",80716,48,07000
-528,"Cedar Park city, Texas",135631,48,13552
-529,"Brownsville city, Texas",59237,48,10768
-530,"Bryan city, Texas",76200,48,10912
-531,"Carrollton city, Texas",114083,48,13024
+468,"Cincinnati city, Ohio",78588,39,15000
+469,"Cleveland city, Ohio",55709,39,16000
+470,"Columbus city, Ohio",82674,39,18000
+471,"Dayton city, Ohio",60560,39,21000
+472,"Norman city, Oklahoma",81049,40,52500
+473,"Oklahoma City city, Oklahoma",88822,40,55000
+474,"Medford city, Oregon",85742,41,47000
+475,"Portland city, Oregon",113694,41,59000
+476,"Salem city, Oregon",90806,41,64900
+477,"Philadelphia city, Pennsylvania",82901,42,60000
+478,"Pittsburgh city, Pennsylvania",88868,42,61000
+479,"Reading city, Pennsylvania",57707,42,63624
+480,"Scranton city, Pennsylvania",66785,42,69000
+481,"Jackson city, Tennessee",75732,47,37640
+482,"Johnson City city, Tennessee",87943,47,38320
+483,"Knoxville city, Tennessee",71796,47,40000
+484,"Memphis city, Tennessee",75043,47,48000
+485,"Murfreesboro city, Tennessee",90524,47,51560
+486,"Nashville-Davidson metropolitan government (balance), Tennessee",103671,47,52006
+487,"Abilene city, Texas",77535,48,01000
+488,"Allen city, Texas",149164,48,01924
+489,"Amarillo city, Texas",84181,48,03000
+490,"Arlington city, Texas",90126,48,04000
+491,"Atascocita CDP, Texas",128174,48,04462
+492,"Austin city, Texas",128571,48,05000
+493,"Brownsville city, Texas",59237,48,10768
+494,"Fargo city, North Dakota",86830,38,25700
+495,"Akron city, Ohio",57525,39,01000
+496,"Canton city, Ohio",51816,39,12000
+497,"Lorain city, Ohio",61778,39,44856
+498,"Parma city, Ohio",82637,39,61000
+499,"Toledo city, Ohio",60546,39,77000
+500,"Broken Arrow city, Oklahoma",97211,40,09050
+501,"Edmond city, Oklahoma",144047,40,23200
+502,"Lawton city, Oklahoma",68326,40,41850
+503,"Tulsa city, Oklahoma",82965,40,75000
+504,"Beaverton city, Oregon",114314,41,05350
+505,"Bend city, Oregon",130945,41,05800
+506,"Eugene city, Oregon",86714,41,23850
+507,"Gresham city, Oregon",94879,41,31250
+508,"Hillsboro city, Oregon",123073,41,34100
+509,"Allentown city, Pennsylvania",67276,42,02000
+510,"Bethlehem city, Pennsylvania",89614,42,06088
+511,"Erie city, Pennsylvania",59803,42,24000
+512,"Cranston city, Rhode Island",100151,44,19180
+513,"Pawtucket city, Rhode Island",81863,44,54640
+514,"Providence city, Rhode Island",86103,44,59000
+515,"Warwick city, Rhode Island",97300,44,74300
+516,"Charleston city, South Carolina",122836,45,13330
+517,"Columbia city, South Carolina",94208,45,16000
+518,"Greenville city, South Carolina",105046,45,30850
+519,"Mount Pleasant town, South Carolina",160809,45,48535
+520,"North Charleston city, South Carolina",78398,45,50875
+521,"Rock Hill city, South Carolina",76009,45,61405
+522,"Rapid City city, South Dakota",82784,46,52980
+523,"Sioux Falls city, South Dakota",98029,46,59020
+524,"Chattanooga city, Tennessee",94332,47,14000
+525,"Clarksville city, Tennessee",75035,47,15160
+526,"Franklin city, Tennessee",138701,47,27740
+527,"Baytown city, Texas",78783,48,06128
+528,"Beaumont city, Texas",80716,48,07000
+529,"Bryan city, Texas",76200,48,10912
+530,"Carrollton city, Texas",114083,48,13024
+531,"Cedar Park city, Texas",135631,48,13552
 532,"College Station city, Texas",84712,48,15976
 533,"Conroe city, Texas",98191,48,16432
 534,"Corpus Christi city, Texas",85111,48,17000
 535,"Dallas city, Texas",106493,48,19000
 536,"Denton city, Texas",98304,48,19972
-537,"Fort Worth city, Texas",95151,48,27000
-538,"Edinburg city, Texas",69318,48,22660
-539,"El Paso city, Texas",75342,48,24000
-540,"Flower Mound town, Texas",181257,48,26232
+537,"Edinburg city, Texas",69318,48,22660
+538,"El Paso city, Texas",75342,48,24000
+539,"Flower Mound town, Texas",181257,48,26232
+540,"Fort Worth city, Texas",95151,48,27000
 541,"Frisco city, Texas",189253,48,27684
 542,"Garland city, Texas",89165,48,29000
 543,"Georgetown city, Texas",119627,48,29336
 544,"Grand Prairie city, Texas",95216,48,30464
 545,"Harlingen city, Texas",65118,48,32372
-546,"Laredo city, Texas",79755,48,41464
-547,"Houston city, Texas",95984,48,35000
-548,"Irving city, Texas",100401,48,37000
-549,"Killeen city, Texas",70133,48,39148
-550,"League City city, Texas",126386,48,41980
-551,"Leander city, Texas",159725,48,42016
-552,"Lewisville city, Texas",99236,48,42508
-553,"McKinney city, Texas",131484,48,45744
-554,"Longview city, Texas",82505,48,43888
-555,"Lubbock city, Texas",82648,48,45000
-556,"McAllen city, Texas",88130,48,45384
+546,"Houston city, Texas",95984,48,35000
+547,"Irving city, Texas",100401,48,37000
+548,"Killeen city, Texas",70133,48,39148
+549,"Lewisville city, Texas",99236,48,42508
+550,"Laredo city, Texas",79755,48,41464
+551,"League City city, Texas",126386,48,41980
+552,"Leander city, Texas",159725,48,42016
+553,"Longview city, Texas",82505,48,43888
+554,"Lubbock city, Texas",82648,48,45000
+555,"McAllen city, Texas",88130,48,45384
+556,"McKinney city, Texas",131484,48,45744
 557,"Mansfield city, Texas",133838,48,46452
 558,"Mesquite city, Texas",82178,48,47892
 559,"Midland city, Texas",120019,48,48072
-560,"Mission city, Texas",81708,48,48768
-561,"Missouri City city, Texas",111610,48,48804
-562,"New Braunfels city, Texas",102508,48,50820
-563,"North Richland Hills city, Texas",111555,48,52356
+560,"North Richland Hills city, Texas",111555,48,52356
+561,"Mission city, Texas",81708,48,48768
+562,"Missouri City city, Texas",111610,48,48804
+563,"New Braunfels city, Texas",102508,48,50820
 564,"Odessa city, Texas",83368,48,53388
-565,"Pharr city, Texas",60391,48,57200
-566,"Pasadena city, Texas",75592,48,56000
-567,"Pearland city, Texas",126597,48,56348
-568,"Pflugerville city, Texas",126863,48,57176
-569,"Plano city, Texas",140141,48,58016
-570,"Richardson city, Texas",114378,48,61796
-571,"Round Rock city, Texas",113508,48,63500
-572,"Rowlett city, Texas",132061,48,63572
-573,"San Angelo city, Texas",79039,48,64472
-574,"San Antonio city, Texas",78812,48,65000
-575,"Temple city, Texas",86285,48,72176
-576,"San Marcos city, Texas",65497,48,65600
+565,"Pasadena city, Texas",75592,48,56000
+566,"Pearland city, Texas",126597,48,56348
+567,"Pflugerville city, Texas",126863,48,57176
+568,"Pharr city, Texas",60391,48,57200
+569,"Round Rock city, Texas",113508,48,63500
+570,"Rowlett city, Texas",132061,48,63572
+571,"San Angelo city, Texas",79039,48,64472
+572,"San Antonio city, Texas",78812,48,65000
+573,"San Marcos city, Texas",65497,48,65600
+574,"The Woodlands CDP, Texas",182917,48,72656
+575,"Plano city, Texas",140141,48,58016
+576,"Richardson city, Texas",114378,48,61796
 577,"Spring CDP, Texas",93616,48,69596
 578,"Sugar Land city, Texas",160013,48,70808
-579,"The Woodlands CDP, Texas",182917,48,72656
+579,"Temple city, Texas",86285,48,72176
 580,"Tyler city, Texas",82188,48,74144
-581,"Ogden city, Utah",80397,49,55980
-582,"Victoria city, Texas",76981,48,75428
+581,"Victoria city, Texas",76981,48,75428
+582,"Orem city, Utah",92123,49,57300
 583,"Waco city, Texas",73585,48,76000
 584,"Wichita Falls city, Texas",79910,48,79000
 585,"Layton city, Utah",119433,49,43660
 586,"Lehi city, Utah",146297,49,44320
-587,"Orem city, Utah",92123,49,57300
+587,"Ogden city, Utah",80397,49,55980
 588,"Provo city, Utah",82144,49,62470
 589,"St. George city, Utah",101477,49,65330
 590,"Salt Lake City city, Utah",112583,49,67000
@@ -606,9 +606,9 @@
 604,"Norfolk city, Virginia",85758,51,57000
 605,"Portsmouth city, Virginia",70197,51,64000
 606,"Roanoke city, Virginia",73348,51,68000
-607,"Suffolk city, Virginia",103234,51,76432
-608,"Virginia Beach city, Virginia",109630,51,82000
-609,"Everett city, Washington",114016,53,22640
+607,"Everett city, Washington",114016,53,22640
+608,"Suffolk city, Virginia",103234,51,76432
+609,"Virginia Beach city, Virginia",109630,51,82000
 610,"Auburn city, Washington",106708,53,03180
 611,"Bellevue city, Washington",218725,53,05210
 612,"Bellingham city, Washington",90294,53,05280
@@ -625,17 +625,17 @@
 623,"South Hill CDP, Washington",127880,53,65922
 624,"Spokane city, Washington",84076,53,67000
 625,"Spokane Valley city, Washington",84563,53,67167
-626,"Kenosha city, Wisconsin",82173,55,39225
-627,"Tacoma city, Washington",101373,53,70000
-628,"Vancouver city, Washington",98341,53,74060
-629,"Yakima city, Washington",77964,53,80010
-630,"Appleton city, Wisconsin",96527,55,02375
-631,"Eau Claire city, Wisconsin",75780,55,22300
-632,"Green Bay city, Wisconsin",66515,55,31000
-633,"Janesville city, Wisconsin",78200,55,37825
-634,"Madison city, Wisconsin",100007,55,48000
-635,"Milwaukee city, Wisconsin",68250,55,53000
-636,"San Juan zona urbana, Puerto Rico",53003,72,76770
+626,"Tacoma city, Washington",101373,53,70000
+627,"Vancouver city, Washington",98341,53,74060
+628,"Yakima city, Washington",77964,53,80010
+629,"Kenosha city, Wisconsin",82173,55,39225
+630,"Madison city, Wisconsin",100007,55,48000
+631,"Milwaukee city, Wisconsin",68250,55,53000
+632,"San Juan zona urbana, Puerto Rico",53003,72,76770
+633,"Appleton city, Wisconsin",96527,55,02375
+634,"Eau Claire city, Wisconsin",75780,55,22300
+635,"Green Bay city, Wisconsin",66515,55,31000
+636,"Janesville city, Wisconsin",78200,55,37825
 637,"Oshkosh city, Wisconsin",71711,55,60500
 638,"Racine city, Wisconsin",71653,55,66000
 639,"Waukesha city, Wisconsin",91542,55,84250

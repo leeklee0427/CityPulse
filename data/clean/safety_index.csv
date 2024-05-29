@@ -1,38 +1,38 @@
 City,State,Safety
-Memphis,TN,23.7
-Baltimore,MD,25.4
-Detroit,MI,26.1
-Albuquerque,NM,28.5
-Saint Louis,MO,29.8
-Milwaukee,WI,31.8
-Oakland,CA,32.0
-New Orleans,LA,32.8
+Memphis,TN,22.9
+Baltimore,MD,24.9
+Detroit,MI,25.8
+Albuquerque,NM,28.4
+Saint Louis,MO,30.2
+Oakland,CA,31.0
+Milwaukee,WI,32.4
+New Orleans,LA,32.6
 Chicago,IL,34.0
-Philadelphia,PA,34.2
-Atlanta,GA,36.2
-Houston,TX,36.8
-San Francisco,CA,38.0
-Washington,DC,39.1
-Indianapolis,IN,41.3
-Portland,OR,43.5
-Las Vegas,NV,44.1
+Philadelphia,PA,34.3
+Atlanta,GA,36.0
+Houston,TX,36.3
+San Francisco,CA,38.4
+Indianapolis,IN,39.8
+Washington,DC,39.9
+Portland,OR,43.2
 Minneapolis,MN,44.2
-Seattle,WA,45.6
-Tucson,AZ,45.9
-Phoenix,AZ,46.6
-Miami,FL,46.7
-Los Angeles,CA,47.2
-Dallas,TX,48.3
-Columbus,OH,49.6
-New York,NY,50.0
+Las Vegas,NV,44.4
+Tucson,AZ,45.5
+Seattle,WA,45.9
+Phoenix,AZ,46.2
+Los Angeles,CA,47.0
+Miami,FL,47.2
+Dallas,TX,48.1
+New York,NY,49.2
+Orlando,FL,50.0
 Sacramento,CA,50.2
-Orlando,FL,50.5
-San Antonio,TX,51.9
-Honolulu,HI,52.6
-Denver,CO,53.3
-Tampa,FL,54.0
-San Diego,CA,59.0
-Austin,TX,59.2
-Boston,MA,59.6
-Boise,ID,64.6
-Salt Lake City,UT,66.2
+Columbus,OH,50.7
+Honolulu,HI,52.1
+San Antonio,TX,52.2
+Denver,CO,52.9
+Tampa,FL,54.9
+Austin,TX,58.5
+Boston,MA,59.5
+San Diego,CA,59.8
+Boise,ID,64.7
+Salt Lake City,UT,65.6

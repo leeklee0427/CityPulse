@@ -11,8 +11,8 @@
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Taipei">Taipei, Taiwan</a></td>
-<td style="text-align: right">86.3</td>
-<td style="text-align: right">158.7</td>
+<td style="text-align: right">86.6</td>
+<td style="text-align: right">159.3</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -23,50 +23,56 @@
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Seoul">Seoul, South Korea</a></td>
-<td style="text-align: right">82.8</td>
-<td style="text-align: right">151.7</td>
+<td style="text-align: right">83.0</td>
+<td style="text-align: right">152.0</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Rotterdam">Rotterdam, Netherlands</a></td>
-<td style="text-align: right">81.5</td>
-<td style="text-align: right">149.6</td>
+<td style="text-align: right">81.3</td>
+<td style="text-align: right">149.3</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/The-Hague-Den-Haag-Netherlands">The Hague (Den Haag), Netherlands</a></td>
-<td style="text-align: right">80.6</td>
-<td style="text-align: right">147.2</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Valencia">Valencia, Spain</a></td>
-<td style="text-align: right">79.8</td>
-<td style="text-align: right">147.2</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Madrid">Madrid, Spain</a></td>
-<td style="text-align: right">79.8</td>
-<td style="text-align: right">147.7</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Helsinki">Helsinki, Finland</a></td>
-<td style="text-align: right">79.5</td>
-<td style="text-align: right">145.4</td>
+<td style="text-align: right">81.0</td>
+<td style="text-align: right">148.1</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Porto">Porto, Portugal</a></td>
-<td style="text-align: right">79.3</td>
-<td style="text-align: right">145.3</td>
+<td style="text-align: right">80.4</td>
+<td style="text-align: right">147.4</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Valencia">Valencia, Spain</a></td>
+<td style="text-align: right">80.3</td>
+<td style="text-align: right">148.1</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Guadalajara">Guadalajara, Mexico</a></td>
-<td style="text-align: right">79.3</td>
-<td style="text-align: right">144.6</td>
+<td style="text-align: right">80.0</td>
+<td style="text-align: right">146.0</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Helsinki">Helsinki, Finland</a></td>
+<td style="text-align: right">80.0</td>
+<td style="text-align: right">146.4</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Vienna">Vienna, Austria</a></td>
+<td style="text-align: right">79.6</td>
+<td style="text-align: right">145.7</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Madrid">Madrid, Spain</a></td>
+<td style="text-align: right">79.4</td>
+<td style="text-align: right">146.9</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -76,285 +82,327 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Vienna">Vienna, Austria</a></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Tokyo">Tokyo, Japan</a></td>
 <td style="text-align: right">79.0</td>
-<td style="text-align: right">144.5</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Eindhoven">Eindhoven, Netherlands</a></td>
-<td style="text-align: right">78.9</td>
-<td style="text-align: right">144.4</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Bursa">Bursa, Turkey</a></td>
-<td style="text-align: right">78.9</td>
-<td style="text-align: right">143.3</td>
+<td style="text-align: right">143.8</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Glasgow">Glasgow, United Kingdom</a></td>
 <td style="text-align: right">78.9</td>
-<td style="text-align: right">145.3</td>
+<td style="text-align: right">145.4</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Oslo">Oslo, Norway</a></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Eindhoven">Eindhoven, Netherlands</a></td>
 <td style="text-align: right">78.8</td>
-<td style="text-align: right">144.6</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Medellin">Medellin, Colombia</a></td>
-<td style="text-align: right">78.5</td>
-<td style="text-align: right">143.0</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Cuenca">Cuenca, Ecuador</a></td>
-<td style="text-align: right">78.5</td>
-<td style="text-align: right">142.9</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Tokyo">Tokyo, Japan</a></td>
-<td style="text-align: right">78.4</td>
-<td style="text-align: right">142.7</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Paris">Paris, France</a></td>
-<td style="text-align: right">78.3</td>
-<td style="text-align: right">143.6</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Edinburgh">Edinburgh, United Kingdom</a></td>
-<td style="text-align: right">78.2</td>
-<td style="text-align: right">144.4</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Luxembourg">Luxembourg, Luxembourg</a></td>
-<td style="text-align: right">77.9</td>
-<td style="text-align: right">142.1</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Hamilton">Hamilton, Canada</a></td>
-<td style="text-align: right">77.7</td>
 <td style="text-align: right">144.1</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Barcelona">Barcelona, Spain</a></td>
-<td style="text-align: right">77.3</td>
-<td style="text-align: right">143.2</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Medellin">Medellin, Colombia</a></td>
+<td style="text-align: right">78.4</td>
+<td style="text-align: right">142.9</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Bangkok">Bangkok, Thailand</a></td>
-<td style="text-align: right">76.9</td>
-<td style="text-align: right">140.0</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Cuenca">Cuenca, Ecuador</a></td>
+<td style="text-align: right">78.3</td>
+<td style="text-align: right">142.3</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Copenhagen">Copenhagen, Denmark</a></td>
-<td style="text-align: right">76.7</td>
-<td style="text-align: right">141.4</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Luxembourg">Luxembourg, Luxembourg</a></td>
+<td style="text-align: right">78.2</td>
+<td style="text-align: right">142.5</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Oslo">Oslo, Norway</a></td>
+<td style="text-align: right">78.0</td>
+<td style="text-align: right">142.8</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Munich">Munich, Germany</a></td>
-<td style="text-align: right">76.6</td>
-<td style="text-align: right">139.8</td>
+<td style="text-align: right">78.0</td>
+<td style="text-align: right">142.4</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Brno">Brno, Czech Republic</a></td>
-<td style="text-align: right">75.7</td>
-<td style="text-align: right">139.5</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Bursa">Bursa, Turkey</a></td>
+<td style="text-align: right">77.8</td>
+<td style="text-align: right">141.1</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Edinburgh">Edinburgh, United Kingdom</a></td>
+<td style="text-align: right">77.6</td>
+<td style="text-align: right">143.3</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Paris">Paris, France</a></td>
+<td style="text-align: right">77.5</td>
+<td style="text-align: right">141.8</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Edmonton">Edmonton, Canada</a></td>
-<td style="text-align: right">75.5</td>
-<td style="text-align: right">139.8</td>
+<td style="text-align: right">77.3</td>
+<td style="text-align: right">143.1</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Lisbon">Lisbon, Portugal</a></td>
-<td style="text-align: right">75.5</td>
-<td style="text-align: right">137.8</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Barcelona">Barcelona, Spain</a></td>
+<td style="text-align: right">76.9</td>
+<td style="text-align: right">142.5</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Manchester">Manchester, United Kingdom</a></td>
-<td style="text-align: right">75.4</td>
-<td style="text-align: right">138.2</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Copenhagen">Copenhagen, Denmark</a></td>
+<td style="text-align: right">76.8</td>
+<td style="text-align: right">141.9</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Tallinn">Tallinn, Estonia</a></td>
-<td style="text-align: right">75.2</td>
-<td style="text-align: right">137.7</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Hamburg">Hamburg, Germany</a></td>
-<td style="text-align: right">75.2</td>
-<td style="text-align: right">137.1</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Toronto">Toronto, Canada</a></td>
-<td style="text-align: right">75.0</td>
-<td style="text-align: right">138.0</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Vilnius">Vilnius, Lithuania</a></td>
-<td style="text-align: right">74.7</td>
-<td style="text-align: right">135.7</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Prague">Prague, Czech Republic</a></td>
-<td style="text-align: right">74.5</td>
-<td style="text-align: right">136.6</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Frankfurt">Frankfurt, Germany</a></td>
-<td style="text-align: right">74.5</td>
-<td style="text-align: right">135.9</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Stuttgart">Stuttgart, Germany</a></td>
-<td style="text-align: right">74.4</td>
-<td style="text-align: right">136.1</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Split">Split, Croatia</a></td>
-<td style="text-align: right">74.2</td>
-<td style="text-align: right">134.5</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Kaunas">Kaunas, Lithuania</a></td>
-<td style="text-align: right">74.2</td>
-<td style="text-align: right">136.4</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Tel-Aviv-Yafo">Tel Aviv-Yafo, Israel</a></td>
-<td style="text-align: right">74.1</td>
-<td style="text-align: right">135.9</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Pattaya">Pattaya, Thailand</a></td>
-<td style="text-align: right">73.9</td>
-<td style="text-align: right">135.5</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Nizhny-Novgorod-Russia">Nizhny Novgorod, Russia</a></td>
-<td style="text-align: right">73.5</td>
-<td style="text-align: right">132.4</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Bangkok">Bangkok, Thailand</a></td>
+<td style="text-align: right">76.7</td>
+<td style="text-align: right">139.6</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Madison">Madison, WI, United States</a></td>
-<td style="text-align: right">73.5</td>
+<td style="text-align: right">76.4</td>
+<td style="text-align: right">141.6</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Brno">Brno, Czech Republic</a></td>
+<td style="text-align: right">76.3</td>
+<td style="text-align: right">141.0</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Frankfurt">Frankfurt, Germany</a></td>
+<td style="text-align: right">76.3</td>
+<td style="text-align: right">139.5</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Stuttgart">Stuttgart, Germany</a></td>
+<td style="text-align: right">76.2</td>
+<td style="text-align: right">139.6</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Hamilton">Hamilton, Canada</a></td>
+<td style="text-align: right">76.2</td>
+<td style="text-align: right">141.0</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Vilnius">Vilnius, Lithuania</a></td>
+<td style="text-align: right">76.1</td>
+<td style="text-align: right">138.7</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Hamburg">Hamburg, Germany</a></td>
+<td style="text-align: right">74.9</td>
+<td style="text-align: right">136.7</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Sydney">Sydney, Australia</a></td>
+<td style="text-align: right">74.8</td>
 <td style="text-align: right">135.8</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Tallinn">Tallinn, Estonia</a></td>
+<td style="text-align: right">74.8</td>
+<td style="text-align: right">137.0</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Prague">Prague, Czech Republic</a></td>
+<td style="text-align: right">74.7</td>
+<td style="text-align: right">136.9</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Brisbane">Brisbane, Australia</a></td>
+<td style="text-align: right">74.6</td>
+<td style="text-align: right">136.1</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Kaunas">Kaunas, Lithuania</a></td>
+<td style="text-align: right">74.6</td>
+<td style="text-align: right">137.1</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Nizhny-Novgorod-Russia">Nizhny Novgorod, Russia</a></td>
+<td style="text-align: right">74.5</td>
+<td style="text-align: right">134.4</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Calgary">Calgary, Canada</a></td>
+<td style="text-align: right">74.5</td>
+<td style="text-align: right">136.7</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Toronto">Toronto, Canada</a></td>
+<td style="text-align: right">74.4</td>
+<td style="text-align: right">136.8</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Pattaya">Pattaya, Thailand</a></td>
+<td style="text-align: right">74.4</td>
+<td style="text-align: right">136.5</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Manchester">Manchester, United Kingdom</a></td>
+<td style="text-align: right">74.4</td>
+<td style="text-align: right">136.3</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Adelaide">Adelaide, Australia</a></td>
+<td style="text-align: right">73.9</td>
+<td style="text-align: right">134.5</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Tel-Aviv-Yafo">Tel Aviv-Yafo, Israel</a></td>
+<td style="text-align: right">73.8</td>
+<td style="text-align: right">135.4</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Brussels">Brussels, Belgium</a></td>
-<td style="text-align: right">73.4</td>
-<td style="text-align: right">133.0</td>
+<td style="text-align: right">73.6</td>
+<td style="text-align: right">133.3</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Lisbon">Lisbon, Portugal</a></td>
+<td style="text-align: right">73.3</td>
+<td style="text-align: right">133.6</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Doha">Doha, Qatar</a></td>
-<td style="text-align: right">73.1</td>
-<td style="text-align: right">132.9</td>
+<td style="text-align: right">73.3</td>
+<td style="text-align: right">133.3</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Antalya">Antalya, Turkey</a></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Melbourne">Melbourne, Australia</a></td>
+<td style="text-align: right">73.1</td>
+<td style="text-align: right">132.8</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Izmir">Izmir, Turkey</a></td>
 <td style="text-align: right">73.1</td>
 <td style="text-align: right">132.4</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Izmir">Izmir, Turkey</a></td>
-<td style="text-align: right">72.8</td>
-<td style="text-align: right">131.8</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Boston">Boston, MA, United States</a></td>
+<td style="text-align: right">72.9</td>
+<td style="text-align: right">134.3</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Honolulu">Honolulu, HI, United States</a></td>
+<td style="text-align: right">72.9</td>
+<td style="text-align: right">132.7</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Canberra">Canberra, Australia</a></td>
 <td style="text-align: right">72.4</td>
-<td style="text-align: right">131.6</td>
+<td style="text-align: right">131.4</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Boston">Boston, MA, United States</a></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Antalya">Antalya, Turkey</a></td>
 <td style="text-align: right">72.3</td>
-<td style="text-align: right">133.3</td>
+<td style="text-align: right">130.8</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Geneva">Geneva, Switzerland</a></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Belfast">Belfast, United Kingdom</a></td>
 <td style="text-align: right">72.3</td>
-<td style="text-align: right">134.9</td>
+<td style="text-align: right">135.3</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Vancouver">Vancouver, Canada</a></td>
-<td style="text-align: right">72.1</td>
-<td style="text-align: right">132.1</td>
+<td style="text-align: right">72.2</td>
+<td style="text-align: right">132.3</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Birmingham">Birmingham, United Kingdom</a></td>
+<td style="text-align: right">72.1</td>
+<td style="text-align: right">134.1</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Abu-Dhabi">Abu Dhabi, United Arab Emirates</a></td>
+<td style="text-align: right">72.0</td>
+<td style="text-align: right">131.4</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Singapore">Singapore, Singapore</a></td>
 <td style="text-align: right">71.9</td>
 <td style="text-align: right">133.4</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Belfast">Belfast, United Kingdom</a></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Perth">Perth, Australia</a></td>
 <td style="text-align: right">71.8</td>
-<td style="text-align: right">134.5</td>
+<td style="text-align: right">130.4</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Calgary">Calgary, Canada</a></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Portland">Portland, OR, United States</a></td>
 <td style="text-align: right">71.7</td>
-<td style="text-align: right">131.1</td>
+<td style="text-align: right">132.8</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Sydney">Sydney, Australia</a></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Geneva">Geneva, Switzerland</a></td>
 <td style="text-align: right">71.6</td>
-<td style="text-align: right">129.3</td>
+<td style="text-align: right">133.6</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Brisbane">Brisbane, Australia</a></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Split">Split, Croatia</a></td>
 <td style="text-align: right">71.5</td>
-<td style="text-align: right">130.1</td>
+<td style="text-align: right">129.2</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Minneapolis">Minneapolis, MN, United States</a></td>
+<td style="text-align: right">71.5</td>
+<td style="text-align: right">133.6</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Milan">Milan, Italy</a></td>
-<td style="text-align: right">71.3</td>
-<td style="text-align: right">130.3</td>
+<td style="text-align: right">71.4</td>
+<td style="text-align: right">130.5</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -365,32 +413,50 @@
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Colombo">Colombo, Sri Lanka</a></td>
-<td style="text-align: right">71.1</td>
-<td style="text-align: right">128.6</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Zurich">Zurich, Switzerland</a></td>
-<td style="text-align: right">70.5</td>
-<td style="text-align: right">131.7</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Melbourne">Melbourne, Australia</a></td>
-<td style="text-align: right">70.3</td>
-<td style="text-align: right">127.2</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Malaga">Malaga, Spain</a></td>
-<td style="text-align: right">70.2</td>
+<td style="text-align: right">71.2</td>
 <td style="text-align: right">128.9</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Singapore">Singapore, Singapore</a></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Seattle">Seattle, WA, United States</a></td>
+<td style="text-align: right">71.0</td>
+<td style="text-align: right">132.8</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Columbus">Columbus, OH, United States</a></td>
+<td style="text-align: right">71.0</td>
+<td style="text-align: right">131.6</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Malaga">Malaga, Spain</a></td>
+<td style="text-align: right">70.4</td>
+<td style="text-align: right">129.1</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Philadelphia">Philadelphia, PA, United States</a></td>
+<td style="text-align: right">70.2</td>
+<td style="text-align: right">128.4</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Auckland">Auckland, New Zealand</a></td>
+<td style="text-align: right">70.2</td>
+<td style="text-align: right">127.0</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Washington">Washington, DC, United States</a></td>
 <td style="text-align: right">70.1</td>
-<td style="text-align: right">129.8</td>
+<td style="text-align: right">129.6</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Istanbul">Istanbul, Turkey</a></td>
+<td style="text-align: right">70.0</td>
+<td style="text-align: right">126.2</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -400,249 +466,195 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Istanbul">Istanbul, Turkey</a></td>
-<td style="text-align: right">69.8</td>
-<td style="text-align: right">126.0</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Minneapolis">Minneapolis, MN, United States</a></td>
-<td style="text-align: right">69.8</td>
-<td style="text-align: right">130.3</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Chennai">Chennai, India</a></td>
-<td style="text-align: right">69.5</td>
-<td style="text-align: right">125.3</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Charlotte">Charlotte, NC, United States</a></td>
-<td style="text-align: right">69.4</td>
-<td style="text-align: right">129.4</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Coimbatore">Coimbatore, India</a></td>
-<td style="text-align: right">69.3</td>
-<td style="text-align: right">125.2</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Portland">Portland, OR, United States</a></td>
-<td style="text-align: right">69.1</td>
-<td style="text-align: right">127.7</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Monterrey">Monterrey, Mexico</a></td>
-<td style="text-align: right">68.9</td>
-<td style="text-align: right">124.3</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Ankara">Ankara, Turkey</a></td>
-<td style="text-align: right">68.9</td>
-<td style="text-align: right">123.9</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Mississauga">Mississauga, Canada</a></td>
+<td style="text-align: right">69.9</td>
+<td style="text-align: right">127.5</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Denver">Denver, CO, United States</a></td>
-<td style="text-align: right">68.8</td>
-<td style="text-align: right">128.8</td>
+<td style="text-align: right">69.7</td>
+<td style="text-align: right">130.5</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Dubai">Dubai, United Arab Emirates</a></td>
+<td style="text-align: right">69.7</td>
+<td style="text-align: right">129.4</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Zurich">Zurich, Switzerland</a></td>
+<td style="text-align: right">69.6</td>
+<td style="text-align: right">129.7</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Chennai">Chennai, India</a></td>
+<td style="text-align: right">69.4</td>
+<td style="text-align: right">125.1</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Quebec-City">Quebec City, Canada</a></td>
+<td style="text-align: right">69.3</td>
+<td style="text-align: right">128.4</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Charlotte">Charlotte, NC, United States</a></td>
+<td style="text-align: right">69.2</td>
+<td style="text-align: right">128.9</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Ankara">Ankara, Turkey</a></td>
+<td style="text-align: right">69.2</td>
+<td style="text-align: right">124.5</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Monterrey">Monterrey, Mexico</a></td>
+<td style="text-align: right">69.0</td>
+<td style="text-align: right">124.5</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Beijing">Beijing, China</a></td>
 <td style="text-align: right">68.8</td>
-<td style="text-align: right">127.7</td>
+<td style="text-align: right">124.8</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Ottawa">Ottawa, Canada</a></td>
 <td style="text-align: right">68.8</td>
-<td style="text-align: right">125.4</td>
+<td style="text-align: right">125.6</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Quebec-City">Quebec City, Canada</a></td>
-<td style="text-align: right">68.7</td>
-<td style="text-align: right">127.2</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Cape-Town">Cape Town, South Africa</a></td>
+<td style="text-align: right">68.8</td>
+<td style="text-align: right">125.5</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Mississauga">Mississauga, Canada</a></td>
-<td style="text-align: right">68.7</td>
-<td style="text-align: right">125.1</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Beijing">Beijing, China</a></td>
-<td style="text-align: right">68.7</td>
-<td style="text-align: right">124.4</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Coimbatore">Coimbatore, India</a></td>
+<td style="text-align: right">68.8</td>
+<td style="text-align: right">124.1</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Houston">Houston, TX, United States</a></td>
+<td style="text-align: right">68.8</td>
+<td style="text-align: right">127.3</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Winnipeg">Winnipeg, Canada</a></td>
 <td style="text-align: right">68.7</td>
-<td style="text-align: right">127.1</td>
+<td style="text-align: right">127.5</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Sacramento">Sacramento, CA, United States</a></td>
 <td style="text-align: right">68.5</td>
-<td style="text-align: right">124.4</td>
+<td style="text-align: right">124.3</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Raleigh">Raleigh, NC, United States</a></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Montevideo">Montevideo, Uruguay</a></td>
 <td style="text-align: right">68.5</td>
-<td style="text-align: right">127.5</td>
+<td style="text-align: right">123.8</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Cape-Town">Cape Town, South Africa</a></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Salt-Lake-City">Salt Lake City, UT, United States</a></td>
 <td style="text-align: right">68.4</td>
-<td style="text-align: right">124.8</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Philadelphia">Philadelphia, PA, United States</a></td>
-<td style="text-align: right">68.4</td>
-<td style="text-align: right">124.9</td>
+<td style="text-align: right">128.9</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Buenos-Aires">Buenos Aires, Argentina</a></td>
 <td style="text-align: right">68.4</td>
-<td style="text-align: right">123.8</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Auckland">Auckland, New Zealand</a></td>
-<td style="text-align: right">68.4</td>
-<td style="text-align: right">123.1</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Abu-Dhabi">Abu Dhabi, United Arab Emirates</a></td>
-<td style="text-align: right">68.3</td>
-<td style="text-align: right">124.0</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Gothenburg">Gothenburg, Sweden</a></td>
-<td style="text-align: right">68.2</td>
-<td style="text-align: right">126.2</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Berlin">Berlin, Germany</a></td>
-<td style="text-align: right">68.2</td>
-<td style="text-align: right">123.8</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Montevideo">Montevideo, Uruguay</a></td>
-<td style="text-align: right">68.2</td>
-<td style="text-align: right">123.2</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Reykjavik">Reykjavik, Iceland</a></td>
-<td style="text-align: right">68.2</td>
-<td style="text-align: right">124.5</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Winnipeg">Winnipeg, Canada</a></td>
-<td style="text-align: right">68.1</td>
-<td style="text-align: right">126.1</td>
+<td style="text-align: right">123.9</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Kuala-Lumpur">Kuala Lumpur, Malaysia</a></td>
-<td style="text-align: right">68.1</td>
-<td style="text-align: right">122.7</td>
+<td style="text-align: right">68.2</td>
+<td style="text-align: right">123.0</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Adelaide">Adelaide, Australia</a></td>
-<td style="text-align: right">68.0</td>
-<td style="text-align: right">122.9</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Salt-Lake-City">Salt Lake City, UT, United States</a></td>
-<td style="text-align: right">68.0</td>
-<td style="text-align: right">127.4</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Atlanta">Atlanta, GA, United States</a></td>
-<td style="text-align: right">68.0</td>
-<td style="text-align: right">126.6</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Columbus">Columbus, OH, United States</a></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Reykjavik">Reykjavik, Iceland</a></td>
 <td style="text-align: right">67.8</td>
-<td style="text-align: right">125.3</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Austin">Austin, TX, United States</a></td>
-<td style="text-align: right">67.8</td>
-<td style="text-align: right">125.2</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Perth">Perth, Australia</a></td>
-<td style="text-align: right">67.7</td>
-<td style="text-align: right">122.4</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/San-Antonio">San Antonio, TX, United States</a></td>
-<td style="text-align: right">67.7</td>
-<td style="text-align: right">124.0</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Ljubljana">Ljubljana, Slovenia</a></td>
-<td style="text-align: right">67.5</td>
-<td style="text-align: right">125.6</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/London-Canada">London, Canada</a></td>
-<td style="text-align: right">67.4</td>
-<td style="text-align: right">122.7</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Phoenix">Phoenix, AZ, United States</a></td>
-<td style="text-align: right">67.2</td>
-<td style="text-align: right">125.5</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Canberra">Canberra, Australia</a></td>
-<td style="text-align: right">67.2</td>
-<td style="text-align: right">121.2</td>
+<td style="text-align: right">123.9</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/San-Diego">San Diego, CA, United States</a></td>
-<td style="text-align: right">67.2</td>
-<td style="text-align: right">124.4</td>
+<td style="text-align: right">67.8</td>
+<td style="text-align: right">125.7</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Tampa">Tampa, FL, United States</a></td>
+<td style="text-align: right">67.8</td>
+<td style="text-align: right">124.7</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Berlin">Berlin, Germany</a></td>
+<td style="text-align: right">67.5</td>
+<td style="text-align: right">122.6</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Austin">Austin, TX, United States</a></td>
+<td style="text-align: right">67.4</td>
+<td style="text-align: right">124.3</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/San-Antonio">San Antonio, TX, United States</a></td>
+<td style="text-align: right">67.4</td>
+<td style="text-align: right">123.3</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Ahmedabad">Ahmedabad, India</a></td>
+<td style="text-align: right">67.3</td>
+<td style="text-align: right">120.5</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Gothenburg">Gothenburg, Sweden</a></td>
+<td style="text-align: right">67.3</td>
+<td style="text-align: right">124.5</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/London-Canada">London, Canada</a></td>
+<td style="text-align: right">67.3</td>
+<td style="text-align: right">122.6</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Atlanta">Atlanta, GA, United States</a></td>
+<td style="text-align: right">67.1</td>
+<td style="text-align: right">125.1</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Moscow">Moscow, Russia</a></td>
+<td style="text-align: right">67.1</td>
+<td style="text-align: right">119.9</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Ljubljana">Ljubljana, Slovenia</a></td>
 <td style="text-align: right">67.0</td>
-<td style="text-align: right">123.6</td>
+<td style="text-align: right">124.5</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -652,98 +664,104 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Seattle">Seattle, WA, United States</a></td>
-<td style="text-align: right">66.9</td>
-<td style="text-align: right">124.4</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Moscow">Moscow, Russia</a></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Delhi">Delhi, India</a></td>
 <td style="text-align: right">66.7</td>
-<td style="text-align: right">119.1</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Stockholm">Stockholm, Sweden</a></td>
-<td style="text-align: right">66.7</td>
-<td style="text-align: right">121.6</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Turin">Turin, Italy</a></td>
-<td style="text-align: right">66.6</td>
-<td style="text-align: right">122.3</td>
+<td style="text-align: right">119.8</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Victoria">Victoria, Canada</a></td>
 <td style="text-align: right">66.6</td>
-<td style="text-align: right">122.3</td>
+<td style="text-align: right">122.8</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Stockholm">Stockholm, Sweden</a></td>
+<td style="text-align: right">66.6</td>
+<td style="text-align: right">121.4</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Raleigh">Raleigh, NC, United States</a></td>
+<td style="text-align: right">66.5</td>
+<td style="text-align: right">123.5</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Phoenix">Phoenix, AZ, United States</a></td>
+<td style="text-align: right">66.5</td>
+<td style="text-align: right">123.8</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Halifax">Halifax, Canada</a></td>
+<td style="text-align: right">66.5</td>
+<td style="text-align: right">122.6</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Curitiba">Curitiba, Brazil</a></td>
+<td style="text-align: right">66.4</td>
+<td style="text-align: right">119.1</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Pretoria">Pretoria, South Africa</a></td>
 <td style="text-align: right">66.3</td>
-<td style="text-align: right">119.7</td>
+<td style="text-align: right">119.5</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Halifax">Halifax, Canada</a></td>
-<td style="text-align: right">66.3</td>
-<td style="text-align: right">122.0</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Curitiba">Curitiba, Brazil</a></td>
-<td style="text-align: right">65.9</td>
-<td style="text-align: right">118.1</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Bangalore">Bangalore, India</a></td>
-<td style="text-align: right">65.8</td>
-<td style="text-align: right">119.0</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Cluj-napoca">Cluj-Napoca, Romania</a></td>
-<td style="text-align: right">65.8</td>
-<td style="text-align: right">117.5</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Mexico-City">Mexico City, Mexico</a></td>
-<td style="text-align: right">65.7</td>
-<td style="text-align: right">117.7</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Turin">Turin, Italy</a></td>
+<td style="text-align: right">66.2</td>
+<td style="text-align: right">121.3</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Dallas">Dallas, TX, United States</a></td>
-<td style="text-align: right">65.6</td>
-<td style="text-align: right">121.1</td>
+<td style="text-align: right">66.1</td>
+<td style="text-align: right">122.0</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Mexico-City">Mexico City, Mexico</a></td>
+<td style="text-align: right">66.0</td>
+<td style="text-align: right">118.1</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Hong-Kong">Hong Kong, Hong Kong (China)</a></td>
-<td style="text-align: right">65.6</td>
-<td style="text-align: right">119.1</td>
+<td style="text-align: right">66.0</td>
+<td style="text-align: right">119.9</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Cluj-napoca">Cluj-Napoca, Romania</a></td>
+<td style="text-align: right">65.7</td>
+<td style="text-align: right">117.4</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Pune">Pune, India</a></td>
+<td style="text-align: right">65.7</td>
+<td style="text-align: right">118.0</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Hyderabad">Hyderabad, India</a></td>
-<td style="text-align: right">65.5</td>
-<td style="text-align: right">118.4</td>
+<td style="text-align: right">65.3</td>
+<td style="text-align: right">118.0</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Ahmedabad">Ahmedabad, India</a></td>
-<td style="text-align: right">65.4</td>
-<td style="text-align: right">116.7</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Mumbai">Mumbai, India</a></td>
+<td style="text-align: right">65.3</td>
+<td style="text-align: right">117.1</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Chicago">Chicago, IL, United States</a></td>
-<td style="text-align: right">65.3</td>
+<td style="text-align: right">65.2</td>
 <td style="text-align: right">121.6</td>
 </tr>
 <tr style="width: 100%">
@@ -754,27 +772,33 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Delhi">Delhi, India</a></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Santiago">Santiago, Chile</a></td>
 <td style="text-align: right">65.2</td>
-<td style="text-align: right">116.8</td>
+<td style="text-align: right">120.2</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Mumbai">Mumbai, India</a></td>
-<td style="text-align: right">65.1</td>
-<td style="text-align: right">116.7</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Washington">Washington, DC, United States</a></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Gurgaon">Gurgaon, India</a></td>
 <td style="text-align: right">65.1</td>
 <td style="text-align: right">119.5</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Amman">Amman, Jordan</a></td>
+<td style="text-align: right">65.1</td>
+<td style="text-align: right">116.9</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Zagreb">Zagreb, Croatia</a></td>
 <td style="text-align: right">65.0</td>
-<td style="text-align: right">116.8</td>
+<td style="text-align: right">119.2</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Bangalore">Bangalore, India</a></td>
+<td style="text-align: right">65.0</td>
+<td style="text-align: right">117.6</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -784,27 +808,27 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Santiago">Santiago, Chile</a></td>
-<td style="text-align: right">64.9</td>
-<td style="text-align: right">119.5</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Riyadh">Riyadh, Saudi Arabia</a></td>
+<td style="text-align: right">64.7</td>
+<td style="text-align: right">116.1</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Belo-Horizonte">Belo Horizonte, Brazil</a></td>
+<td style="text-align: right">64.7</td>
+<td style="text-align: right">116.4</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Beirut">Beirut, Lebanon</a></td>
-<td style="text-align: right">64.8</td>
-<td style="text-align: right">121.8</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Zagreb">Zagreb, Croatia</a></td>
-<td style="text-align: right">64.7</td>
-<td style="text-align: right">118.3</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Riyadh">Riyadh, Saudi Arabia</a></td>
 <td style="text-align: right">64.6</td>
-<td style="text-align: right">115.8</td>
+<td style="text-align: right">121.3</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Shanghai">Shanghai, China</a></td>
+<td style="text-align: right">64.4</td>
+<td style="text-align: right">115.4</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -814,51 +838,45 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Saskatoon">Saskatoon, Canada</a></td>
-<td style="text-align: right">64.2</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Wellington">Wellington, New Zealand</a></td>
+<td style="text-align: right">64.3</td>
 <td style="text-align: right">115.8</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Shanghai">Shanghai, China</a></td>
-<td style="text-align: right">64.2</td>
-<td style="text-align: right">115.0</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Belo-Horizonte">Belo Horizonte, Brazil</a></td>
-<td style="text-align: right">64.2</td>
-<td style="text-align: right">115.7</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Varna">Varna, Bulgaria</a></td>
-<td style="text-align: right">64.2</td>
-<td style="text-align: right">114.9</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Guatemala-City">Guatemala City, Guatemala</a></td>
-<td style="text-align: right">64.1</td>
-<td style="text-align: right">113.9</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Recife">Recife, Brazil</a></td>
+<td style="text-align: right">64.3</td>
+<td style="text-align: right">117.3</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/San-Francisco">San Francisco, CA, United States</a></td>
-<td style="text-align: right">64.0</td>
-<td style="text-align: right">118.2</td>
+<td style="text-align: right">64.2</td>
+<td style="text-align: right">118.5</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Miami">Miami, FL, United States</a></td>
-<td style="text-align: right">63.9</td>
-<td style="text-align: right">120.2</td>
+<td style="text-align: right">64.0</td>
+<td style="text-align: right">120.1</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Pune">Pune, India</a></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Saskatoon">Saskatoon, Canada</a></td>
+<td style="text-align: right">63.9</td>
+<td style="text-align: right">115.2</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Varna">Varna, Bulgaria</a></td>
 <td style="text-align: right">63.8</td>
-<td style="text-align: right">114.4</td>
+<td style="text-align: right">114.2</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Rome">Rome, Italy</a></td>
+<td style="text-align: right">63.8</td>
+<td style="text-align: right">116.5</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -868,87 +886,63 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Gurgaon">Gurgaon, India</a></td>
-<td style="text-align: right">63.6</td>
-<td style="text-align: right">115.8</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Wellington">Wellington, New Zealand</a></td>
-<td style="text-align: right">63.6</td>
-<td style="text-align: right">113.9</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/San-Juan">San Juan, Puerto Rico</a></td>
 <td style="text-align: right">63.5</td>
-<td style="text-align: right">115.9</td>
+<td style="text-align: right">115.6</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Rome">Rome, Italy</a></td>
-<td style="text-align: right">63.3</td>
-<td style="text-align: right">115.3</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Muscat">Muscat, Oman</a></td>
+<td style="text-align: right">63.4</td>
+<td style="text-align: right">113.2</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/San-Jose">San Jose, CA, United States</a></td>
-<td style="text-align: right">63.1</td>
-<td style="text-align: right">114.1</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Thiruvananthapuram">Thiruvananthapuram, India</a></td>
+<td style="text-align: right">62.8</td>
+<td style="text-align: right">111.1</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Manila">Manila, Philippines</a></td>
-<td style="text-align: right">63.0</td>
-<td style="text-align: right">112.3</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Mangalore">Mangalore, India</a></td>
-<td style="text-align: right">62.9</td>
-<td style="text-align: right">110.8</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Montreal">Montreal, Canada</a></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/New-York">New York, NY, United States</a></td>
 <td style="text-align: right">62.7</td>
 <td style="text-align: right">116.9</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/San-Jose-Costa-Rica">San Jose, Costa Rica</a></td>
-<td style="text-align: right">62.6</td>
-<td style="text-align: right">113.7</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/New-York">New York, NY, United States</a></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Montreal">Montreal, Canada</a></td>
 <td style="text-align: right">62.5</td>
-<td style="text-align: right">116.6</td>
+<td style="text-align: right">116.7</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Orlando">Orlando, FL, United States</a></td>
-<td style="text-align: right">62.4</td>
-<td style="text-align: right">114.4</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Thiruvananthapuram">Thiruvananthapuram, India</a></td>
-<td style="text-align: right">62.4</td>
-<td style="text-align: right">110.2</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Lahore">Lahore, Pakistan</a></td>
-<td style="text-align: right">62.4</td>
-<td style="text-align: right">111.3</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Manila">Manila, Philippines</a></td>
+<td style="text-align: right">62.5</td>
+<td style="text-align: right">111.2</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Nairobi">Nairobi, Kenya</a></td>
+<td style="text-align: right">62.1</td>
+<td style="text-align: right">110.6</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Mangalore">Mangalore, India</a></td>
 <td style="text-align: right">62.0</td>
-<td style="text-align: right">110.3</td>
+<td style="text-align: right">109.1</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/San-Jose-Costa-Rica">San Jose, Costa Rica</a></td>
+<td style="text-align: right">61.9</td>
+<td style="text-align: right">112.4</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Lahore">Lahore, Pakistan</a></td>
+<td style="text-align: right">61.6</td>
+<td style="text-align: right">109.7</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -958,327 +952,333 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Ho-Chi-Minh-City">Ho Chi Minh City, Vietnam</a></td>
+<td style="text-align: right">61.1</td>
+<td style="text-align: right">107.5</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Los-Angeles">Los Angeles, CA, United States</a></td>
-<td style="text-align: right">61.2</td>
-<td style="text-align: right">112.8</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Lviv">Lviv, Ukraine</a></td>
 <td style="text-align: right">61.1</td>
-<td style="text-align: right">108.8</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Riga">Riga, Latvia</a></td>
-<td style="text-align: right">61.1</td>
-<td style="text-align: right">109.3</td>
+<td style="text-align: right">112.6</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Saint-Petersburg">Saint Petersburg, Russia</a></td>
-<td style="text-align: right">60.6</td>
-<td style="text-align: right">107.2</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Johannesburg">Johannesburg, South Africa</a></td>
-<td style="text-align: right">60.5</td>
-<td style="text-align: right">108.5</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Ho-Chi-Minh-City">Ho Chi Minh City, Vietnam</a></td>
-<td style="text-align: right">60.3</td>
-<td style="text-align: right">105.7</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Kolkata">Kolkata, India</a></td>
-<td style="text-align: right">60.0</td>
-<td style="text-align: right">106.7</td>
+<td style="text-align: right">61.1</td>
+<td style="text-align: right">108.2</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Sarajevo">Sarajevo, Bosnia And Herzegovina</a></td>
-<td style="text-align: right">59.8</td>
-<td style="text-align: right">107.8</td>
+<td style="text-align: right">61.0</td>
+<td style="text-align: right">109.9</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Sao-Paulo">Sao Paulo, Brazil</a></td>
-<td style="text-align: right">59.7</td>
-<td style="text-align: right">108.1</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Lviv">Lviv, Ukraine</a></td>
+<td style="text-align: right">61.0</td>
+<td style="text-align: right">108.5</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Panama-City">Panama City, Panama</a></td>
-<td style="text-align: right">59.5</td>
-<td style="text-align: right">105.8</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Orlando">Orlando, FL, United States</a></td>
+<td style="text-align: right">60.7</td>
+<td style="text-align: right">111.1</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Warsaw">Warsaw, Poland</a></td>
-<td style="text-align: right">59.5</td>
-<td style="text-align: right">106.8</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Riga">Riga, Latvia</a></td>
+<td style="text-align: right">60.5</td>
+<td style="text-align: right">108.2</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Jeddah-Jiddah">Jeddah (Jiddah), Saudi Arabia</a></td>
-<td style="text-align: right">59.4</td>
-<td style="text-align: right">105.9</td>
+<td style="text-align: right">60.4</td>
+<td style="text-align: right">107.8</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Johannesburg">Johannesburg, South Africa</a></td>
+<td style="text-align: right">60.4</td>
+<td style="text-align: right">108.4</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Sao-Paulo">Sao Paulo, Brazil</a></td>
+<td style="text-align: right">59.9</td>
+<td style="text-align: right">108.4</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Kolkata">Kolkata, India</a></td>
+<td style="text-align: right">59.8</td>
+<td style="text-align: right">106.0</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Panama-City">Panama City, Panama</a></td>
+<td style="text-align: right">58.8</td>
+<td style="text-align: right">104.4</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Durban">Durban, South Africa</a></td>
 <td style="text-align: right">58.6</td>
-<td style="text-align: right">104.0</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Lima">Lima, Peru</a></td>
-<td style="text-align: right">58.2</td>
-<td style="text-align: right">102.2</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Kuwait-City">Kuwait City, Kuwait</a></td>
-<td style="text-align: right">57.9</td>
-<td style="text-align: right">103.0</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Wroclaw">Wroclaw, Poland</a></td>
-<td style="text-align: right">57.9</td>
-<td style="text-align: right">102.7</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Kiev">Kiev (Kyiv), Ukraine</a></td>
-<td style="text-align: right">57.9</td>
-<td style="text-align: right">101.8</td>
+<td style="text-align: right">103.9</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Sofia">Sofia, Bulgaria</a></td>
-<td style="text-align: right">57.8</td>
-<td style="text-align: right">102.9</td>
+<td style="text-align: right">58.5</td>
+<td style="text-align: right">104.1</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Hanoi">Hanoi, Vietnam</a></td>
-<td style="text-align: right">57.6</td>
-<td style="text-align: right">100.8</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Warsaw">Warsaw, Poland</a></td>
+<td style="text-align: right">58.4</td>
+<td style="text-align: right">104.5</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Cork">Cork, Ireland</a></td>
-<td style="text-align: right">57.4</td>
-<td style="text-align: right">103.8</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Lima">Lima, Peru</a></td>
+<td style="text-align: right">58.1</td>
+<td style="text-align: right">102.0</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Krakow-Cracow">Krakow (Cracow), Poland</a></td>
+<td style="text-align: right">57.8</td>
+<td style="text-align: right">103.4</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Kiev">Kiev (Kyiv), Ukraine</a></td>
+<td style="text-align: right">57.8</td>
+<td style="text-align: right">101.5</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Kuwait-City">Kuwait City, Kuwait</a></td>
+<td style="text-align: right">57.8</td>
+<td style="text-align: right">102.6</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Hanoi">Hanoi, Vietnam</a></td>
+<td style="text-align: right">57.7</td>
+<td style="text-align: right">101.1</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Tunis">Tunis, Tunisia</a></td>
+<td style="text-align: right">57.5</td>
+<td style="text-align: right">101.8</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Wroclaw">Wroclaw, Poland</a></td>
+<td style="text-align: right">57.4</td>
+<td style="text-align: right">101.6</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Yerevan">Yerevan, Armenia</a></td>
 <td style="text-align: right">57.3</td>
-<td style="text-align: right">102.4</td>
+<td style="text-align: right">101.0</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Jakarta">Jakarta, Indonesia</a></td>
+<td style="text-align: right">57.2</td>
+<td style="text-align: right">101.0</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Algiers">Algiers, Algeria</a></td>
+<td style="text-align: right">57.1</td>
+<td style="text-align: right">103.9</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Athens">Athens, Greece</a></td>
+<td style="text-align: right">57.0</td>
+<td style="text-align: right">101.6</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Novosibirsk">Novosibirsk, Russia</a></td>
 <td style="text-align: right">56.9</td>
-<td style="text-align: right">100.8</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Athens">Athens, Greece</a></td>
-<td style="text-align: right">56.8</td>
-<td style="text-align: right">101.1</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Yerevan">Yerevan, Armenia</a></td>
-<td style="text-align: right">56.8</td>
-<td style="text-align: right">99.8</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Algiers">Algiers, Algeria</a></td>
-<td style="text-align: right">56.8</td>
-<td style="text-align: right">103.2</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Jakarta">Jakarta, Indonesia</a></td>
-<td style="text-align: right">56.8</td>
-<td style="text-align: right">100.3</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Tunis">Tunis, Tunisia</a></td>
-<td style="text-align: right">56.7</td>
-<td style="text-align: right">100.3</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Karachi">Karachi, Pakistan</a></td>
-<td style="text-align: right">56.3</td>
-<td style="text-align: right">99.2</td>
+<td style="text-align: right">100.9</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Nicosia">Nicosia, Cyprus</a></td>
-<td style="text-align: right">55.9</td>
-<td style="text-align: right">98.3</td>
+<td style="text-align: right">56.6</td>
+<td style="text-align: right">99.6</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Karachi">Karachi, Pakistan</a></td>
+<td style="text-align: right">56.5</td>
+<td style="text-align: right">99.7</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Cork">Cork, Ireland</a></td>
+<td style="text-align: right">56.0</td>
+<td style="text-align: right">101.2</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Bratislava">Bratislava, Slovakia</a></td>
-<td style="text-align: right">55.8</td>
-<td style="text-align: right">100.1</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Kathmandu">Kathmandu, Nepal</a></td>
-<td style="text-align: right">55.8</td>
-<td style="text-align: right">97.7</td>
+<td style="text-align: right">55.6</td>
+<td style="text-align: right">99.6</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Thessaloniki">Thessaloniki, Greece</a></td>
-<td style="text-align: right">54.8</td>
-<td style="text-align: right">97.6</td>
+<td style="text-align: right">55.4</td>
+<td style="text-align: right">98.7</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Bucharest">Bucharest, Romania</a></td>
-<td style="text-align: right">54.7</td>
-<td style="text-align: right">96.5</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Las-Vegas">Las Vegas, NV, United States</a></td>
-<td style="text-align: right">54.5</td>
-<td style="text-align: right">97.7</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Skopje">Skopje, North Macedonia</a></td>
-<td style="text-align: right">54.4</td>
-<td style="text-align: right">97.6</td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Kathmandu">Kathmandu, Nepal</a></td>
+<td style="text-align: right">55.3</td>
+<td style="text-align: right">96.7</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Tbilisi">Tbilisi, Georgia</a></td>
-<td style="text-align: right">54.0</td>
-<td style="text-align: right">94.3</td>
+<td style="text-align: right">55.1</td>
+<td style="text-align: right">96.2</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Santo-Domingo">Santo Domingo, Dominican Republic</a></td>
+<td style="text-align: right">54.9</td>
+<td style="text-align: right">96.0</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Bucharest">Bucharest, Romania</a></td>
+<td style="text-align: right">54.8</td>
+<td style="text-align: right">96.6</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Skopje">Skopje, North Macedonia</a></td>
+<td style="text-align: right">54.6</td>
+<td style="text-align: right">97.9</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Las-Vegas">Las Vegas, NV, United States</a></td>
+<td style="text-align: right">54.1</td>
+<td style="text-align: right">96.6</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Yekaterinburg">Yekaterinburg, Russia</a></td>
+<td style="text-align: right">53.9</td>
+<td style="text-align: right">94.9</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Dnipropetrovsk">Dnipro, Ukraine</a></td>
+<td style="text-align: right">53.7</td>
+<td style="text-align: right">93.5</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Belgrade">Belgrade, Serbia</a></td>
-<td style="text-align: right">53.2</td>
-<td style="text-align: right">95.0</td>
+<td style="text-align: right">53.4</td>
+<td style="text-align: right">95.2</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Tehran">Tehran, Iran</a></td>
 <td style="text-align: right">53.2</td>
-<td style="text-align: right">93.0</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Dnipropetrovsk">Dnipro, Ukraine</a></td>
-<td style="text-align: right">52.9</td>
-<td style="text-align: right">92.1</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Yekaterinburg">Yekaterinburg, Russia</a></td>
-<td style="text-align: right">52.3</td>
-<td style="text-align: right">92.5</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Brasilia">Brasilia, Brazil</a></td>
-<td style="text-align: right">52.3</td>
-<td style="text-align: right">92.6</td>
+<td style="text-align: right">92.9</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Budapest">Budapest, Hungary</a></td>
-<td style="text-align: right">52.3</td>
-<td style="text-align: right">93.6</td>
+<td style="text-align: right">52.1</td>
+<td style="text-align: right">93.5</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Brasilia">Brasilia, Brazil</a></td>
+<td style="text-align: right">51.8</td>
+<td style="text-align: right">91.7</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Limassol">Limassol, Cyprus</a></td>
-<td style="text-align: right">52.2</td>
-<td style="text-align: right">90.8</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Gdansk">Gdansk, Poland</a></td>
-<td style="text-align: right">51.6</td>
-<td style="text-align: right">90.1</td>
+<td style="text-align: right">51.3</td>
+<td style="text-align: right">89.0</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Dublin">Dublin, Ireland</a></td>
-<td style="text-align: right">51.3</td>
-<td style="text-align: right">94.4</td>
+<td style="text-align: right">51.1</td>
+<td style="text-align: right">94.0</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Gdansk">Gdansk, Poland</a></td>
+<td style="text-align: right">51.0</td>
+<td style="text-align: right">89.0</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Odesa">Odessa (Odesa), Ukraine</a></td>
-<td style="text-align: right">50.8</td>
-<td style="text-align: right">89.4</td>
+<td style="text-align: right">51.0</td>
+<td style="text-align: right">89.7</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Novi-Sad">Novi Sad, Serbia</a></td>
-<td style="text-align: right">49.4</td>
-<td style="text-align: right">89.4</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Almaty">Almaty, Kazakhstan</a></td>
-<td style="text-align: right">49.1</td>
-<td style="text-align: right">86.7</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Minsk">Minsk, Belarus</a></td>
-<td style="text-align: right">48.8</td>
-<td style="text-align: right">86.4</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Tirana">Tirana, Albania</a></td>
-<td style="text-align: right">48.3</td>
-<td style="text-align: right">83.7</td>
+<td style="text-align: right">49.9</td>
+<td style="text-align: right">90.6</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Kharkiv">Kharkiv, Ukraine</a></td>
-<td style="text-align: right">48.1</td>
-<td style="text-align: right">83.1</td>
+<td style="text-align: right">49.2</td>
+<td style="text-align: right">85.2</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Minsk">Minsk, Belarus</a></td>
+<td style="text-align: right">49.0</td>
+<td style="text-align: right">86.9</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Almaty">Almaty, Kazakhstan</a></td>
+<td style="text-align: right">48.7</td>
+<td style="text-align: right">85.9</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Tirana">Tirana, Albania</a></td>
+<td style="text-align: right">47.8</td>
+<td style="text-align: right">82.6</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Baku">Baku, Azerbaijan</a></td>
-<td style="text-align: right">47.3</td>
-<td style="text-align: right">82.1</td>
+<td style="text-align: right">47.7</td>
+<td style="text-align: right">82.9</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Lagos">Lagos, Nigeria</a></td>
-<td style="text-align: right">47.2</td>
-<td style="text-align: right">81.1</td>
-</tr>
-<tr style="width: 100%">
-<td></td>
-<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Rio-De-Janeiro">Rio de Janeiro, Brazil</a></td>
-<td style="text-align: right">46.0</td>
-<td style="text-align: right">80.7</td>
+<td style="text-align: right">47.5</td>
+<td style="text-align: right">81.7</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
@@ -1288,15 +1288,21 @@
 </tr>
 <tr style="width: 100%">
 <td></td>
+<td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Rio-De-Janeiro">Rio de Janeiro, Brazil</a></td>
+<td style="text-align: right">45.5</td>
+<td style="text-align: right">79.9</td>
+</tr>
+<tr style="width: 100%">
+<td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Casablanca">Casablanca, Morocco</a></td>
-<td style="text-align: right">44.8</td>
-<td style="text-align: right">76.5</td>
+<td style="text-align: right">45.0</td>
+<td style="text-align: right">77.1</td>
 </tr>
 <tr style="width: 100%">
 <td></td>
 <td class="cityOrCountryInIndicesTable"><a class="discreet_link" href="https://www.numbeo.com/health-care/in/Dhaka">Dhaka, Bangladesh</a></td>
-<td style="text-align: right">40.0</td>
-<td style="text-align: right">68.6</td>
+<td style="text-align: right">40.2</td>
+<td style="text-align: right">68.7</td>
 </tr>
 <tr style="width: 100%">
 <td></td>

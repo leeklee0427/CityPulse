@@ -1,32 +1,31 @@
 City,State,Medical
-Madison,WI,135.8
-Honolulu,HI,131.6
-Boston,MA,133.3
-Minneapolis,MN,130.3
-Charlotte,NC,129.4
-Portland,OR,127.7
-Denver,CO,128.8
-Houston,TX,127.1
-Sacramento,CA,124.4
-Raleigh,NC,127.5
-Philadelphia,PA,124.9
-Salt Lake City,UT,127.4
-Atlanta,GA,126.6
-Columbus,OH,125.3
-Austin,TX,125.2
-San Antonio,TX,124.0
-Phoenix,AZ,125.5
-San Diego,CA,124.4
-Tampa,FL,123.6
-Seattle,WA,124.4
-Dallas,TX,121.1
+Madison,WI,141.6
+Boston,MA,134.3
+Honolulu,HI,132.7
+Portland,OR,132.8
+Minneapolis,MN,133.6
+Seattle,WA,132.8
+Columbus,OH,131.6
+Philadelphia,PA,128.4
+Washington,DC,129.6
+Denver,CO,130.5
+Charlotte,NC,128.9
+Houston,TX,127.3
+Sacramento,CA,124.3
+Salt Lake City,UT,128.9
+San Diego,CA,125.7
+Tampa,FL,124.7
+Austin,TX,124.3
+San Antonio,TX,123.3
+Atlanta,GA,125.1
+Raleigh,NC,123.5
+Phoenix,AZ,123.8
+Dallas,TX,122.0
 Chicago,IL,121.6
-Washington,DC,119.5
-San Francisco,CA,118.2
-Miami,FL,120.2
-San Jose,CA,114.1
-New York,NY,116.6
-Orlando,FL,114.4
+San Francisco,CA,118.5
+Miami,FL,120.1
+New York,NY,116.9
 Tucson,AZ,110.5
-Los Angeles,CA,112.8
-Las Vegas,NV,97.7
+Los Angeles,CA,112.6
+Orlando,FL,111.1
+Las Vegas,NV,96.6
